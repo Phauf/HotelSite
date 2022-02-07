@@ -1,0 +1,1207 @@
+[
+    {
+        "name": "a5hleyrich/wp-background-processing",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/A5hleyRich/wp-background-processing.git",
+            "reference": "1f070aab5058dbaf45d5435a343033ddd8a641b1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/A5hleyRich/wp-background-processing/zipball/1f070aab5058dbaf45d5435a343033ddd8a641b1",
+            "reference": "1f070aab5058dbaf45d5435a343033ddd8a641b1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2018-02-12T09:24:05+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "classes/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-only"
+        ],
+        "authors": [
+            {
+                "name": "Ashley Rich",
+                "email": "hello@ashleyrich.com"
+            }
+        ],
+        "description": "WP Background Processing can be used to fire off non-blocking asynchronous requests or as a background processing tool, allowing you to queue tasks."
+    },
+    {
+        "name": "awethemes/container",
+        "version": "v5.4.36",
+        "version_normalized": "5.4.36.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/awethemes/container.git",
+            "reference": "6034bff7e3f7094adb5dcbaeba2e40d469ea9cdc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/awethemes/container/zipball/6034bff7e3f7094adb5dcbaeba2e40d469ea9cdc",
+            "reference": "6034bff7e3f7094adb5dcbaeba2e40d469ea9cdc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.4"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9.7",
+            "phpunit/phpunit": "^5.7"
+        },
+        "time": "2017-09-25T03:21:27+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Illuminate\\": "src/Illuminate"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Taylor Otwell",
+                "email": "taylorotwell@gmail.com"
+            }
+        ],
+        "description": "Illuminate Container without needing require huge contracts.",
+        "keywords": [
+            "container",
+            "laravel"
+        ]
+    },
+    {
+        "name": "awethemes/wp-object",
+        "version": "1.0.3",
+        "version_normalized": "1.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/awethemes/wp-object.git",
+            "reference": "41629ca05721430632ee5863611aad9e1b0ad7c1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/awethemes/wp-object/zipball/41629ca05721430632ee5863611aad9e1b0ad7c1",
+            "reference": "41629ca05721430632ee5863611aad9e1b0ad7c1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2018-07-14T09:44:01+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Awethemes\\WP_Object\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "Completely OOP for WordPress objects",
+        "abandoned": "wplibs/model"
+    },
+    {
+        "name": "cakephp/chronos",
+        "version": "1.2.8",
+        "version_normalized": "1.2.8.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cakephp/chronos.git",
+            "reference": "0292f06e8cc23fc82f0574889da2d8bf27b613c1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/cakephp/chronos/zipball/0292f06e8cc23fc82f0574889da2d8bf27b613c1",
+            "reference": "0292f06e8cc23fc82f0574889da2d8bf27b613c1",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.5.9|^7"
+        },
+        "require-dev": {
+            "athletic/athletic": "~0.1",
+            "cakephp/cakephp-codesniffer": "^3.0",
+            "phpbench/phpbench": "@dev",
+            "phpstan/phpstan": "^0.6.4",
+            "phpunit/phpunit": "<6.0 || ^7.0"
+        },
+        "time": "2019-06-17T15:19:18+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Cake\\Chronos\\": "src/"
+            },
+            "files": [
+                "src/carbon_compat.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Brian Nesbitt",
+                "email": "brian@nesbot.com",
+                "homepage": "http://nesbot.com"
+            },
+            {
+                "name": "The CakePHP Team",
+                "homepage": "http://cakephp.org"
+            }
+        ],
+        "description": "A simple API extension for DateTime.",
+        "homepage": "http://cakephp.org",
+        "keywords": [
+            "date",
+            "datetime",
+            "time"
+        ]
+    },
+    {
+        "name": "cmb2/cmb2",
+        "version": "v2.6.0",
+        "version_normalized": "2.6.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/CMB2/CMB2.git",
+            "reference": "008d9b83263d971d6bd41c27e31113db852d5ef3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/CMB2/CMB2/zipball/008d9b83263d971d6bd41c27e31113db852d5ef3",
+            "reference": "008d9b83263d971d6bd41c27e31113db852d5ef3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">5.2.4"
+        },
+        "require-dev": {
+            "apigen/apigen": "4.1.2",
+            "nette/utils": "2.5.3",
+            "phpunit/phpunit": "6.5.13"
+        },
+        "suggest": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2019-01-21T04:30:08+00:00",
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "WebDevStudios",
+                "email": "contact@webdevstudios.com",
+                "homepage": "https://github.com/WebDevStudios",
+                "role": "Developer"
+            },
+            {
+                "name": "Justin Sternberg",
+                "email": "justin@dsgnwrks.pro",
+                "homepage": "https://dsgnwrks.pro",
+                "role": "Developer"
+            }
+        ],
+        "description": "CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind.",
+        "homepage": "https://github.com/CMB2/CMB2",
+        "keywords": [
+            "metabox",
+            "plugin",
+            "wordpress"
+        ]
+    },
+    {
+        "name": "league/period",
+        "version": "3.4.0",
+        "version_normalized": "3.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thephpleague/period.git",
+            "reference": "280b54d737b4d9d804d19f865a6496b82d1cee2a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thephpleague/period/zipball/280b54d737b4d9d804d19f865a6496b82d1cee2a",
+            "reference": "280b54d737b4d9d804d19f865a6496b82d1cee2a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9"
+        },
+        "require-dev": {
+            "friendsofphp/php-cs-fixer": "^1.10",
+            "phpunit/phpunit": "^4.0"
+        },
+        "time": "2017-11-17T11:28:33+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.2-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "League\\Period\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ignace Nyamagana Butera",
+                "email": "nyamsprod@gmail.com",
+                "homepage": "https://github.com/nyamsprod/",
+                "role": "Developer"
+            }
+        ],
+        "description": "A time range immutable value object",
+        "homepage": "http://period.thephpleague.com",
+        "keywords": [
+            "date",
+            "dateinterval",
+            "dateperiod",
+            "datetime",
+            "interval",
+            "range",
+            "time"
+        ]
+    },
+    {
+        "name": "monolog/monolog",
+        "version": "1.25.1",
+        "version_normalized": "1.25.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Seldaek/monolog.git",
+            "reference": "70e65a5470a42cfec1a7da00d30edb6e617e8dcf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/70e65a5470a42cfec1a7da00d30edb6e617e8dcf",
+            "reference": "70e65a5470a42cfec1a7da00d30edb6e617e8dcf",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0",
+            "psr/log": "~1.0"
+        },
+        "provide": {
+            "psr/log-implementation": "1.0.0"
+        },
+        "require-dev": {
+            "aws/aws-sdk-php": "^2.4.9 || ^3.0",
+            "doctrine/couchdb": "~1.0@dev",
+            "graylog2/gelf-php": "~1.0",
+            "jakub-onderka/php-parallel-lint": "0.9",
+            "php-amqplib/php-amqplib": "~2.4",
+            "php-console/php-console": "^3.1.3",
+            "phpunit/phpunit": "~4.5",
+            "phpunit/phpunit-mock-objects": "2.3.0",
+            "ruflin/elastica": ">=0.90 <3.0",
+            "sentry/sentry": "^0.13",
+            "swiftmailer/swiftmailer": "^5.3|^6.0"
+        },
+        "suggest": {
+            "aws/aws-sdk-php": "Allow sending log messages to AWS services like DynamoDB",
+            "doctrine/couchdb": "Allow sending log messages to a CouchDB server",
+            "ext-amqp": "Allow sending log messages to an AMQP server (1.0+ required)",
+            "ext-mongo": "Allow sending log messages to a MongoDB server",
+            "graylog2/gelf-php": "Allow sending log messages to a GrayLog2 server",
+            "mongodb/mongodb": "Allow sending log messages to a MongoDB server via PHP Driver",
+            "php-amqplib/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib",
+            "php-console/php-console": "Allow sending log messages to Google Chrome",
+            "rollbar/rollbar": "Allow sending log messages to Rollbar",
+            "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
+            "sentry/sentry": "Allow sending log messages to a Sentry server"
+        },
+        "time": "2019-09-06T13:49:17+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Monolog\\": "src/Monolog"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jordi Boggiano",
+                "email": "j.boggiano@seld.be",
+                "homepage": "http://seld.be"
+            }
+        ],
+        "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+        "homepage": "http://github.com/Seldaek/monolog",
+        "keywords": [
+            "log",
+            "logging",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "mrjgreen/database",
+        "version": "2.5.0",
+        "version_normalized": "2.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mrjgreen/database.git",
+            "reference": "c1d53c172606fd7ee2e863b75f98cdc9c532b385"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mrjgreen/database/zipball/c1d53c172606fd7ee2e863b75f98cdc9c532b385",
+            "reference": "c1d53c172606fd7ee2e863b75f98cdc9c532b385",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0",
+            "psr/log": "~1.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "*",
+            "phpunit/phpunit": "*",
+            "satooshi/php-coveralls": "dev-master"
+        },
+        "time": "2016-01-31T17:24:33+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Database\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Joe Green",
+                "email": "joe.green0991@gmail.com"
+            }
+        ],
+        "description": "Expressive Database Layer for PHP - Based on Illuminate/Database",
+        "keywords": [
+            "database",
+            "dbal",
+            "query builder",
+            "sql"
+        ]
+    },
+    {
+        "name": "nikic/fast-route",
+        "version": "v1.3.0",
+        "version_normalized": "1.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/nikic/FastRoute.git",
+            "reference": "181d480e08d9476e61381e04a71b34dc0432e812"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/nikic/FastRoute/zipball/181d480e08d9476e61381e04a71b34dc0432e812",
+            "reference": "181d480e08d9476e61381e04a71b34dc0432e812",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8.35|~5.7"
+        },
+        "time": "2018-02-13T20:26:39+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "FastRoute\\": "src/"
+            },
+            "files": [
+                "src/functions.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Nikita Popov",
+                "email": "nikic@php.net"
+            }
+        ],
+        "description": "Fast request router for PHP",
+        "keywords": [
+            "router",
+            "routing"
+        ]
+    },
+    {
+        "name": "pelago/emogrifier",
+        "version": "v1.2.2",
+        "version_normalized": "1.2.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/MyIntervals/emogrifier.git",
+            "reference": "fef6a4d3a6cefb2fdc8e749a3f3a100ab43f883a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/MyIntervals/emogrifier/zipball/fef6a4d3a6cefb2fdc8e749a3f3a100ab43f883a",
+            "reference": "fef6a4d3a6cefb2fdc8e749a3f3a100ab43f883a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0,<=7.3.99"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.27",
+            "squizlabs/php_codesniffer": "^3.3.0"
+        },
+        "time": "2018-12-10T08:26:52+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Pelago\\": "Classes/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "John Reeve",
+                "email": "jreeve@pelagodesign.com"
+            },
+            {
+                "name": "Cameron Brooks"
+            },
+            {
+                "name": "Jaime Prado"
+            },
+            {
+                "name": "Oliver Klee",
+                "email": "github@oliverklee.de"
+            },
+            {
+                "name": "Zoli Szabó",
+                "email": "zoli.szabo+github@gmail.com"
+            },
+            {
+                "name": "Jake Hotson",
+                "email": "jake@qzdesign.co.uk"
+            }
+        ],
+        "description": "Converts CSS styles into inline style attributes in your HTML code",
+        "homepage": "https://www.myintervals.com/emogrifier.php",
+        "keywords": [
+            "css",
+            "email",
+            "pre-processing"
+        ]
+    },
+    {
+        "name": "psr/log",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+            "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-11-20T15:27:04+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Psr\\Log\\": "Psr/Log/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "homepage": "https://github.com/php-fig/log",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "roomify/bat",
+        "version": "1.2.0",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Roomify/bat.git",
+            "reference": "e8522d07c3f8b38c57216edcde126147839860f5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Roomify/bat/zipball/e8522d07c3f8b38c57216edcde126147839860f5",
+            "reference": "e8522d07c3f8b38c57216edcde126147839860f5",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "phpunit/dbunit": ">=1.2",
+            "phpunit/phpunit": "4.*",
+            "scrutinizer/ocular": "~1.1",
+            "squizlabs/php_codesniffer": "~2.3"
+        },
+        "time": "2017-10-22T17:07:25+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Roomify\\Bat\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Roomify",
+                "email": "hello@roomify.us",
+                "homepage": "https://roomify.us",
+                "role": "Developing Organization"
+            }
+        ],
+        "description": "A booking and availability management library",
+        "homepage": "https://github.com/roomify/bat",
+        "keywords": [
+            "availability management",
+            "bat",
+            "booking",
+            "booking engine",
+            "reservations",
+            "roomify",
+            "sharing economy"
+        ]
+    },
+    {
+        "name": "ruler/ruler",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bobthecow/Ruler.git",
+            "reference": "08d387c563033a4f35130cbfdea18984ebc82126"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bobthecow/Ruler/zipball/08d387c563033a4f35130cbfdea18984ebc82126",
+            "reference": "08d387c563033a4f35130cbfdea18984ebc82126",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8 | ^5.5 | ^6.5"
+        },
+        "time": "2018-08-02T03:39:12+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Ruler\\": "src/Ruler"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Justin Hileman",
+                "email": "justin@justinhileman.info",
+                "homepage": "http://justinhileman.com/"
+            }
+        ],
+        "description": "A simple stateless production rules engine for PHP 5.3.",
+        "homepage": "https://github.com/bobthecow/Ruler",
+        "keywords": [
+            "engine",
+            "rules"
+        ]
+    },
+    {
+        "name": "symfony/http-foundation",
+        "version": "v3.3.18",
+        "version_normalized": "3.3.18.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/http-foundation.git",
+            "reference": "88506c8c623d861d4733194efe9c0c317b593ad6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/http-foundation/zipball/88506c8c623d861d4733194efe9c0c317b593ad6",
+            "reference": "88506c8c623d861d4733194efe9c0c317b593ad6",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^5.5.9|>=7.0.8",
+            "symfony/polyfill-mbstring": "~1.1"
+        },
+        "require-dev": {
+            "symfony/expression-language": "~2.8|~3.0"
+        },
+        "time": "2018-08-01T12:50:04+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.3-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\HttpFoundation\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony HttpFoundation Component",
+        "homepage": "https://symfony.com"
+    },
+    {
+        "name": "symfony/polyfill-mbstring",
+        "version": "v1.12.0",
+        "version_normalized": "1.12.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-mbstring.git",
+            "reference": "b42a2f66e8f1b15ccf25652c3424265923eb4f17"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/b42a2f66e8f1b15ccf25652c3424265923eb4f17",
+            "reference": "b42a2f66e8f1b15ccf25652c3424265923eb4f17",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "suggest": {
+            "ext-mbstring": "For best performance"
+        },
+        "time": "2019-08-06T08:03:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.12-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Mbstring\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nicolas Grekas",
+                "email": "p@tchwork.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill for the Mbstring extension",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "mbstring",
+            "polyfill",
+            "portable",
+            "shim"
+        ]
+    },
+    {
+        "name": "tightenco/collect",
+        "version": "v5.4.33",
+        "version_normalized": "5.4.33.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tightenco/collect.git",
+            "reference": "73aa38b20d932f5e8f8ccf721e4c27f4304783d6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tightenco/collect/zipball/73aa38b20d932f5e8f8ccf721e4c27f4304783d6",
+            "reference": "73aa38b20d932f5e8f8ccf721e4c27f4304783d6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.4"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9.7",
+            "phpunit/phpunit": "^5.7"
+        },
+        "time": "2017-08-14T20:47:19+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/Illuminate/Support/helpers.php"
+            ],
+            "psr-4": {
+                "Illuminate\\": "src/Illuminate"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Taylor Otwell",
+                "email": "taylorotwell@gmail.com"
+            }
+        ],
+        "description": "Collect - Illuminate Collections as a separate package.",
+        "keywords": [
+            "collection",
+            "laravel"
+        ]
+    },
+    {
+        "name": "vlucas/valitron",
+        "version": "v1.4.7",
+        "version_normalized": "1.4.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/vlucas/valitron.git",
+            "reference": "a03072bed1679660200766d134507a30193eaf6d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/vlucas/valitron/zipball/a03072bed1679660200766d134507a30193eaf6d",
+            "reference": "a03072bed1679660200766d134507a30193eaf6d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8.35 || ^5.5 || ^6.5"
+        },
+        "suggest": {
+            "ext-mbstring": "It can support the multiple bytes string length."
+        },
+        "time": "2019-08-29T19:49:43+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Valitron\\": "src/Valitron"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Vance Lucas",
+                "email": "vance@vancelucas.com",
+                "homepage": "http://www.vancelucas.com"
+            }
+        ],
+        "description": "Simple, elegant, stand-alone validation library with NO dependencies",
+        "homepage": "http://github.com/vlucas/valitron",
+        "keywords": [
+            "valid",
+            "validation",
+            "validator"
+        ]
+    },
+    {
+        "name": "wplibs/database",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/database.git",
+            "reference": "4e763c06f584ea87975ed825770fc18cbcd2b373"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/database/zipball/4e763c06f584ea87975ed825770fc18cbcd2b373",
+            "reference": "4e763c06f584ea87975ed825770fc18cbcd2b373",
+            "shasum": ""
+        },
+        "require": {
+            "mrjgreen/database": "^2.5",
+            "php": ">=5.6.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.*|5.7.*"
+        },
+        "time": "2018-11-09T12:00:04+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\Database\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "WordPress database query builder, based on illuminate/database"
+    },
+    {
+        "name": "wplibs/form",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/form.git",
+            "reference": "91f4885fb29abdb760ab920a07912b5cf49a3f46"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/form/zipball/91f4885fb29abdb760ab920a07912b5cf49a3f46",
+            "reference": "91f4885fb29abdb760ab920a07912b5cf49a3f46",
+            "shasum": ""
+        },
+        "require": {
+            "cmb2/cmb2": "^2.5",
+            "php": ">=5.5.8",
+            "tightenco/collect": "5.2.*|5.3.*|5.4.*",
+            "vlucas/valitron": "^1.4",
+            "wplibs/http": "^1.0",
+            "wplibs/rules": "^1.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9|^1.0",
+            "phpunit/phpunit": "4.8.*|5.7.*"
+        },
+        "time": "2019-02-25T14:06:39+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\Form\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            }
+        ],
+        "description": "A WordPress Form component based on the CMB2"
+    },
+    {
+        "name": "wplibs/http",
+        "version": "1.0.3",
+        "version_normalized": "1.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/http.git",
+            "reference": "fb001eb3b2071adff21cd47d1cf5c4ee2aa3c18f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/http/zipball/fb001eb3b2071adff21cd47d1cf5c4ee2aa3c18f",
+            "reference": "fb001eb3b2071adff21cd47d1cf5c4ee2aa3c18f",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "php": ">=5.5.9",
+            "symfony/http-foundation": "^2.0|3.3.*",
+            "tightenco/collect": "5.2.*|5.3.*|5.4.*"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9|^1.0",
+            "phpunit/phpunit": "4.8.*|5.7.*",
+            "wplibs/session": "^1.0"
+        },
+        "suggest": {
+            "wplibs/session": "The missing session handler for WordPress"
+        },
+        "time": "2019-01-03T15:28:10+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\Http\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "The missing Http foundation in WordPress"
+    },
+    {
+        "name": "wplibs/rules",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/rules.git",
+            "reference": "359d8d87a5131b133ffc92c5ed2f7592af14f8aa"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/rules/zipball/359d8d87a5131b133ffc92c5ed2f7592af14f8aa",
+            "reference": "359d8d87a5131b133ffc92c5ed2f7592af14f8aa",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6.0",
+            "ruler/ruler": "dev-master"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.*|5.7.*"
+        },
+        "time": "2018-11-10T08:33:40+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\Rules\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "A simple rules engine made for WordPress",
+        "abandoned": true
+    },
+    {
+        "name": "wplibs/session",
+        "version": "1.0.3",
+        "version_normalized": "1.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/session.git",
+            "reference": "76d29e3f3b7d703e39c2497da214a42505fadd2b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/session/zipball/76d29e3f3b7d703e39c2497da214a42505fadd2b",
+            "reference": "76d29e3f3b7d703e39c2497da214a42505fadd2b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9",
+            "tightenco/collect": "5.2.*|5.3.*|5.4.*"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9|^1.0",
+            "phpunit/phpunit": "4.8.*|5.7.*"
+        },
+        "time": "2019-01-22T07:51:10+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\Session\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "The missing session handler in WordPress",
+        "abandoned": true
+    },
+    {
+        "name": "wplibs/view",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wplibs/view.git",
+            "reference": "37fdd36d8ef565dffa2bf782ef64a6cc96dbdea9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wplibs/view/zipball/37fdd36d8ef565dffa2bf782ef64a6cc96dbdea9",
+            "reference": "37fdd36d8ef565dffa2bf782ef64a6cc96dbdea9",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "^0.9|^1.0",
+            "phpunit/phpunit": "4.8.*|5.7.*",
+            "twig/twig": "^1.0"
+        },
+        "time": "2018-11-20T17:19:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "WPLibs\\View\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nguyen Van Anh",
+                "email": "anhskohbo@gmail.com"
+            },
+            {
+                "name": "awethemes",
+                "email": "support@awethemes.com"
+            }
+        ],
+        "description": "Simple template engine with twig support for WordPress"
+    }
+]

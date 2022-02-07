@@ -1,0 +1,16 @@
+@import "utils/mixins";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// Grid.
+@import "frontend/grid";
+
+.awebooking-container {
+  @include make-container;
+}
+
+// Screen text reader.
+.screen-reader-text {
+  @include sr-only;
+}

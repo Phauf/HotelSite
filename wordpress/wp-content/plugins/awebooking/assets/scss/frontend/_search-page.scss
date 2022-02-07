@@ -1,0 +1,36 @@
+.awebooking-check-availability .content-area {
+  width: 100%;
+}
+
+.search-rooms__form {
+  margin-bottom: 1.5em;
+}
+
+.search-rooms__box {
+  padding: 3.5em 0;
+  text-align: center;
+  border-radius: 1px;
+  background-color: #fbfbfb;
+  box-shadow: 0 2px 3px rgba($black, .08);
+
+  &-icon {
+    margin-bottom: 1em;
+
+    img {
+      display: inline-block;
+    }
+  }
+
+  &-title {
+    color: $gray-600;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+
+  &-text {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1em;
+    color: lighten($gray-600, 3%);
+  }
+}

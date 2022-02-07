@@ -1,0 +1,59 @@
+/*
+Error: File to import not found or unreadable: ~bootstrap/scss/functions.
+       Load paths:
+         S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/bourbon
+         S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/neat
+         S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/base
+        on line 10 of C:\Users\benny\OneDrive - University of Texas at San Antonio\CS 3773 Software Engineering\Project\wordpress\wp-content\plugins\awebooking\assets\scss\awebooking-colour.scss
+
+5: $background-color: #f2f5f7;
+6: 
+7: // Import mixins, functions, etc.
+8: @import "utils/mixins";
+9: 
+10: @import "~bootstrap/scss/functions";
+11: @import "~bootstrap/scss/variables";
+12: @import "~bootstrap/scss/mixins";
+13: 
+14: .awebooking-container {
+15:   margin: auto;
+
+Backtrace:
+C:\Users\benny\OneDrive - University of Texas at San Antonio\CS 3773 Software Engineering\Project\wordpress\wp-content\plugins\awebooking\assets\scss\awebooking-colour.scss:10
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:67:in `rescue in import'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:44:in `import'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:28:in `imported_file'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:37:in `css_import?'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:310:in `visit_import'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `block in with_base'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in `with_frame'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `with_base'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `map'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:157:in `visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:10:in `visit'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/root_node.rb:36:in `css_tree'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/tree/root_node.rb:20:in `render'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/engine.rb:290:in `render'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:396:in `run'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:63:in `process_result'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+S:/adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/2.7.0/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'
+S:/adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `load'
+S:/adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A        Load paths:\A          S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/bourbon\A          S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/neat\A          S:/adobe/Adobe Dreamweaver 2021/Configuration/SassFrameworks/base\A         on line 10 of C:\Users\benny\OneDrive - University of Texas at San Antonio\CS 3773 Software Engineering\Project\wordpress\wp-content\plugins\awebooking\assets\scss\awebooking-colour.scss\A \A 5: $background-color: #f2f5f7;\A 6: \A 7: // Import mixins, functions, etc.\A 8: @import \"utils/mixins\";\A 9: \A 10: @import \"~bootstrap/scss/functions\";\A 11: @import \"~bootstrap/scss/variables\";\A 12: @import \"~bootstrap/scss/mixins\";\A 13: \A 14: .awebooking-container {\A 15:   margin: auto;"; }

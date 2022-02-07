@@ -1,0 +1,4305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wbk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-09 18:04+0300\n"
+"PO-Revision-Date: 2019-02-01 15:41+0200\n"
+"Last-Translator: manos <studio.pi56@gmail.com>\n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: backend/classes\n"
+
+#: backend/class_wbk_backend.php:64
+#: backend/classes/class_wbk_backend_services.php:39
+#: backend/solo-framework/core/class_slf_table.php:638
+#: backend/solo-framework/core/class_slf_table.php:659 webba-booking.php:93
+msgid "Cancel"
+msgstr ""
+
+#: backend/class_wbk_backend.php:65
+#: backend/classes/class_wbk_backend_schedule.php:52
+msgid "Add"
+msgstr ""
+
+#: backend/class_wbk_backend.php:66
+msgid "Add Webba Booking form"
+msgstr ""
+
+#: backend/class_wbk_backend.php:87
+msgid "Webba Booking"
+msgstr ""
+
+#: backend/class_wbk_backend.php:107
+#: backend/solo-framework/custom/class_wbk_table_filter_services.php:57
+msgid "All services"
+msgstr " Όλες οι υπηρεσίες"
+
+#: backend/class_wbk_backend.php:123
+msgid "All categories"
+msgstr " Όλες οι κατηγορίες"
+
+#: backend/class_wbk_backend.php:141
+#: backend/classes/class_wbk_backend_schedule.php:1001
+#: backend/classes/class_wbk_backend_schedule.php:1003
+#: backend/classes/class_wbk_backend_schedule.php:1039
+#: backend/classes/class_wbk_backend_schedule.php:1041
+#: backend/classes/class_wbk_backend_schedule.php:1077
+#: backend/classes/class_wbk_backend_schedule.php:1135
+#: backend/solo-framework/custom/class_wbk_component_service.php:26
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:670 webba-booking.php:66
+msgid "Select service"
+msgstr ""
+
+#: backend/class_wbk_backend.php:144
+msgid "Or category"
+msgstr ""
+
+#: backend/class_wbk_backend.php:152
+msgid "Webba Booking form"
+msgstr ""
+
+#: backend/class_wbk_backend.php:153
+msgid "Webba Booking Email landing"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_appearance.php:34
+#: backend/templates/tpl_wbk_backend_appearance.php:3
+msgid "Appearance"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_appointments.php:13
+#: backend/classes/class_wbk_backend_options.php:2483
+#: backend/classes/class_wbk_backend_options.php:6383
+#: backend/templates/tpl_wbk_backend_appointments.php:7 webba-booking.php:115
+#: webba-booking.php:286
+msgid "Appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_coupons.php:13
+#: backend/classes/class_wbk_backend_options.php:1352
+#: backend/templates/tpl_wbk_backend_coupons.php:14
+msgid "Coupons"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_email_templates.php:13
+#: backend/templates/tpl_wbk_backend_email_templates.php:8
+msgid "Email templates"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_gg_calendars.php:8
+msgid "Error: invalid calendar ID"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_gg_calendars.php:35
+#: backend/templates/tpl_wbk_backend_gg_calendars.php:7
+msgid "Google calendars"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:72
+msgid "General"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:79
+msgid "Week starts on"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:93
+msgid "Date format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:107
+msgid "Time format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:121
+msgid "Timezone"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:135
+msgid "Phone number mask input"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:149
+msgid "Phone format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:163
+msgid "Phone field is required in the booking form"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:177
+msgid "Show booked time slots"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:191
+msgid "Auto lock appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:205
+msgid "Perform autolock on:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:219
+msgid "Autolock for group booking services:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:232
+msgid "Allow unlock manually:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:245
+msgid "Default appointment status:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:259
+msgid "Allow payments only for approved appointments:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:273
+msgid "Delete expired (not paid) appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:286
+msgid "Delete expired appointments with started but not finished transaction"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:300
+msgid "Expiration time"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:314
+msgid "Cancellation buffer"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:327
+msgid "Allow cancellation of paid appointments:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:340
+msgid "Allow only one appointment per slot from email:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:353
+msgid "Hide form on booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:361
+msgid "Allow only one appointment per service from email:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:374
+msgid "Delete pending appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:387
+msgid "Limit per time"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:400
+msgid "Lock time slot if at least one place is booked"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:413
+msgid "Continuous appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:432
+msgid "Check shortcode on booking form initialization"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:446
+msgid "Show cancel button"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:460
+msgid "Disable booked dates in calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:474
+#: backend/classes/class_wbk_backend_options.php:481
+msgid "Holidays"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:495
+msgid "Email notifications"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:501
+msgid "Multiple booking notification mode (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:514
+msgid "Multiple booking notification mode (admin)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:527
+msgid "Send customer an email (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:540
+msgid "Attach iCal file to the notification (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:553
+msgid "Subject of an email to a customer (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:567
+msgid "Message to a customer (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:580
+msgid "Send customer an email (on approval)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:593
+msgid "Subject of an email to a customer (on approval)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:606
+msgid "Message to a customer (on approval)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:620
+msgid "Send administrator an email (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:633
+msgid "Multiple booking cancellation notification mode (admin)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:646
+msgid "Subject of an email to administrator (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:659
+msgid "Message to administrator (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:674
+msgid "Send customer an email (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:687
+msgid "Multiple booking cancellation notification mode (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:700
+msgid "Subject of an email to customer (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:713
+msgid "Message to customer (on cancellation)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:729
+msgid "Send an email to other customers from the group (if provided)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:742
+msgid "Subject of an email to a customers from the group"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:755
+msgid "Message to a customers from the group"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:768
+msgid "Send administrator an email (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:782
+msgid "Attach iCal file to the notification (admin)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:796
+msgid "Subject of an email to an administrator (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:809
+msgid "Message to an administrator (on booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:823
+msgid "Send administrator an email (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:836
+msgid "Subject of an email to an administrator (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:849
+msgid "Message to an administrator (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:862
+msgid "Send customer an email (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:875
+msgid "Subject of an email to to a customer (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:888
+msgid "Message to a customer (on payment received)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:901
+msgid "Send administrator reminders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:915
+msgid "Subject of administrator reminders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:928
+msgid "Administrator reminders message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:942
+msgid "Send customer reminders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:956
+msgid "Send customer reminders days before appointment"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:969
+msgid "Subject of customer reminders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:982
+msgid "Customer reminders message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:996
+msgid "Time of a daily reminder"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1009
+msgid "Send invoice to customer"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1022
+msgid "Invoice email subject"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1035
+msgid "Current invoice number"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1048
+msgid "Send copies of invoices to administrator"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1061
+msgid "From: name"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1074
+msgid "From: email"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1087
+msgid "Send copies of service emails to"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1100
+msgid "Link to the page with Webba Booking shortcode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1114
+#: backend/classes/class_wbk_backend_options.php:1121
+#: backend/solo-framework/custom/class_wbk_gg_calendar_table.php:45
+msgid "Mode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1134
+msgid "Show suitable hours"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1147
+msgid "Multiple bookings in one session"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1160
+msgid "Maximum amount of bookings in one session"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1173
+msgid "Skip time slot selection"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1186
+msgid "Mode of multiple places selection"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1199
+msgid "Time hole optimization"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1213
+msgid "Show service description"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1226
+msgid "Date input"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1241
+msgid "Time slot time string"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1255
+msgid "Time slot format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1269
+msgid "Show local time in time slots"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1283
+msgid "CSV export delimiter"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1297
+msgid "jQuery no-conflict mode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1312
+msgid "Load pickadate javascript"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1326
+msgid "Allow cancel or approve by link"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1339
+msgid "Tax used for #total_amount placeholder"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1365
+msgid "The number of digits in the fractional part of the price"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1378
+msgid "Scroll container"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1392
+msgid "Translation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1398
+msgid "Select service label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1411
+msgid "Select category label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1424
+msgid "Select date label (extended mode)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1437
+msgid "Select date label (basic mode)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1451
+msgid "Select date input placeholder"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1464
+msgid "Count of dates in the dropdown"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1478
+msgid "Select hours label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1491
+msgid "Select time slots label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1504
+msgid "Booking form label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1517
+msgid "Booking items count label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1531
+msgid "Booked time slot text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1546
+msgid "Local time format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1559
+msgid "Text before the time in time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1572
+msgid "Text after the time in time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1585
+msgid "Availability label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1601
+msgid "Book button text (time slot)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1615
+msgid "Book button text (form)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1629
+msgid "Name label (booking form)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1643
+msgid "Email label (booking form)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1657
+msgid "Phone label (booking form)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1671
+msgid "Comment label (booking form)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1685
+msgid "Booking done message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1698
+#: backend/classes/class_wbk_backend_options.php:5376
+msgid "Time slots not found message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1711
+msgid "PayPal payment button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1724
+msgid "Credit card payment button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1737
+msgid "Payment details title"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1750
+msgid "Payment item name"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1763
+msgid "Price format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1776
+msgid "Subtotal title"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1789
+msgid "Total title"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1802
+msgid "Message if no booking available for payment found"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1810
+msgid "Show locked time slots as booked"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1823
+msgid "Allow using attachments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1836
+msgid "Attachments file types"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1849
+msgid "Allow using the service id in url"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1857
+msgid "Order service by"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1875
+msgid "Show night hours time slots in previous day"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1888
+msgid "Limit date range for multi-service mode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1901
+msgid "Availability in popup calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1914
+msgid "EU GDPR Compliance"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1927
+msgid "Allow book ongoing time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1940
+msgid "Default number of days shown in extended mode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1953
+msgid "Show details of previous bookings"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1971
+#: backend/classes/class_wbk_backend_options.php:5286 webba-booking.php:88
+#: webba-booking.php:199
+msgid "Approve payment"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1984
+msgid "Payment result title"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:1997
+msgid "Payment result success message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2010
+msgid "Payment result cancel message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2023
+msgid "Booking cancel button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2036
+msgid "Checkout button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2049
+msgid "Appointment information"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2062
+msgid "Email input label on cancel booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2075
+msgid "Booking canceled message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2088
+msgid "Error message on cancel booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2101
+msgid "Warning message on cancel booking (reason: paid booking)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2116
+msgid "Warning message on cancel booking (buffer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2129
+msgid "Text of the payment link (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2142
+msgid "Text of the cancellation link (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2156
+msgid "Text of the cancellation link (administrator)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2169
+msgid "Text of the approval link (administrator)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2182
+msgid "Text of the link for adding to customer's Google Calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2195
+msgid "Add to customer's Google Calendar button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2208
+msgid "Google calendar event adding success message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2221
+msgid "Google calendar event adding error message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2234
+msgid "Appointment token error message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2247
+msgid "Google calendar event / iCal summary (administrator)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2260
+msgid "Google calendar event / iCal description (administrator)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2273
+msgid "Google calendar event / iCal summary (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2286
+msgid "Google calendar event / iCal description (customer)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2299
+msgid "Stripe button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2312
+msgid "Stripe card element error message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2325
+msgid "Stripe API error message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2338
+msgid "Pay on arrival button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2351
+msgid "Message for Pay on arrival payment method"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2364
+msgid "Bank transfer button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2377
+msgid "Message for Bank transfer payment method"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2391
+msgid "Coupon code field placeholder"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2404
+msgid "Coupon success message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2417
+msgid "Coupon failed message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2430
+msgid "Discount in payment calculation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2443
+msgid "Meta key for WooCommerce product"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2456
+msgid "WooCommerce button text"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2469
+msgid "Add to cart error message"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2491
+msgid "PayPal"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2498
+msgid "PayPal mode"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2511
+msgid "PayPal Sandbox ClientID"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2525
+msgid "PayPal Sandbox Secret"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2538
+msgid "PayPal Live ClientID"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2552
+msgid "PayPal Live Secret"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2565
+msgid "PayPal currency"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2578
+#: backend/classes/class_wbk_backend_options.php:2816
+#: common/PayPal/class_wbk_paypal.php:253
+#: common/stripe/class_wbk_stripe.php:159
+msgid "Tax"
+msgstr "ΦΠΑ 24%"
+
+#: backend/classes/class_wbk_backend_options.php:2591
+msgid "Hide address"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2604
+msgid "Auto redirect to PayPal when payment ready (without approving)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2617
+#: backend/classes/class_wbk_backend_options.php:2842
+msgid "Redirect to page when payment is successful"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2632
+msgid "Stripe"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2638
+msgid "Publishable key"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2651
+msgid "Secret key"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2664
+msgid "Currency"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2677
+msgid "Load Stripe javascript"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2690
+msgid "Override Stripe card element error messages"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2705
+#: backend/templates/tpl_wbk_backend_services.php:142
+msgid "Google Calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2711
+msgid "Google API Client ID"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2724
+msgid "Google API Client Secret"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2737
+msgid "Refresh cache after"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2751
+msgid "\"Created by\" property for the events"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2764
+msgid "Customer's time zone"
+msgstr "Ζώνη ώρας πελάτη"
+
+#: backend/classes/class_wbk_backend_options.php:2777
+msgid "When add events in admin calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2790
+msgid "Synchronization of group services:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2803
+msgid "Ignore free events:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2829
+msgid "Additional payment information"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2855
+msgid "Font size for card element on mobile devices"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2870
+msgid "WooCommerce"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2876
+msgid "Product ID"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2891
+msgid "Backend interface"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2897
+msgid "Customer name in the backend"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2911
+msgid "Date format (backend)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2924
+msgid "Columns of Appointment table"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2937
+msgid "Format of timeslots in the Schedule page"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2950
+msgid "Custom field columns"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2965
+msgid "Activation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:2971
+msgid "Purchase Code"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3040
+msgid ""
+"Check if you'd like to send administrator an email when payment received"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3046
+#: backend/classes/class_wbk_backend_options.php:3084
+#: backend/classes/class_wbk_backend_options.php:3401
+#: backend/classes/class_wbk_backend_options.php:3603
+#: backend/classes/class_wbk_backend_options.php:3773
+#: backend/classes/class_wbk_backend_options.php:3816
+#: backend/classes/class_wbk_backend_options.php:3831
+msgid "Email status updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3054
+#: backend/classes/class_wbk_backend_options.php:3092
+#: backend/classes/class_wbk_backend_options.php:3441
+#: backend/classes/class_wbk_backend_options.php:3510
+#: backend/classes/class_wbk_backend_options.php:3571
+#: backend/classes/class_wbk_backend_options.php:3584
+#: backend/classes/class_wbk_backend_options.php:3643
+#: backend/classes/class_wbk_backend_options.php:3669
+#: backend/classes/class_wbk_backend_options.php:3727
+msgid "List of available placeholders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3067
+#: backend/classes/class_wbk_backend_options.php:3105
+#: backend/classes/class_wbk_backend_options.php:3456
+#: backend/classes/class_wbk_backend_options.php:3525
+#: backend/classes/class_wbk_backend_options.php:3542
+#: backend/classes/class_wbk_backend_options.php:3557
+#: backend/classes/class_wbk_backend_options.php:3614
+#: backend/classes/class_wbk_backend_options.php:3857
+#: backend/classes/class_wbk_backend_options.php:3874
+#: backend/classes/class_wbk_backend_options.php:3890
+#: backend/classes/class_wbk_backend_options.php:5339
+msgid "Toggle editor"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3078
+msgid "Check if you'd like to send customer an email when payment received"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3114 webba-booking.php:110
+msgid "Coupon code"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3125
+#: common/class_wbk_ajax_controller.php:929 webba-booking.php:111
+msgid "Coupon applied"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3135
+#: common/class_wbk_ajax_controller.php:937 webba-booking.php:112
+msgid "Coupon not applied"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3145
+#: common/PayPal/class_wbk_paypal.php:222
+#: common/stripe/class_wbk_stripe.php:132 webba-booking.php:113
+msgid "Discount"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3156
+#: backend/classes/class_wbk_backend_services.php:174
+#: backend/classes/class_wbk_backend_services.php:286
+#: common/class_wbk_business_hours.php:421
+#: common/class_wbk_date_time_utils.php:124
+#: common/class_wbk_date_time_utils.php:234
+#: frontend/classes/class_wbk_frontend_booking.php:276
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: backend/classes/class_wbk_backend_options.php:3157
+#: backend/classes/class_wbk_backend_services.php:155
+#: backend/classes/class_wbk_backend_services.php:267
+#: common/class_wbk_business_hours.php:403
+#: common/class_wbk_business_hours.php:425
+#: common/class_wbk_date_time_utils.php:105
+#: common/class_wbk_date_time_utils.php:216
+#: frontend/classes/class_wbk_frontend_booking.php:277
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: backend/classes/class_wbk_backend_options.php:3158
+msgid "Wordpress default"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3166
+msgid "Incorrect start of week"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3178
+msgid "Leave empty to use Wordpress Date Format. "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3186
+msgid "Date format updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3196
+msgid ""
+"The amount of time slots allowed to your customers to reserve at a time."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3197
+msgid "Leave empty to not set the limit. "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3208
+msgid "Multiple booking limit updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3216
+msgid "Used only for dropdown date select."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3228
+msgid "Dropdown dates count updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3236
+msgid "m/d/y"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3237
+msgid "y/m/d"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3238
+msgid "y-m-d"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3239
+msgid "d.m.y"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3243
+msgid ""
+"Used in the \"Appointments\" page controls. d - day, m - month, y - year."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3254
+#: backend/classes/class_wbk_backend_options.php:4358
+#: backend/classes/class_wbk_backend_options.php:4359
+#: backend/classes/class_wbk_backend_schedule.php:1029
+#: backend/classes/class_wbk_backend_schedule.php:1067
+#: backend/classes/class_wbk_backend_schedule.php:1126
+#: backend/classes/class_wbk_backend_schedule.php:1184
+msgid "Start"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3255
+msgid "Start - End"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3289
+msgid "Leave empty to use Wordpress Time Format. "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3297
+msgid "Time format updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3307
+msgid "jQuery Masked Input Plugin"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3308
+msgid "jQuery Mask Plugin"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3309
+#: backend/classes/class_wbk_backend_options.php:4016
+#: backend/classes/class_wbk_backend_options.php:4057
+#: backend/classes/class_wbk_backend_options.php:4076
+#: backend/classes/class_wbk_backend_options.php:4263
+#: backend/classes/class_wbk_backend_options.php:4308
+#: backend/classes/class_wbk_backend_options.php:4337
+#: backend/classes/class_wbk_backend_options.php:4386
+#: backend/classes/class_wbk_backend_options.php:5439
+#: backend/classes/class_wbk_backend_options.php:5480
+#: backend/classes/class_wbk_backend_options.php:5665
+#: backend/classes/class_wbk_backend_options.php:5683
+#: backend/classes/class_wbk_backend_options.php:5744
+#: backend/classes/class_wbk_backend_options.php:5763
+#: backend/classes/class_wbk_backend_options.php:5875
+#: backend/classes/class_wbk_backend_options.php:5896
+#: backend/classes/class_wbk_backend_options.php:5917
+#: backend/classes/class_wbk_backend_options.php:5977
+#: backend/classes/class_wbk_backend_options.php:6040
+#: backend/classes/class_wbk_backend_options.php:6458
+#: backend/classes/class_wbk_backend_options.php:6478
+msgid "Disabled"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3328
+msgid ""
+"jQuery Masked Input Plugin format example: (999) 999-9999. \"9\" represents "
+"numeric symbol."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3331
+msgid ""
+"jQuery Mask Plugin format example: (000) 000-0000. \"0\" represents numeric "
+"symbol."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3332
+msgid "More information"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3383
+msgid ""
+"Pick holidays. This option should be used to set only holidays. Do not use "
+"it to set weekends (there is a Business hours parameter of services for this "
+"purpose)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3394
+msgid "Check if you'd like to send customer an email on booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3409
+msgid "Check if you'd like to send customer an email on approval"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3416
+msgid "Email (on approval) status updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3425
+msgid ""
+"Check if you'd like to send administrator an email on appointment "
+"cancellation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3432
+#: backend/classes/class_wbk_backend_options.php:3477
+msgid "Email (on cancellation) status updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3438
+#: common/class_wbk_email_notifications.php:58 webba-booking.php:234
+msgid "Appointment canceled"
+msgstr ""
+"Ο διαχειριστής ακύρωσε επιτυχώς όλα τα χρονικά περιθώρια της κράτησης του "
+"χώρου. Ο διαχειριστής και ο πελάτης έχουν λάβει ένα email επιβεβαίωσης "
+"ακύρωσης κράτησης. Αριθμός χρονικών περιθωρίων που ακυρώθηκαν"
+
+#: backend/classes/class_wbk_backend_options.php:3470
+msgid ""
+"Check if you'd like to send customer an email on appointment cancellation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3485
+msgid "Send Email for each cancelled time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3486
+msgid "Send one Email for all cancelled time slots"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3497
+#: backend/classes/class_wbk_backend_options.php:3989
+#: backend/classes/class_wbk_backend_options.php:4002
+msgid "Send Email for each booked time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3498
+#: backend/classes/class_wbk_backend_options.php:3990
+#: backend/classes/class_wbk_backend_options.php:4003
+msgid "Send one Email for all booked time slots"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3507
+#: common/class_wbk_email_notifications.php:61 webba-booking.php:237
+msgid "Your appointment canceled"
+msgstr ""
+"Ο διαχειριστής ακύρωσε επιτυχώς όλα τα χρονικά περιθώρια της κράτησης του "
+"χώρου. Ο διαχειριστής και ο πελάτης έχουν λάβει ένα email επιβεβαίωσης "
+"ακύρωσης κράτησης. Αριθμός χρονικών περιθωρίων που ακυρώθηκαν"
+
+#: backend/classes/class_wbk_backend_options.php:3581 webba-booking.php:144
+msgid "Your booking has been approved"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3596
+msgid "Check if you'd like to send an email to a customers from the group"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3689
+msgid "Current local time:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3697
+msgid "Administrator daily email time is wrong"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3707
+msgid "Do not send invoice"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3708
+msgid "Send invoice on booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3709
+msgid "Send invoice on approval"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3710
+msgid "Send invoice on payment complete"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3713
+msgid ""
+"Use this option to control the dispatch of the invoice in parallel with the "
+"notification."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3725
+#: common/class_wbk_email_notifications.php:63 webba-booking.php:250
+msgid "Invoice"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3737
+msgid ""
+"Set the initial number of invoice. Placeholder for notifications: "
+"#invoice_number"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3738
+msgid ""
+"Each time a customer pay with PayPal or Stripe, the value of this option "
+"will be increased by one."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3752
+msgid "Check if you'd like to send copies of invoices to administrator"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3766
+msgid "Check if you'd like to send administrator an email"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3781
+#: backend/classes/class_wbk_backend_options.php:3794
+msgid "Check if you'd like to attach iCal file to the notification"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3787
+#: backend/classes/class_wbk_backend_options.php:3800
+msgid "Attach iCal file to the notification status updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3809
+msgid "Check if you'd like to send reminders to administrator"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3824
+msgid "Check if you'd like to send reminders to customer"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3840
+msgid "Example: 1 - tomorrow, 2 - day after tomorrow, 7 - one week before"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3908
+msgid "\"From: email\" is wrong"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3924
+msgid "Incorrect value for \"Send copies of service emails to\" parameter"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3934
+msgid ""
+"This page will be used as a landing for payment or cancellation. Page should "
+"contain [webba_email_landing] or [webba_booking] shortcode."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3954
+msgid "\"From: name\" is wrong"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3964
+msgid "Extended"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3965
+msgid "Basic"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3977
+#: backend/classes/class_wbk_backend_options.php:4113
+#: backend/classes/class_wbk_backend_options.php:4131
+#: backend/classes/class_wbk_backend_options.php:4148
+#: backend/classes/class_wbk_backend_options.php:4164
+#: backend/classes/class_wbk_backend_options.php:4179
+#: backend/classes/class_wbk_backend_options.php:5459
+#: backend/classes/class_wbk_backend_options.php:6017
+#: backend/classes/class_wbk_backend_options.php:6608
+msgid "Yes"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:3978
+#: backend/classes/class_wbk_backend_options.php:4114
+#: backend/classes/class_wbk_backend_options.php:4132
+#: backend/classes/class_wbk_backend_options.php:4149
+#: backend/classes/class_wbk_backend_options.php:4165
+#: backend/classes/class_wbk_backend_options.php:4180
+#: backend/classes/class_wbk_backend_options.php:5460
+#: backend/classes/class_wbk_backend_options.php:6018
+#: backend/classes/class_wbk_backend_options.php:6607
+msgid "No"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4005
+msgid ""
+"IMPORTANT NOTICE: using \"Send one Email for all booked time slots\" with "
+"multi-service booking mode is recommended only if all services has the same "
+"e-mail."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4017
+#: backend/classes/class_wbk_backend_options.php:4058
+#: backend/classes/class_wbk_backend_options.php:4077
+#: backend/classes/class_wbk_backend_options.php:4264
+#: backend/classes/class_wbk_backend_options.php:4309
+#: backend/classes/class_wbk_backend_options.php:4387
+#: backend/classes/class_wbk_backend_options.php:5438
+#: backend/classes/class_wbk_backend_options.php:5479
+#: backend/classes/class_wbk_backend_options.php:5664
+#: backend/classes/class_wbk_backend_options.php:5682
+#: backend/classes/class_wbk_backend_options.php:5743
+#: backend/classes/class_wbk_backend_options.php:5874
+#: backend/classes/class_wbk_backend_options.php:5895
+#: backend/classes/class_wbk_backend_options.php:5916
+#: backend/classes/class_wbk_backend_options.php:5976
+#: backend/classes/class_wbk_backend_options.php:6039
+#: backend/classes/class_wbk_backend_options.php:6457
+#: backend/classes/class_wbk_backend_options.php:6477
+msgid "Enabled"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4020
+msgid "Skip time slot selection if only one time slot is available."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4021
+msgid ""
+"IMPORTANT: enable this option only with Basic mode and multiple booking "
+"disabled."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4022
+msgid ""
+"Make sure your service schedule includes ONLY ONE time slot available on a "
+"day."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4038
+msgid "Let users select count"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4039
+msgid "Allow select only one place"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4040
+msgid "Allow select only maximum places"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4060
+msgid ""
+"IMPORTANT: if this option is enabled set the \"Allow unlock manually"
+"\" (Appointments tab) to \"Disallow\"."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4079
+msgid ""
+"Enable this option to show service description below the service select on "
+"the frontend."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4095
+msgid "Popup"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4096
+msgid "Dropdown"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4194
+msgid "A-Z"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4195
+#: backend/templates/tpl_wbk_backend_services.php:48
+msgid "Priority"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4209
+msgid "The number of hours after midnight"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4222
+msgid "The number of days from today that available for booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4223
+msgid "IMPORTANT: this option is for multi-service booking only"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4236
+msgid "The number of days to check availability for in the popup calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4237
+msgid "IMPORTANT: this option is for regular booking only"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4251
+msgid ""
+"Example: file_extension. A file extension starting with the STOP character, "
+"e.g: .gif, .jpg, .png, .doc"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4252
+msgid "Example: audio/* all sound files are accepted."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4253
+msgid "Example: video/* all video files are accepted."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4254
+msgid "Example: image/* all image files are accepted."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4255
+msgid ""
+"Example: media_type. A valid media type. <a rel=\"noopener\" target=\"_blank"
+"\" href=\"https://www.iana.org/assignments/media-types/media-types.xhtml"
+"\">List of media types</a>"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4267
+msgid ""
+"Enable this option to clean up database after after the appointment time has "
+"passed"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4281
+#: backend/classes/class_wbk_backend_options.php:5628
+#: backend/classes/class_wbk_backend_options.php:5646
+msgid "Allow"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4282
+#: backend/classes/class_wbk_backend_options.php:5629
+#: backend/classes/class_wbk_backend_options.php:5647
+msgid "Disallow"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4290
+msgid "Default (3)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4291
+msgid "Use Low limit value of service"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4292
+msgid "Use Up limit value of services"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4311
+msgid "This option applies to services with a multiple places per time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4338
+msgid "Enabled (top bar checkout button)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4339
+msgid "Enabled (time slot checkout button)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4359
+msgid "end"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4372
+msgid "Show details and BOOK button"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4373
+msgid "Show time button only"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4388
+msgid "Enabled (show only local time)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4401
+msgid "Comma"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4402
+msgid "Semicolon"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4415
+msgid "Service frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4423 webba-booking.php:67
+#: webba-booking.php:277
+msgid "Select category"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4426
+msgid "Category frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4437
+#: backend/classes/class_wbk_backend_options.php:4449
+msgid "Date frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4461
+msgid "Hours frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4473
+msgid "Time slots frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4485
+msgid "Message before the booking form"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4486
+#: backend/classes/class_wbk_backend_options.php:4540
+#: backend/classes/class_wbk_backend_options.php:4584
+#: backend/classes/class_wbk_backend_options.php:4629
+#: backend/classes/class_wbk_backend_options.php:4685
+#: backend/classes/class_wbk_backend_options.php:5169
+#: backend/classes/class_wbk_backend_options.php:5377
+#: backend/classes/class_wbk_backend_options.php:6080
+#: backend/classes/class_wbk_backend_options.php:6128
+msgid "Allowed HTML tags"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4487
+#: backend/classes/class_wbk_backend_options.php:4541
+#: backend/classes/class_wbk_backend_options.php:4585
+#: backend/classes/class_wbk_backend_options.php:4630
+#: backend/classes/class_wbk_backend_options.php:4686
+#: backend/classes/class_wbk_backend_options.php:4964
+msgid "Available placeholders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4489
+msgid ""
+"For the multi-service mode use [split] placeholder to split the string in 2 "
+"parts: static and repeatable"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4651
+#: common/class_wbk_service_schedule.php:256
+#: common/class_wbk_service_schedule.php:304
+#: common/class_wbk_service_schedule.php:823 webba-booking.php:109
+#: webba-booking.php:261
+msgid "available"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4662 webba-booking.php:95
+#: webba-booking.php:213
+msgid "Appointment on #dt"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4683
+msgid "Appointment information on payment and cancellation forms."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4684
+msgid ""
+"Displayed when customers pay for booking or cancel the booking with the link "
+"sent in e-mail notification."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4713
+msgid "Paid booking can't be canceled."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4716
+msgid "Displayed when customer tries to cancel paid booking."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4726 webba-booking.php:101
+#: webba-booking.php:220
+msgid ""
+"Sorry, you can not cancel because you have exceeded the time allowed to do "
+"so."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4729
+msgid ""
+"Displayed when a customer tries to cancel an appointment/reservation within "
+"less than the time allowed to do so."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4739
+msgid "Please, enter your email to confirm cancellation"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4751 webba-booking.php:98
+#: webba-booking.php:222
+msgid "Your appointment booking has been canceled."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4763 webba-booking.php:99
+#: webba-booking.php:223
+msgid "Unable to cancel booking, please check the email you've entered."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4775 webba-booking.php:102
+#: webba-booking.php:224
+msgid "Click here to pay for your booking."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4788 webba-booking.php:103
+#: webba-booking.php:225
+msgid "Click here to cancel your booking."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4801
+#: common/class_wbk_db_utils.php:1844 webba-booking.php:252
+msgid "Click here to cancel this booking."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4813
+#: common/class_wbk_db_utils.php:1845 webba-booking.php:253
+msgid "Click here to approve this booking."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4825 webba-booking.php:107
+#: webba-booking.php:259
+msgid "Add to my Google Calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4837
+#: common/class_wbk_db_utils.php:1821 webba-booking.php:108
+#: webba-booking.php:260
+msgid "Click here to add this event to your Google Calendar."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4849
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:504
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:623
+#: frontend/templates/tpl_wbk_frontend_landing.php:485
+#: frontend/templates/tpl_wbk_frontend_landing.php:604
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:470
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:589
+#: webba-booking.php:105 webba-booking.php:257
+msgid "Appointment data not added to Google Calendar."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4861
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:498
+#: frontend/templates/tpl_wbk_frontend_landing.php:479
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:464
+#: webba-booking.php:106 webba-booking.php:258
+msgid "Appointment data added to Google Calendar."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4873 webba-booking.php:104
+msgid "Appointment booking doesn't exist."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4888
+#: backend/classes/class_wbk_backend_options.php:4903
+#: backend/classes/class_wbk_backend_options.php:4920
+#: backend/classes/class_wbk_backend_options.php:4936
+msgid "Available placeholders:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4889
+#: backend/classes/class_wbk_backend_options.php:4905
+#: backend/classes/class_wbk_backend_options.php:4922
+#: backend/classes/class_wbk_backend_options.php:4938
+msgid "Placeholder for custom field:"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4906
+msgid "Add {n} for new line (only for Google Calendar events)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:4968 webba-booking.php:272
+msgid "Pay with credit card"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5005
+#: common/class_wbk_ajax_controller.php:846
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:322
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:288
+msgid "Pay on arrival"
+msgstr "Με την άφιξη"
+
+#: backend/classes/class_wbk_backend_options.php:5015
+#: common/class_wbk_ajax_controller.php:850
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:326
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:292
+msgid "Pay by bank transfer"
+msgstr "Κατάθεση σε τραπεζικό λογαριασμό"
+
+#: backend/classes/class_wbk_backend_options.php:5029
+msgid "Text on booked time slot. Available placeholders: #username, #time."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5030
+msgid ""
+"Since version 3.3.61 you can use general placeholders in this option. More "
+"information: "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5030
+msgid "Placeholders"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5128
+msgid "Booking items count frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5129
+#: backend/classes/class_wbk_backend_options.php:5168
+msgid "Available placeholders: "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5139 webba-booking.php:92
+#: webba-booking.php:207
+msgid "Cancel booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5150 webba-booking.php:94
+#: webba-booking.php:211
+msgid "Checkout"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5196 webba-booking.php:189
+msgid "Pay now with PayPal"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5207 webba-booking.php:190
+msgid "Pay now with credit card"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5218 webba-booking.php:84
+#: webba-booking.php:191
+msgid "Payment details"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5232
+msgid "Available placeholders: #service, #date, #time, #tr (time range), #id."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5244
+msgid "Required placeholder: #price."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5275 webba-booking.php:96
+#: webba-booking.php:218
+msgid "There are no bookings available for payment."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5297 webba-booking.php:89
+#: webba-booking.php:200
+msgid "Payment status"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5420
+msgid ""
+"Use this option if you need show custom fields near customer name in the "
+"appointments table and in the schedules."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5421
+msgid "Example: #name #field_lastname"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5422
+msgid ""
+"The example above show how to show customer's name and last name. The last "
+"name is stored in the custom field with id \"lastname\" in this example."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5423
+msgid ""
+"Note, it's necessary to include #name placeholder into the value of this "
+"option."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5482
+msgid ""
+"Enable this option for auto lock time slots of different services on booking "
+"(connection between services)."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5511
+msgid "all services"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5512
+msgid "services in the same categories"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5529
+msgid "Maximum number of available bookings at given time"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5530
+msgid "Leave empty to not set this limit"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5569
+#: backend/classes/class_wbk_backend_options.php:5599
+msgid "Select the services for which this rule is applied"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5570
+msgid "Note: this option is used by front-end booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5609
+#: backend/classes/class_wbk_backend_options.php:6590
+msgid "lock time slot"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5610
+#: backend/classes/class_wbk_backend_options.php:6591
+msgid "reduce count of available places"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5649
+msgid ""
+"Enable this option if you want to allow CUSTOMERS to cancel paid "
+"appointments."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5667
+msgid ""
+"Enable this option to allow only one appointment per time slot from one "
+"email."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5685
+msgid ""
+"Enable this option to allow only one appointment per service from one email."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5700
+msgid ""
+"Automatically delete appointments with the \"Awaiting approval\" status "
+"after ... minutes."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5701
+msgid "Set 0 to not delete automatically"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5710
+#: backend/classes/class_wbk_backend_options.php:5716
+#: backend/classes/class_wbk_backend_options.php:5799
+#: backend/classes/class_wbk_backend_options.php:5805
+msgid "Webba Booking: expiration time setting updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5724
+#: backend/solo-framework/components/class_slf_table_select.php:44
+#: common/class_wbk_db_utils.php:1538
+msgid "Approved"
+msgstr "Δεν έγινε εξόφληση"
+
+#: backend/classes/class_wbk_backend_options.php:5725
+#: backend/solo-framework/components/class_slf_table_select.php:41
+#: common/class_wbk_db_utils.php:1537
+msgid "Awaiting approval"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5746
+msgid ""
+"Enable this option if you want to allow online payments for the approved "
+"appointments <b>ONLY</b>."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5764
+msgid "Set expiration time on booking"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5765
+msgid "Set expiration time on approve"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5767
+msgid "Enable this option to delete expired (not paid) appointments"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5768
+msgid "*Expiration feature affect only on booking made at the front-end"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5769
+msgid ""
+"*Expiration feature will not affect on bookings in the process of payment, "
+"except if a customer canceled payment at PayPal side"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5778
+msgid "Do not delete appointments with started transaction"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5779
+msgid "Delete appointments with started transaction"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5782
+msgid ""
+"IMPORTANT: if you choose \"Delete appointments with started transaction\", "
+"expired appointments will be deleted even if a customer started (and not "
+"finished) the payment (initialized transaction)."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5791
+msgid "Expiration time in minutes."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5836
+msgid "days"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5837
+msgid ""
+"Buffer time: minimum time to allow a cancellation before the appointment / "
+"reservation."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5877
+msgid ""
+"Enable this option to check if the page has shortcode before booking form "
+"initialized."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5898
+msgid ""
+"Enable this option to show cancel button on the steps of the booking process."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5936
+#: backend/classes/class_wbk_backend_options.php:5957
+msgid "yes"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5937
+#: backend/classes/class_wbk_backend_options.php:5958
+msgid "no"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5939
+msgid ""
+"Set \"no\" if there are plugins in your WordPress that are using the "
+"pickadate date picker."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5960
+msgid ""
+"Set \"yes\" to allow administrator to cancel or approve appointment with the "
+"link sent in notification."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5996
+msgid "PayPal tax option"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5997
+msgid "Stripe tax option"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5998
+msgid "Do not include tax"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6001
+msgid ""
+"This option is used when calculating the total amount with #total_amount "
+"placeholders in email and interface messages"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6020
+msgid "Disable date in the calendar if no free time slots found."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6042
+msgid ""
+"Enable this option to hide all sections of the booking form when booking is "
+"done."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6059
+msgid "Payment complete."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6107 webba-booking.php:91
+#: webba-booking.php:202
+msgid "Payment canceled."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6160
+msgid "Sandbox"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6161
+msgid "Live"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6232
+msgid "Australian Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6233
+msgid "Brazilian Real"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6234
+msgid "Canadian Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6235
+msgid "Czech Koruna"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6236
+msgid "Danish Krone"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6237
+msgid "Euro"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6238
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6239
+msgid "Hungarian Forint"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6240
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6241
+msgid "Japanese Yen"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6242
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6243
+msgid "Mexican Peso"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6244
+msgid "Norwegian Krone"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6245
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6246
+msgid "Philippine Peso"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6247
+msgid "Polish Zloty"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6248
+msgid "Pound Sterling"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6249
+msgid "Singapore Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6250
+msgid "Swedish Krona"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6251
+msgid "Swiss Franc"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6252
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6253
+msgid "Thai Baht"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6254
+msgid "U.S. Dollar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6267
+msgid "The tax used for payments made with PayPal. Percentage of an amount"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6277
+msgid "PayPal updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6281
+msgid "PayPal tax updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6289
+msgid ""
+"Redirect URL for successful payment. Leave empty to use page with booking "
+"form."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6301
+msgid "The tax used for payments made with Stripe. Percentage of an amount"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6311
+#: backend/classes/class_wbk_backend_options.php:6315
+msgid "Stripe tax updated"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6338
+msgid "Select fields required for Stripe payment (optional)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6348
+msgid "Redirect URL for successful payment. Leave empty to not redirect."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6359
+msgid "Leave empty to use default input field font size"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6370
+msgid "The id of the product used for booking (should be a simple product)."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6393 webba-booking.php:114
+#: webba-booking.php:285
+msgid "Add to cart"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6410
+msgid "Booking not added to card"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6460
+msgid "Enable this option to hide adress on PayPal checkout."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6526
+msgid "Minutes"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6527
+msgid ""
+"IMPORTANT: DO NOT ENABLE CACHE IF THERE IS NO ISSUES WITH THE PERFORMANCE"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6528
+msgid "Set 0 to disable caching."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6529
+msgid ""
+"To regularly update the caching data, add the following URI to the cron job: "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6530
+msgid ""
+"The regularity of the cron job should be less than the \"Refresh cache after"
+"\" option."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6544
+msgid ""
+"Do not change this option if you do not plan to use the same Google "
+"calendars on different domains"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6558
+msgid "Use Webba Booking time zone"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6559
+msgid "Use customer's calendar time zone"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6561
+msgid ""
+"Choose the time zone used for the event's added to the customer's calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6574
+msgid "appointment booked"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6575
+msgid "appointment paid or approved"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6577
+msgid "Choose when to add events in administrator's Google Calendar"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:10
+msgid "Schedules"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:51
+msgid "Add appointment"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:53
+#: frontend/classes/class_wbk_frontend_booking.php:292
+msgid "Close"
+msgstr "Ακύρωση"
+
+#: backend/classes/class_wbk_backend_schedule.php:54
+msgid "Appointment"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:55
+#: backend/classes/class_wbk_backend_services.php:40
+msgid "Delete"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:56
+msgid "Show next week"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:138
+#: backend/classes/class_wbk_backend_schedule.php:209
+msgid "open"
+msgstr "Μη εργάσιμη"
+
+#: backend/classes/class_wbk_backend_schedule.php:142
+#: backend/classes/class_wbk_backend_schedule.php:254
+msgid "close"
+msgstr "Εργάσιμη"
+
+#: backend/classes/class_wbk_backend_schedule.php:473
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:505
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:138
+#: frontend/templates/tpl_wbk_frontend_landing.php:133
+msgid "Service administrator"
+msgstr "Διαχειριστής Κρατήσεων"
+
+#: backend/classes/class_wbk_backend_schedule.php:702
+#: backend/classes/class_wbk_backend_schedule.php:800
+msgid "Total locked: "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:895
+#: backend/classes/class_wbk_backend_schedule.php:985
+msgid "Total unlocked: "
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1025
+msgid "Lock all dates on range"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1027
+#: backend/classes/class_wbk_backend_schedule.php:1065
+msgid "Exclude dates"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1063
+msgid "Unlock all dates on range"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1079
+#: backend/classes/class_wbk_backend_schedule.php:1102
+#: backend/classes/class_wbk_backend_schedule.php:1137
+#: backend/classes/class_wbk_backend_schedule.php:1160
+#: backend/solo-framework/custom/class_wbk_table_filter_services.php:56
+#: frontend/classes/class_wbk_frontend_booking.php:425
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:682
+msgid "select..."
+msgstr "Ώρες"
+
+#: backend/classes/class_wbk_backend_schedule.php:1100
+#: backend/classes/class_wbk_backend_schedule.php:1158
+msgid "or Service category"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1122
+msgid "Lock time slots on date range"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1180
+msgid "Unlock time slots on date range"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_service_categories.php:13
+#: backend/templates/tpl_wbk_backend_service_categories.php:7
+msgid "Service categories"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:41
+#: backend/templates/tpl_wbk_backend_services.php:283
+msgid "Add service"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:42
+#: backend/templates/tpl_wbk_backend_services.php:285
+msgid "Edit service"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:43
+#: backend/solo-framework/core/class_slf_table.php:637
+#: backend/solo-framework/core/class_slf_table.php:658
+msgid "Save"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:44
+#: backend/classes/class_wbk_backend_services.php:251
+#: common/class_wbk_date_time_utils.php:200
+msgid "Remove the second gap"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:45
+#: backend/classes/class_wbk_backend_services.php:257
+#: common/class_wbk_date_time_utils.php:206
+msgid "Add the second gap"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_services.php:158
+#: backend/classes/class_wbk_backend_services.php:270
+#: common/class_wbk_business_hours.php:406
+#: common/class_wbk_date_time_utils.php:108
+#: common/class_wbk_date_time_utils.php:219
+#: frontend/classes/class_wbk_frontend_booking.php:278
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: backend/classes/class_wbk_backend_services.php:162
+#: backend/classes/class_wbk_backend_services.php:274
+#: common/class_wbk_business_hours.php:409
+#: common/class_wbk_date_time_utils.php:112
+#: common/class_wbk_date_time_utils.php:222
+#: frontend/classes/class_wbk_frontend_booking.php:279
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: backend/classes/class_wbk_backend_services.php:165
+#: backend/classes/class_wbk_backend_services.php:277
+#: common/class_wbk_business_hours.php:412
+#: common/class_wbk_date_time_utils.php:115
+#: common/class_wbk_date_time_utils.php:225
+#: frontend/classes/class_wbk_frontend_booking.php:280
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: backend/classes/class_wbk_backend_services.php:168
+#: backend/classes/class_wbk_backend_services.php:280
+#: common/class_wbk_business_hours.php:415
+#: common/class_wbk_date_time_utils.php:118
+#: common/class_wbk_date_time_utils.php:228
+#: frontend/classes/class_wbk_frontend_booking.php:281
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: backend/classes/class_wbk_backend_services.php:171
+#: backend/classes/class_wbk_backend_services.php:283
+#: common/class_wbk_business_hours.php:418
+#: common/class_wbk_date_time_utils.php:121
+#: common/class_wbk_date_time_utils.php:231
+#: frontend/classes/class_wbk_frontend_booking.php:282
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: backend/classes/class_wbk_backend_services.php:557
+#: backend/classes/class_wbk_backend_services.php:560
+#: backend/classes/class_wbk_backend_services.php:563
+#: backend/classes/class_wbk_backend_services.php:819
+#: backend/classes/class_wbk_backend_services.php:820
+#: backend/classes/class_wbk_backend_services.php:821
+#: backend/templates/tpl_wbk_backend_services.php:234
+#: backend/templates/tpl_wbk_backend_services.php:237
+#: backend/templates/tpl_wbk_backend_services.php:240
+msgid "minutes"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:17
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:44
+msgid "Authorization failed"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:18
+msgid "Google API credentials not set"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:28
+#: backend/templates/tpl_wbk_backend_gg_calendars.php:35
+msgid "Manage authorization"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:32
+#: common/google_api/class_wbk_gg.php:99
+msgid "Authorized"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:33
+#: common/google_api/class_wbk_gg.php:100
+msgid "Calendar name on Google:"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:38
+msgid "Authorization required"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:39
+msgid "Click the link below to start authorization process"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_gg_auth.php:45
+#: common/google_api/class_wbk_gg.php:94
+msgid ""
+"Check Google API credentials, calendar ID and try to re-authorize this "
+"calendar"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_hidden_text.php:14
+#: backend/solo-framework/components/class_slf_table_text.php:21
+msgid "Booked (not paid)"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_select.php:47
+#: common/class_wbk_db_utils.php:1539
+msgid "Paid (awaiting approval)"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_select.php:50
+#: common/class_wbk_db_utils.php:1540
+msgid "Paid (approved)"
+msgstr "Εξοφλήθηκε"
+
+#: backend/solo-framework/components/class_slf_table_select.php:52
+#: common/class_wbk_db_utils.php:1541
+msgid "Arrived"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_select.php:55
+#: common/class_wbk_db_utils.php:1542
+msgid "Managed by WooCommerce"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_text.php:23
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:139
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:317
+#: common/class_wbk_db_utils.php:2934
+msgid "Customer name"
+msgstr "Ονοματεπώνυμο"
+
+#: backend/solo-framework/components/class_slf_table_wp_user.php:19
+msgid "Give access to this calendar to"
+msgstr ""
+
+#: backend/solo-framework/components/class_slf_table_wp_user.php:22
+msgid "not selected"
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:211
+msgid "Unable to save, please fix the following fields: "
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:280
+msgid "Internal error"
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:300
+msgid "Unable to add, please fix the following fields: "
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:372
+msgid "Create new"
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:395
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:14
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:18
+msgid "ID"
+msgstr ""
+
+#: backend/solo-framework/core/class_slf_table.php:646
+msgid "Fill in a form to add new element:"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:46
+msgid "Free time slots not found"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:71
+msgid "Cancelled by"
+msgstr "Ακυρώθηκε από"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:82
+msgid "Original id"
+msgstr "ID Κράτησης"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:94
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:272
+#: common/class_wbk_db_utils.php:2930
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:15
+msgid "Service"
+msgstr "Υπηρεσία"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:105
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:283
+#: common/class_wbk_db_utils.php:2931
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:17
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:21
+msgid "Date"
+msgstr "Ημ/νία"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:115
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:293
+#: backend/templates/tpl_wbk_backend_schedule.php:12
+#: common/class_wbk_db_utils.php:2932
+#: common/class_wbk_email_notifications.php:198
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:20
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:24
+msgid "Time"
+msgstr "Ώρα"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:127
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:305
+#: common/class_wbk_db_utils.php:2933
+msgid "Places booked"
+msgstr "Αρ. Κρατήσεων"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:149
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:327
+#: common/class_wbk_db_utils.php:2935
+msgid "Customer email"
+msgstr "Email"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:159
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:337
+msgid "Customer phone"
+msgstr "Τηλέφωνο"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:169
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:347
+#: common/class_wbk_db_utils.php:2936
+msgid "Customer comment"
+msgstr "Σχόλια"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:179
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:357
+#: common/class_wbk_db_utils.php:2937
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:35
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:39
+msgid "Custom fields"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:188
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:376
+msgid "Duration"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:197
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:385
+#: common/class_wbk_db_utils.php:2939
+msgid "Payment method"
+msgstr "Μέθοδος πληρωμής"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:206
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:394
+#: backend/templates/tpl_wbk_backend_services.php:91
+#: backend/templates/tpl_wbk_backend_services.php:203
+#: common/class_wbk_db_utils.php:2940
+msgid "Price"
+msgstr "Ποσό (χωρίς ΦΠΑ 24%)"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:220
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:417
+msgid "Select date range:"
+msgstr "Επιλέξτε το εύρος ημερομηνιών:"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:223
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:420
+msgid "Select services:"
+msgstr "Επιλέξτε υπηρεσίες:"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:245
+msgid "Regular appointments"
+msgstr "Πίσω στις ενεργείς κρατήσεις"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:366
+#: common/class_wbk_db_utils.php:2938 common/google_api/class_wbk_gg.php:86
+#: common/google_api/class_wbk_gg.php:93
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:403
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:11
+#: common/class_wbk_db_utils.php:2941
+msgid "Coupon"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:453
+msgid "CSV Export"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_appointments_table.php:457
+msgid "Cancelled appointments"
+msgstr "Δες τις ακυρωμένες κρατήσεις"
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:23
+msgid "Usage limit"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:35
+msgid "Available on"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:47
+#: backend/solo-framework/custom/class_wbk_service_categories_table.php:24
+#: backend/templates/tpl_wbk_backend_services.php:166
+msgid "Services"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:58
+msgid "Used"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:69
+msgid "Discount (percentage)"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_coupons_table.php:82
+msgid "Discount (fixed)"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_email_templates_table.php:11
+#: backend/solo-framework/custom/class_wbk_gg_calendar_table.php:9
+#: backend/solo-framework/custom/class_wbk_service_categories_table.php:11
+#: backend/templates/tpl_wbk_backend_schedule.php:15
+#: backend/templates/tpl_wbk_backend_services.php:32
+#: backend/templates/tpl_wbk_backend_services.php:176
+#: common/class_wbk_email_notifications.php:199
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:23
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:27
+#: webba-booking.php:78 webba-booking.php:182
+msgid "Name"
+msgstr "Όνομα"
+
+#: backend/solo-framework/custom/class_wbk_email_templates_table.php:24
+msgid "Template"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_gg_calendar_table.php:22
+msgid "WordPress user"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_gg_calendar_table.php:33
+msgid "Calendar id"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_gg_calendar_table.php:55
+msgid "Authorization"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_table_filter_services.php:54
+msgid "Select all services or by category"
+msgstr ""
+
+#: backend/solo-framework/custom/class_wbk_table_filter_services.php:71
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: backend/solo-framework/solo-framework.php:260
+msgid "Outer container"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:261
+msgid "Booking form outer container appearance options"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:264
+#: backend/solo-framework/solo-framework.php:314
+#: backend/solo-framework/solo-framework.php:432
+#: backend/solo-framework/solo-framework.php:491
+#: backend/solo-framework/solo-framework.php:839
+#: backend/solo-framework/solo-framework.php:1427
+msgid "Padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:265
+msgid "Outer container padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:273
+#: backend/solo-framework/solo-framework.php:441
+#: backend/solo-framework/solo-framework.php:690
+#: backend/solo-framework/solo-framework.php:830
+#: backend/solo-framework/solo-framework.php:1436
+msgid "Margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:274
+msgid "Outer container margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:282
+#: backend/solo-framework/solo-framework.php:323
+#: backend/solo-framework/solo-framework.php:554
+#: backend/solo-framework/solo-framework.php:726
+#: backend/solo-framework/solo-framework.php:848
+msgid "Border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:283
+msgid "Outer container border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:291
+#: backend/solo-framework/solo-framework.php:332
+#: backend/solo-framework/solo-framework.php:563
+#: backend/solo-framework/solo-framework.php:735
+#: backend/solo-framework/solo-framework.php:857
+msgid "Border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:292
+msgid "Outer container border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:300
+#: backend/solo-framework/solo-framework.php:341
+#: backend/solo-framework/solo-framework.php:500
+#: backend/solo-framework/solo-framework.php:622
+#: backend/solo-framework/solo-framework.php:708
+#: backend/solo-framework/solo-framework.php:866
+msgid "Background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:301
+msgid "Outer container background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:310
+msgid "Inner container"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:311
+msgid "Booking form inner container appearance options"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:315
+msgid "Inner container padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:324
+msgid "Inner container border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:333
+msgid "Inner container border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:342
+msgid "Inner container background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:351
+msgid "Separators"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:352
+msgid "Booking form separators"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:355
+msgid "Step separator margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:356
+msgid "Booking form step separator margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:364
+msgid "Step separator border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:365
+msgid "Booking form step separator border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:373
+msgid "Select hours label\tunderline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:374
+msgid "Booking form select hours label underline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:382
+msgid "Select hours label underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:383
+msgid "Booking form select hours label underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:391
+msgid "Day title underline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:392
+msgid "Booking form day title underline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:400
+msgid "Day title underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:401
+msgid "Booking form day title underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:409
+msgid "Customer details title underline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:410
+msgid "Booking form customer details title underline margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:418
+msgid "Customer details title underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:419
+msgid "Booking form customer details title underline style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:428
+msgid "Input labels"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:429
+msgid "Booking form input labels"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:433
+msgid "Input label padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:442
+msgid "Outer label margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:450
+#: backend/solo-framework/solo-framework.php:649
+msgid "Label color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:451
+msgid "Booking form input labels color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:459
+#: backend/solo-framework/solo-framework.php:658
+msgid "Label font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:460
+msgid "Booking form input labels font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:468
+#: backend/solo-framework/solo-framework.php:667
+msgid "Label font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:469
+msgid "Booking form input labels font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:477
+#: backend/solo-framework/solo-framework.php:676
+msgid "Label font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:478
+msgid "Booking form input labels font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:487
+msgid "Inputs"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:488
+msgid "Booking form inputs"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:492
+msgid "Input padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:501
+msgid "Booking form input background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:509
+msgid "Input text color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:510
+msgid "Booking form input text color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:518
+msgid "Input font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:519
+msgid "Booking form input font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:527
+msgid "Input font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:528
+msgid "Booking form input font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:536
+msgid "Input font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:537
+msgid "Booking form input font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:545
+msgid "Input height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:546
+msgid "Booking form input height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:555
+msgid "Input border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:564
+msgid "Booking form input border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:573
+msgid "Checkboxes"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:574
+msgid "Booking form checkboxes"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:577
+msgid "Checkbox height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:578
+msgid "Booking form checkbox height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:586
+msgid "Checkbox width"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:587
+msgid "Booking form checkbox width"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:595
+msgid "Checkbox marker line-height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:596
+msgid "Booking form marker line-height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:604
+msgid "Checkbox marker size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:605
+msgid "Booking form marker size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:613
+msgid "Checkbox marker color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:614
+msgid "Booking form checkbox marker color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:623
+msgid "Booking form checkbox background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:631
+msgid "Checkbox border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:632
+msgid "Booking form checkbox border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:640
+msgid "Checkbox border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:641
+msgid "Booking form checkbox border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:650
+msgid "Checkbox label color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:659
+msgid "Checkbox label font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:668
+msgid "Checkbox label font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:677
+msgid "Checkbox label font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:686
+msgid "Buttons"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:687
+msgid "Booking form buttons"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:691
+#: backend/solo-framework/solo-framework.php:965
+msgid "Button margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:699
+msgid "Height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:700
+msgid "Button height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:709
+msgid "Button background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:717
+msgid "Text color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:718
+msgid "Button text color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:727
+#: backend/solo-framework/solo-framework.php:983
+msgid "Button border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:736
+msgid "Button border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:744
+#: backend/solo-framework/solo-framework.php:1019
+msgid "Button font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:745
+msgid "Booking form button font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:753
+#: backend/solo-framework/solo-framework.php:1037
+msgid "Button font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:754
+msgid "Booking form button font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:762
+#: backend/solo-framework/solo-framework.php:1046
+msgid "Button font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:763
+msgid "Booking form button font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:772
+msgid "Time slots"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:773
+msgid "Booking form time slots"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:776
+msgid "Day title align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:785
+msgid "Day title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:794
+msgid "Day title color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:803
+msgid "Day title font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:812
+msgid "Day title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:821
+msgid "Day title line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:831
+msgid "Time slot block margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:840
+msgid "Time slot block padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:849
+msgid "Time slot block border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:858
+msgid "Time slot border radius"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:867
+msgid "Time slot background color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:875
+msgid "Time font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:876
+msgid "Time slot time font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:884
+msgid "Time color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:885
+msgid "Time slot time color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:893
+msgid "Time font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:894
+msgid "Time slot time font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:902
+msgid "Time font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:903
+msgid "Time slot time font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:911
+msgid "Time line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:912
+msgid "Time slot time line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:920
+msgid "Available font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:921
+msgid "Time slot time available size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:929
+msgid "Available color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:930
+msgid "Time slot available color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:938
+msgid "Available font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:939
+msgid "Time slot available font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:947
+msgid "Available font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:948
+msgid "Time slot available font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:956
+msgid "Available line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:957
+msgid "Time slot available line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:966
+msgid "Time slot button margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:974
+msgid "Button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:975
+msgid "Time slot button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:984
+msgid "Time slot button border"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:992
+msgid "Button color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:993
+msgid "Time slot button color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1001
+msgid "Active button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1002
+msgid "Time slot active button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1010
+msgid "Active button color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1011
+msgid "Time slot active button color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1020
+msgid "Time slot button font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1028
+msgid "Button line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1029
+msgid "Time slot button line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1038
+msgid "Time slot button font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1047
+msgid "Time slot button font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1056
+msgid "Customer details"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1057
+msgid "Booking form customer details"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1060
+#: backend/solo-framework/solo-framework.php:1418
+msgid "Title align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1061
+msgid "Customer details title align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1069
+msgid "Title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1070
+msgid "Customer details title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1078
+msgid "Title color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1079
+msgid "Customer details title color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1087
+msgid "Title font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1088
+msgid "Customer details title font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1096
+msgid "Title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1097
+msgid "Customer details title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1105
+msgid "Details title line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1106
+msgid "Customer details title line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1114
+msgid "Sub-title align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1115
+msgid "Customer details sub-title align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1123
+msgid "Sub-title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1124
+msgid "Customer details sub-title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1132
+msgid "Sub-title color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1133
+msgid "Customer details sub-title color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1141
+msgid "Sub-title font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1142
+msgid "Customer details sub-title font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1150
+msgid "Sub-title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1151
+msgid "Customer details sub-title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1159
+msgid "Details sub-title line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1160
+msgid "Customer details sub-title line height"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1385
+msgid "Save options"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1397
+msgid "Load presets"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1406
+msgid "Serialize options"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1414
+msgid "Multi-Service"
+msgstr "Υπηρεσίες"
+
+#: backend/solo-framework/solo-framework.php:1415
+msgid "Options for multi service mode"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1419
+msgid "Service title text align"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1428
+msgid "Service title text padding"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1437
+msgid "Service title text margin"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1445
+msgid "Color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1446
+msgid "Service title text color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1454
+msgid "Font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1455
+msgid "Service title font size"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1463
+msgid "Font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1464
+msgid "Service title Font style"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1472
+msgid "Font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1473
+msgid "Service title font weight"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1490
+msgid "Disabled button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1491
+msgid "Disabled time slot button background"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1498
+msgid "Disabled button color"
+msgstr ""
+
+#: backend/solo-framework/solo-framework.php:1499
+msgid "Disabled time slot button color"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_gg_calendars.php:19
+msgid "Calendar not found"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_gg_calendars.php:41
+msgid "The Google Calendar API require PHP 5.4 or greater. Your version is "
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_options.php:8
+msgid "Settings"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:17
+#: backend/templates/tpl_wbk_backend_services.php:38
+#: backend/templates/tpl_wbk_backend_services.php:182
+#: common/class_wbk_email_notifications.php:200
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:26
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:30
+#: webba-booking.php:79 webba-booking.php:183
+msgid "Email"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:19
+#: common/class_wbk_email_notifications.php:201
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:29
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:33
+#: webba-booking.php:80 webba-booking.php:184
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:21
+msgid "Items count"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:42
+msgid "Custom data"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:44
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:32
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:36
+#: webba-booking.php:81 webba-booking.php:185
+msgid "Comment"
+msgstr "Σχόλια"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:51
+msgid "Schedule"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:58
+#: backend/templates/tpl_wbk_backend_schedule.php:82
+msgid "Create at least one service. "
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:60
+msgid "Click to display the service schedule:"
+msgstr "Κάνετε κλικ για να εμφανίσετε το χρονοδιάγραμμα υπηρεσίας:"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:84
+msgid "Schedule Tools:"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:85
+msgid "Date auto lock"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:86
+msgid "Date auto unlock"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:87
+msgid "Time slot auto lock"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:88
+msgid "Time slot auto unlock"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:8
+msgid "Confirm action"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:10
+msgid ""
+"These services will be permanently deleted and cannot be recovered. Continue?"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:13
+#: backend/templates/tpl_wbk_backend_services.php:18
+msgid "Error"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:15
+msgid "Unable to add the gap."
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:20
+msgid "Unable to set the gap."
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:35
+#: backend/templates/tpl_wbk_backend_services.php:179
+msgid "Description"
+msgstr "Περιγραφή υπηρεσίας"
+
+#: backend/templates/tpl_wbk_backend_services.php:41
+msgid "Maximum booking count per time slot"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:45
+msgid "Minimum booking count per time slot"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:51
+msgid "Duration (in minutes)"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:53
+msgid "Gap (in minutes)"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:55
+#: backend/templates/tpl_wbk_backend_services.php:191
+msgid "Step"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:57
+msgid "Available to users"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:65
+msgid " (has access)"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:76
+msgid "Select form"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:79
+msgid "default form"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:93
+msgid "Payment methods"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:103
+msgid "Notification email template"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:114
+msgid "Reminder email template"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:125
+msgid "Invoice email template"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:127
+msgid "Not set"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:136
+msgid "Preparation time (hours)"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:139
+msgid "Availability date range. Leave empty to set unlimited."
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:152
+msgid "Low limit for multiple mode. Leave empty to not use low limit"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:155
+msgid "Limit for multiple mode. Leave empty to global option"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:185
+msgid "Duration "
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:188
+msgid "Gap"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:194
+msgid "Items"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:197
+msgid "Business hours"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:200
+msgid "Users"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:284
+msgid "Delete service"
+msgstr ""
+
+#: common/class_wbk_ajax_controller.php:100
+#: common/class_wbk_ajax_controller.php:118
+msgid "from"
+msgstr "Ενδιαφέρομαι από τις"
+
+#: common/class_wbk_ajax_controller.php:131
+msgid "Search time slots"
+msgstr "Έλεγχος διαθεσιμότητας"
+
+#: common/class_wbk_ajax_controller.php:373
+#: common/class_wbk_ajax_controller.php:380
+msgid "Show more"
+msgstr "Περισσότερες ημερομηνίες"
+
+#: common/class_wbk_ajax_controller.php:991
+msgid "Unable to create payment."
+msgstr ""
+"Η πληρωμή της κράτησης του χώρου δεν μπορεί να πραγματοποιηθεί αυτή τη "
+"στιγμή. Παρακαλώ δοκιμάστε ξανά."
+
+#: common/class_wbk_ajax_controller.php:1121
+msgid "Customer"
+msgstr "Πελάτης"
+
+#: common/class_wbk_ajax_controller.php:1170
+msgid "invalid payment token"
+msgstr ""
+
+#: common/class_wbk_ajax_controller.php:1177
+msgid "invalid appointment id(s)"
+msgstr ""
+
+#: common/class_wbk_ajax_controller.php:1184
+msgid "unable to initalize Stripe object"
+msgstr ""
+
+#: common/class_wbk_ajax_controller.php:1203
+msgid "incorrect amount"
+msgstr ""
+
+#: common/class_wbk_appointment.php:94
+msgid "incorrect service"
+msgstr ""
+
+#: common/class_wbk_appointment.php:110 common/class_wbk_service_deprecated.php:58
+msgid "incorrect email"
+msgstr ""
+
+#: common/class_wbk_appointment.php:127 common/class_wbk_service_deprecated.php:75
+msgid "incorrect duration"
+msgstr ""
+
+#: common/class_wbk_appointment.php:142 common/class_wbk_service_deprecated.php:189
+msgid "incorrect quantity"
+msgstr ""
+
+#: common/class_wbk_appointment.php:157
+msgid "incorrect time offset"
+msgstr ""
+
+#: common/class_wbk_appointment.php:172
+msgid "incorrect time"
+msgstr ""
+
+#: common/class_wbk_appointment.php:194
+msgid "incorrect day"
+msgstr ""
+
+#: common/class_wbk_appointment.php:209
+msgid "incorrect attachment"
+msgstr ""
+
+#: common/class_wbk_appointment.php:267
+msgid "incorrect phone"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:1549
+msgid "One-way (export)"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:1550
+msgid "One-way (import)"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:1551
+msgid "Two-ways"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:1617 common/class_wbk_db_utils.php:1633
+msgid "Auto"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:2910
+msgid "Cardholder name"
+msgstr "Ονοματεπώνυμο"
+
+#: common/class_wbk_db_utils.php:2911
+msgid "Address line 1"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:2912
+msgid "Address line 2"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:2913
+msgid "City"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:2914
+msgid "State"
+msgstr "Κατάσταση"
+
+#: common/class_wbk_db_utils.php:2915
+msgid "ZIP"
+msgstr ""
+
+#: common/class_wbk_db_utils.php:2916
+msgid "Country"
+msgstr ""
+
+#: common/class_wbk_entity.php:29
+msgid "incorrect id"
+msgstr ""
+
+#: common/class_wbk_entity.php:44
+msgid "incorrect name"
+msgstr ""
+
+#: common/class_wbk_entity.php:80
+msgid "incorrect description"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:94
+msgid "incorrect multiple limit"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:108
+msgid "incorrect multiple low limit"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:126
+msgid "incorrect prepare_time"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:142
+msgid "incorrect step"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:204
+msgid "incorrect min_quantity"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:219
+msgid "incorrect priority"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:233
+msgid "incorrect price"
+msgstr ""
+
+#: common/class_wbk_service_deprecated.php:250
+msgid "incorrect interval"
+msgstr ""
+
+#: common/class_wbk_service_schedule.php:281
+msgid "Select time slot"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:86
+msgid "authorization required"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:87
+msgid ""
+"IMPORTANT NOTICE: add the following URL in the Google Cloud Console or "
+"contact administrator before authorization:"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:90
+msgid "Authorize"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:93
+msgid "authorization failed"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:95
+msgid "Re-authorize"
+msgstr ""
+
+#: common/google_api/class_wbk_gg.php:104
+msgid "Remove authorization"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:263
+#: common/stripe/class_wbk_stripe.php:286
+msgid "unknown error"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:271
+msgid "too many requests made to the API too quickly"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:274
+msgid "invalid parameters were supplied to Stripe's API"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:277
+msgid "authentication with Stripe's API failed"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:280
+msgid "network communication with Stripe failed"
+msgstr ""
+
+#: common/stripe/class_wbk_stripe.php:283
+msgid "generic Stripe error"
+msgstr ""
+
+#: common/woocommerce/class_wbk_woocommerce.php:177
+msgid "WooCommerce not found"
+msgstr ""
+
+#: common/woocommerce/class_wbk_woocommerce.php:181
+msgid "Product ID not specified correctly"
+msgstr ""
+
+#: common/woocommerce/class_wbk_woocommerce.php:185
+msgid "Booking product not exists"
+msgstr ""
+
+#: common/woocommerce/class_wbk_woocommerce.php:189
+msgid "There are no bookings available for adding to cart"
+msgstr ""
+
+#: frontend/classes/class_wbk_frontend_booking.php:252
+msgid "January"
+msgstr "Ιανουάριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:253
+msgid "February"
+msgstr "Φεβρουάριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:254
+msgid "March"
+msgstr "Μάρτιος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:255
+msgid "April"
+msgstr "Απρίλιος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:256
+#: frontend/classes/class_wbk_frontend_booking.php:268
+msgid "May"
+msgstr "Μάιος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:257
+msgid "June"
+msgstr "Ιούνιος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:258
+msgid "July"
+msgstr "Ιούλιος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:259
+msgid "August"
+msgstr "Αύγουστος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:260
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:261
+msgid "October"
+msgstr "Οκτώβριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:262
+msgid "November"
+msgstr "Νοέμβριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:263
+msgid "December"
+msgstr "Δεκέμβριος"
+
+#: frontend/classes/class_wbk_frontend_booking.php:264
+msgid "Jan"
+msgstr "Ιαν"
+
+#: frontend/classes/class_wbk_frontend_booking.php:265
+msgid "Feb"
+msgstr "Φεβ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:266
+msgid "Mar"
+msgstr "Μαρ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:267
+msgid "Apr"
+msgstr "Απρ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:269
+msgid "Jun"
+msgstr "Ιουν"
+
+#: frontend/classes/class_wbk_frontend_booking.php:270
+msgid "Jul"
+msgstr "Ιούλ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:271
+msgid "Aug"
+msgstr "Αύγ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:272
+msgid "Sep"
+msgstr "Σεπ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:273
+msgid "Oct"
+msgstr "Οκτ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:274
+msgid "Nov"
+msgstr "Νοέ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:275
+msgid "Dec"
+msgstr "Δεκ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:283
+msgid "Sun"
+msgstr "Κυρ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:284
+msgid "Mon"
+msgstr "Δευ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:285
+msgid "Tue"
+msgstr "Τρι"
+
+#: frontend/classes/class_wbk_frontend_booking.php:286
+msgid "Wed"
+msgstr "Τετ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:287
+msgid "Thu"
+msgstr "Πεμ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:288
+msgid "Fri"
+msgstr "Παρ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:289
+msgid "Sat"
+msgstr "Σαβ"
+
+#: frontend/classes/class_wbk_frontend_booking.php:290
+msgid "Today"
+msgstr "Σήμερα"
+
+#: frontend/classes/class_wbk_frontend_booking.php:291
+msgid "Clear"
+msgstr "Ελαχιστοποίηση"
+
+#: frontend/classes/class_wbk_frontend_booking.php:294
+msgid "Next month"
+msgstr "Επόμενος μήνας"
+
+#: frontend/classes/class_wbk_frontend_booking.php:295
+msgid "Previous  month"
+msgstr "Προηγούμενος μήνας"
+
+#: frontend/classes/class_wbk_frontend_booking.php:310
+msgid "Something went wrong, please try again."
+msgstr "Κάτι πήγε στραβά! Παρακαλώ δοκιμάστε ξανά."
+
+#: frontend/classes/class_wbk_frontend_booking.php:413
+msgid "Start booking"
+msgstr ""
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:167
+#: frontend/templates/tpl_wbk_frontend_landing.php:162
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:129
+msgid "Appointment cancelled"
+msgstr ""
+"Ο διαχειριστής ακύρωσε επιτυχώς όλα τα χρονικά περιθώρια της κράτησης του "
+"χώρου. Ο διαχειριστής και ο πελάτης έχουν λάβει ένα email επιβεβαίωσης "
+"ακύρωσης κράτησης. Αριθμός χρονικών περιθωρίων που ακυρώθηκαν"
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:237
+#: frontend/templates/tpl_wbk_frontend_landing.php:233
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:203
+msgid "Appointment approved"
+msgstr ""
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:371
+#: frontend/templates/tpl_wbk_frontend_landing.php:351
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:337
+msgid "appointment(s) not found"
+msgstr ""
+
+#: webba-booking.php:68 webba-booking.php:162
+msgid "Book an appointment on or after"
+msgstr ""
+
+#: webba-booking.php:69 webba-booking.php:163
+msgid "Book an appointment on"
+msgstr ""
+
+#: webba-booking.php:70 webba-booking.php:165
+msgid "Available time slots"
+msgstr ""
+
+#: webba-booking.php:71 webba-booking.php:82 webba-booking.php:168
+msgid "Thanks for booking appointment"
+msgstr ""
+
+#: webba-booking.php:72 webba-booking.php:164
+msgid "Suitable hours"
+msgstr ""
+
+#: webba-booking.php:73
+msgid "Fill in a form"
+msgstr ""
+
+#: webba-booking.php:74 webba-booking.php:167
+msgid "Booking items count"
+msgstr ""
+
+#: webba-booking.php:75
+msgid "date..."
+msgstr ""
+
+#: webba-booking.php:76 webba-booking.php:177
+msgid "Booked"
+msgstr ""
+
+#: webba-booking.php:77 webba-booking.php:187 webba-booking.php:188
+msgid "Book"
+msgstr ""
+
+#: webba-booking.php:83
+msgid "Pay with PayPal"
+msgstr ""
+
+#: webba-booking.php:85 webba-booking.php:192
+msgid "#service on #date at #time"
+msgstr ""
+
+#: webba-booking.php:86 webba-booking.php:194
+msgid "Subtotal"
+msgstr ""
+
+#: webba-booking.php:87 webba-booking.php:195
+msgid "Total"
+msgstr ""
+
+#: webba-booking.php:90 webba-booking.php:201
+msgid "Payment completed."
+msgstr ""
+
+#: webba-booking.php:97 webba-booking.php:221
+msgid "Please, enter your email to confirm cancelation"
+msgstr ""
+
+#: webba-booking.php:100 webba-booking.php:219
+msgid "Paid booking couldn't be canceled."
+msgstr ""
+
+#: webba-booking.php:141
+msgid "You have successfully booked an appointment"
+msgstr ""
+
+#: webba-booking.php:157
+msgid "New appointment booking"
+msgstr ""
+
+#: webba-booking.php:161
+msgid "Select a service"
+msgstr ""
+
+#: webba-booking.php:166
+msgid "You are booking #service on #date  at #time <br>Please, fill in a form:"
+msgstr ""
+
+#: webba-booking.php:169
+msgid ""
+"Unfortunately we were unable to meet your search criteria. Please change the "
+"criteria and try again."
+msgstr ""
+
+#: webba-booking.php:179
+msgid "Appointment notification"
+msgstr ""
+
+#: webba-booking.php:186
+msgid "date"
+msgstr ""
+
+#: webba-booking.php:215
+msgid "Your local time:<br>#ds<br>#ts"
+msgstr ""

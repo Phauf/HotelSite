@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugion\n"
+"POT-Creation-Date: 2019-04-17 21:06+0300\n"
+"PO-Revision-Date: 2019-04-20 16:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: Plugion Team\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controller/default_field_validations.php:15
+#, php-format
+msgid "%s must be a maximum of 256 characters"
+msgstr ""
+
+#: controller/default_field_validations.php:31
+#: controller/default_field_validations.php:45
+#, php-format
+msgid "Value of %s is not acceptable"
+msgstr ""
+
+#: model/table.php:404
+#, php-format
+msgid "Validation of %s failed"
+msgstr ""
+
+#: model/table.php:419
+#, php-format
+msgid "Field %s is empty"
+msgstr ""
+
+#: plugion.php:101
+msgid "The following fields are wrong:"
+msgstr ""
+
+#: plugion.php:102 plugion.php:113
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#: plugion.php:103
+msgid "Element not found"
+msgstr ""
+
+#: plugion.php:104
+msgid "Bad request"
+msgstr ""
+
+#: plugion.php:105
+msgid "Failed"
+msgstr ""
+
+#: plugion.php:106
+msgid "Forbidden"
+msgstr ""
+
+#: plugion.php:107
+msgid "Please, set at least one filter"
+msgstr ""
+
+#: plugion.php:108
+msgid "No data available in table"
+msgstr ""
+
+#: plugion.php:109
+msgid "Here _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: plugion.php:110
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: plugion.php:111
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: plugion.php:112
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: plugion.php:114
+msgid "Processing..."
+msgstr ""
+
+#: plugion.php:115
+msgid "Search"
+msgstr ""
+
+#: renderer/templates/filter_form.php:20
+msgid "Filters for"
+msgstr ""
+
+#: renderer/templates/filter_form.php:24
+msgid "Apply"
+msgstr "Застосувати"
+
+#: renderer/templates/filter_form.php:25
+msgid "Apply and close"
+msgstr ""
+
+#: renderer/templates/properties_add_form.php:17
+msgid "New"
+msgstr ""
+
+#: renderer/templates/properties_add_form.php:21
+#: renderer/templates/properties_update_form.php:19
+msgid "Save"
+msgstr "Зберігти"
+
+#: renderer/templates/properties_add_form.php:22
+#: renderer/templates/properties_update_form.php:20
+msgid "Save and close"
+msgstr ""
+
+#: renderer/templates/properties_add_form.php:23
+#: renderer/templates/properties_update_form.php:21
+msgid "Discard changes"
+msgstr ""
+
+#: renderer/templates/table.php:19
+msgid "No data available."
+msgstr ""
+
+#: renderer/templates/table.php:25
+msgid "Add"
+msgstr ""
+
+#: renderer/templates/table.php:31
+msgid "Filter"
+msgstr ""
+
+#: renderer/templates/table.php:37
+msgid "ID"
+msgstr ""

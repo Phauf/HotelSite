@@ -1,0 +1,5012 @@
+# Harald Villemoes <harald@villemoes.dk>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: wbk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 20:48+0200\n"
+"PO-Revision-Date: 2021-02-15 17:54+0200\n"
+"Last-Translator: haral <harald@villemoes.dk>\n"
+"Language-Team: v.r.c\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: backend/classes\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+
+#: backend/classes/class_wbk_backend_options.php:3122
+#, fuzzy
+msgid "\"Created by\" property for the events"
+msgstr "\"Oprettet af\" egenskab for begivenheden"
+
+#: backend/classes/class_wbk_backend_options.php:4533
+msgid "\"From: name\" is wrong"
+msgstr "\"Fra: navn\" er forkert"
+
+#: webba-booking-lite.php:202 webba-booking-lite.php:326
+msgid "#service on #date at #time"
+msgstr "#service den #date kl. #time"
+
+#: vendor/plugion/utils/class-plugion-translator.php:64
+#: webba-booking-lite.php:692
+#, php-format
+msgid "%s is required"
+msgstr "%1 er påkrævet"
+
+#: vendor/plugion/utils/class-plugion-translator.php:65
+#: webba-booking-lite.php:693
+#, php-format
+msgid "%s must be a maximum of 256 characters"
+msgstr "%s må højst være 256 tegn"
+
+#: vendor/plugion/utils/class-plugion-translator.php:67
+#: webba-booking-lite.php:695
+#, php-format
+msgid "%s must be a maximum of 65535 characters"
+msgstr "%s må højst være 65535 tegn"
+
+#: model/class-wbk-model.php:79
+msgid "'On Booking' notification template"
+msgstr "'Booking' notifikations template"
+
+#: vendor/plugion/utils/class-plugion-translator.php:80
+#: webba-booking-lite.php:708
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtreret fra i alt _MAX_ total poster)"
+
+#: backend/classes/class_wbk_backend_options.php:6367
+msgid "*Expiration feature affect only on booking made at the front-end"
+msgstr "*Udløbsfunktion virker kun på bookings oprettet i front-end"
+
+#: backend/classes/class_wbk_backend_options.php:6368
+msgid ""
+"*Expiration feature will not affect on bookings in the process of payment, "
+"except if a customer canceled payment at PayPal side"
+msgstr ""
+"*Udløbsfunktionen påvirker ikke bookings med igangværende betaling, bortset "
+"fra hvis en kunde afviser en betaling i PayPal"
+
+#: backend/classes/class_wbk_backend_options.php:6179
+msgid "01/15/2020 15:00-18:00"
+msgstr "15/01/2020 15:00-18:00"
+
+#: backend/classes/class_wbk_backend_options.php:4933
+msgid "1"
+msgstr "1"
+
+#: backend/classes/class_wbk_backend_options.php:6175
+msgid "1 01/15/2020 15:00-18:00"
+msgstr "1 15/01/2020 15:00-18:00"
+
+#: backend/classes/class_wbk_backend_options.php:4942
+msgid "10"
+msgstr "10"
+
+#: backend/classes/class_wbk_backend_options.php:4934
+msgid "2"
+msgstr "2"
+
+#: backend/classes/class_wbk_backend_options.php:4935
+#, fuzzy
+msgid "3"
+msgstr "3"
+
+#: backend/classes/class_wbk_backend_options.php:4936
+msgid "4"
+msgstr "4"
+
+#: backend/classes/class_wbk_backend_options.php:4937
+msgid "5"
+msgstr "5"
+
+#: backend/classes/class_wbk_backend_options.php:4938
+msgid "6"
+msgstr "6"
+
+#: backend/classes/class_wbk_backend_options.php:4939
+msgid "7"
+msgstr "7"
+
+#: backend/classes/class_wbk_backend_options.php:4940
+msgid "8"
+msgstr "8"
+
+#: backend/classes/class_wbk_backend_options.php:4941
+#, fuzzy
+msgid "9"
+msgstr "9"
+
+#: vendor/plugion/utils/class-plugion-translator.php:89
+#: webba-booking-lite.php:717
+msgid ": activate to sort column ascending"
+msgstr ": aktiver for at sortere stigende"
+
+#: vendor/plugion/utils/class-plugion-translator.php:90
+#: webba-booking-lite.php:718
+msgid ": activate to sort column descending"
+msgstr ": aktiver for at sortere faldende"
+
+#: backend/classes/class_wbk_backend_options.php:4823
+msgid "A-Z"
+msgstr "A-Z"
+
+#: renderer/templates/plugion/input_pe_business_hours.php:32
+msgid "Active"
+msgstr "Aktiv"
+
+#: renderer/templates/backend_page.php:23
+msgid "Active appointments"
+msgstr "Aktive aftaler"
+
+#: backend/solo-framework/solo-framework.php:993
+msgid "Active button background"
+msgstr "baggrund for aktiv klap"
+
+#: backend/solo-framework/solo-framework.php:1002
+msgid "Active button color"
+msgstr "farve for aktiv knap"
+
+#: backend/class_wbk_backend.php:67
+#: backend/classes/class_wbk_backend_schedule.php:59
+#: renderer/templates/plugion/input_pe_business_hours.php:47
+msgid "Add"
+msgstr "Tilføj"
+
+#: backend/classes/class_wbk_backend_schedule.php:58
+msgid "Add appointment"
+msgstr "Opret aftale"
+
+#: backend/classes/class_wbk_backend_options.php:7300
+msgid "Add event for each appointment"
+msgstr "Tilføj begivenhed til hver aftale"
+
+#: backend/classes/class_wbk_backend_options.php:7299
+msgid "Add one event"
+msgstr "Tilføj en begivenhed"
+
+#: common/class_wbk_date_time_utils.php:206
+msgid "Add the second gap"
+msgstr "Tilføj det andet hul"
+
+#: backend/classes/class_wbk_backend_options.php:7009
+#: webba-booking-lite.php:231 webba-booking-lite.php:419
+msgid "Add to cart"
+msgstr "Læg i indkøbskurven"
+
+#: backend/classes/class_wbk_backend_options.php:2753
+msgid "Add to cart error message"
+msgstr "Fejlmeddelelse for Læg i indkøbskurven"
+
+#: backend/classes/class_wbk_backend_options.php:2479
+msgid "Add to customer's Google Calendar button text"
+msgstr "Knap tekst for Tilføj til kundens Google kalender"
+
+#: backend/classes/class_wbk_backend_options.php:5374
+#: webba-booking-lite.php:224 webba-booking-lite.php:393
+msgid "Add to my Google Calendar"
+msgstr "Tilføj til Google kalender"
+
+#: backend/class_wbk_backend.php:68
+msgid "Add Webba Booking form"
+msgstr "Tilføj Webba Booking formular"
+
+#: backend/classes/class_wbk_backend_options.php:5454
+msgid "Add {n} for new line (only for Google Calendar events)"
+msgstr "Brug {n} for linieskift (kun for Google kalender begivenheder)"
+
+#: common/class_wbk_email_notifications.php:238
+msgid "Additional information"
+msgstr "Yderligere information"
+
+#: backend/classes/class_wbk_backend_options.php:3226
+msgid "Additional payment information"
+msgstr "Yderligere betalings information"
+
+#: common/class_wbk_db_utils.php:2690 common/class_wbk_db_utils.php:2691
+msgid "Address line 1"
+msgstr "Adresselinje 1"
+
+#: backend/classes/class_wbk_backend_options.php:4258
+msgid "Administrator daily email time is wrong"
+msgstr "Administrator daglig email tid er forkert"
+
+#: backend/classes/class_wbk_backend_options.php:1107
+msgid "Administrator reminders message"
+msgstr "Administrators påmindelsesmeddelelse"
+
+#: backend/class_wbk_backend.php:134
+msgid "All categories"
+msgstr "Alle kategorier"
+
+#: backend/class_wbk_backend.php:118
+msgid "All services"
+msgstr "Alle tjenester"
+
+#: backend/classes/class_wbk_backend_options.php:5966
+msgid "all services"
+msgstr "Alle tjenester"
+
+#: backend/classes/class_wbk_backend_options.php:6180
+msgid "All services are available on 01/15/2020 at 15:00-18:00"
+msgstr "Alle tjenester er tilgængelige den 01/15/2020 kl. 15:00-18:00"
+
+#: backend/classes/class_wbk_backend_options.php:4924
+#: backend/classes/class_wbk_backend_options.php:6209
+#: backend/classes/class_wbk_backend_options.php:6227
+msgid "Allow"
+msgstr "Tillad"
+
+#: backend/classes/class_wbk_backend_options.php:2172
+msgid "Allow book ongoing time slot"
+msgstr "Tillad booking af løbende tider"
+
+#: backend/classes/class_wbk_backend_options.php:1531
+msgid "Allow cancel or approve by link"
+msgstr "Tillad aflysning eller godkendelse via link"
+
+#: backend/classes/class_wbk_backend_options.php:333
+msgid "Allow cancellation of paid appointments:"
+msgstr "Tillad aflysning af betalte aftaler:"
+
+#: backend/classes/class_wbk_backend_options.php:359
+msgid "Allow only one appointment per day from email:"
+msgstr "Tillad kun en aftale per dag fra email:"
+
+#: backend/classes/class_wbk_backend_options.php:380
+msgid "Allow only one appointment per service from email:"
+msgstr "Tillad kun en tjeneste per dag fra email:"
+
+#: backend/classes/class_wbk_backend_options.php:346
+msgid "Allow only one appointment per slot from email:"
+msgstr "Tillad kun en aftale per blok fra email:"
+
+#: backend/classes/class_wbk_backend_options.php:265
+msgid "Allow payments only for approved appointments:"
+msgstr "Tillad kun betaling for godkendte aftaler:"
+
+#: backend/classes/class_wbk_backend_options.php:4619
+msgid "Allow select only maximum places"
+msgstr "Tillad kun at vælge maksimalt antal pladser"
+
+#: backend/classes/class_wbk_backend_options.php:4618
+msgid "Allow select only one place"
+msgstr "Tillad kun at vælge en plads"
+
+#: backend/classes/class_wbk_backend_options.php:238
+msgid "Allow unlock manually:"
+msgstr "Tillad manuel oplåsning:"
+
+#: backend/classes/class_wbk_backend_options.php:2054
+msgid "Allow using attachments"
+msgstr "Tillad "
+
+#: backend/classes/class_wbk_backend_options.php:2081
+msgid "Allow using the service id in url"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5150
+#: backend/classes/class_wbk_backend_options.php:5171
+#: backend/classes/class_wbk_backend_options.php:5186
+#: backend/classes/class_wbk_backend_options.php:5202
+#: backend/classes/class_wbk_backend_options.php:5229
+#: backend/classes/class_wbk_backend_options.php:5846
+#: backend/classes/class_wbk_backend_options.php:6680
+msgid "Allowed HTML tags"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_appearance.php:34
+#: backend/templates/tpl_wbk_backend_appearance.php:3
+msgid "Appearance"
+msgstr ""
+
+#: vendor/plugion/utils/class-plugion-translator.php:92
+#: webba-booking-lite.php:720
+msgid "Apply"
+msgstr ""
+
+#: vendor/plugion/utils/class-plugion-translator.php:93
+#: webba-booking-lite.php:721
+msgid "Apply and close"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:1157
+#: backend/classes/class_wbk_backend_schedule.php:1216
+#: backend/classes/class_wbk_backend_schedule.php:1287
+#: backend/classes/class_wbk_backend_schedule.php:1357
+msgid "Apply only for the next days of the week"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:61
+#: model/class-wbk-model.php:132 model/class-wbk-model.php:178
+msgid "Appointment"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:5300
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:273
+#: frontend/templates/tpl_wbk_frontend_landing.php:270
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:238
+msgid "Appointment approved #count"
+msgstr "Aftale godkendt #count"
+
+#: backend/classes/class_wbk_backend_options.php:7232
+msgid "appointment booked"
+msgstr "aftale book'et"
+
+#: backend/classes/class_wbk_backend_options.php:5422
+#: webba-booking-lite.php:221
+msgid "Appointment booking doesn't exist."
+msgstr "Denne aftale findes ikke"
+
+#: backend/classes/class_wbk_backend_options.php:3952
+#: common/class_wbk_email_notifications.php:60 webba-booking-lite.php:368
+msgid "Appointment canceled"
+msgstr "Aftale aflyst"
+
+#: backend/classes/class_wbk_backend_options.php:5289
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:172
+#: frontend/templates/tpl_wbk_frontend_landing.php:166
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:130
+msgid "Appointment canceled #count"
+msgstr "Aftale aflyst #count"
+
+#: backend/classes/class_wbk_backend_options.php:5410
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:545
+#: frontend/templates/tpl_wbk_frontend_landing.php:523
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:506
+#: webba-booking-lite.php:223 webba-booking-lite.php:392
+msgid "Appointment data added to Google Calendar."
+msgstr "Aftale tilføjet til Google kalender."
+
+#: backend/classes/class_wbk_backend_options.php:5398
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:551
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:670
+#: frontend/templates/tpl_wbk_frontend_landing.php:529
+#: frontend/templates/tpl_wbk_frontend_landing.php:648
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:512
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:631
+#: webba-booking-lite.php:222 webba-booking-lite.php:391
+msgid "Appointment data not added to Google Calendar."
+msgstr "Aftale ikke tilføjet til Google kalender."
+
+#: common/class_wbk_ajax_controller.php:1603
+msgid "appointment ids not provided"
+msgstr "aftale id'er mangler"
+
+#: backend/classes/class_wbk_backend_options.php:2307
+msgid "Appointment information"
+msgstr "Aftale information"
+
+#: backend/classes/class_wbk_backend_options.php:5227
+msgid "Appointment information on payment and cancellation forms."
+msgstr "Aftale information på betalings og aflysnings formularer."
+
+#: webba-booking-lite.php:313
+msgid "Appointment notification"
+msgstr "Aftale notifikation"
+
+#: backend/classes/class_wbk_backend_options.php:5223
+#: webba-booking-lite.php:212 webba-booking-lite.php:347
+msgid "Appointment on #dt"
+msgstr "Aftale den #dt"
+
+#: backend/classes/class_wbk_backend_options.php:7233
+msgid "appointment paid or approved"
+msgstr "aftale betalt eller godkendt"
+
+#: backend/classes/class_wbk_backend_options.php:2518
+msgid "Appointment token error message"
+msgstr "Aftale id fejlmeddelelse"
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:417
+#: frontend/templates/tpl_wbk_frontend_landing.php:395
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:379
+msgid "appointment(s) not found"
+msgstr "aftale ikke fundet"
+
+#: backend/class_wbk_backend.php:103
+#: backend/classes/class_wbk_backend_options.php:2819
+#: backend/classes/class_wbk_backend_options.php:6999
+#: model/class-wbk-model.php:133 model/class-wbk-model.php:179
+#: webba-booking-lite.php:232 webba-booking-lite.php:420
+msgid "Appointments"
+msgstr "Aftaler"
+
+#: backend/classes/class_wbk_backend_schedule.php:1716
+msgid "Appointments added:"
+msgstr "Aftaler tilføjet:"
+
+#: backend/classes/class_wbk_backend_options.php:2229
+#: backend/classes/class_wbk_backend_options.php:5804
+#: webba-booking-lite.php:205 webba-booking-lite.php:333
+msgid "Approve payment"
+msgstr "Godkend betaling"
+
+#: backend/classes/class_wbk_backend_options.php:6323
+#: backend/classes/class_wbk_backend_options.php:6988
+#: backend/solo-framework/components/class_slf_table_select.php:44
+#: common/class_wbk_db_utils.php:751 utilities/class_wbk_model_utils.php:195
+msgid "Approved"
+msgstr "Godkendt"
+
+#: frontend/classes/class_wbk_frontend_booking.php:271
+msgid "Apr"
+msgstr "apr"
+
+#: frontend/classes/class_wbk_frontend_booking.php:259
+msgid "April"
+msgstr "April"
+
+#: vendor/plugion/utils/class-plugion-translator.php:99
+#: webba-booking-lite.php:727
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+#: backend/solo-framework/components/class_slf_table_select.php:52
+#: common/class_wbk_db_utils.php:754 utilities/class_wbk_model_utils.php:198
+msgid "Arrived"
+msgstr "Ankommet"
+
+#: backend/classes/class_wbk_backend_options.php:921
+msgid "Attach iCal file to the notification (admin)"
+msgstr "Vedhæft iCal fil til meddelelsen (admin)"
+
+#: backend/classes/class_wbk_backend_options.php:626
+msgid "Attach iCal file to the notification (customer)"
+msgstr "Vedhæft iCal fil til meddelelsen (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:4360
+#: backend/classes/class_wbk_backend_options.php:4373
+msgid "Attach iCal file to the notification status updated"
+msgstr "Vedhæft iCal fil til meddelelsen statusopdatering"
+
+#: frontend/classes/class_wbk_frontend_booking.php:275
+msgid "Aug"
+msgstr "aug"
+
+#: frontend/classes/class_wbk_frontend_booking.php:263
+msgid "August"
+msgstr "august"
+
+#: backend/classes/class_wbk_backend_options.php:6779
+msgid "Australian Dollar"
+msgstr "Australske dollar"
+
+#: common/stripe/class_wbk_stripe.php:362
+#: common/stripe/class_wbk_stripe_blank.php:348
+msgid "authentication with Stripe's API failed"
+msgstr "autentificering med Stripe's API fejlede"
+
+#: model/class-wbk-model.php:236
+msgid "Authorization"
+msgstr "Autorisering"
+
+#: renderer/templates/plugion/cell_pe_google_access_token.php:19
+#: renderer/templates/plugion/cell_pe_google_access_token.php:44
+msgid "Authorization failed"
+msgstr "Autorisering fejlede"
+
+#: common/google_api/class_wbk_gg.php:114
+msgid "authorization failed"
+msgstr "autorisering fejlede"
+
+#: renderer/templates/plugion/cell_pe_google_access_token.php:37
+msgid "Authorization required"
+msgstr "Autorisering nødvendig"
+
+#: common/google_api/class_wbk_gg.php:107
+msgid "authorization required"
+msgstr "autorisering nødvendig"
+
+#: common/google_api/class_wbk_gg.php:111
+msgid "Authorize"
+msgstr "Autorisér"
+
+#: common/google_api/class_wbk_gg.php:120
+#: renderer/templates/plugion/cell_pe_google_access_token.php:30
+msgid "Authorized"
+msgstr "Godkendt"
+
+#: common/class_wbk_db_utils.php:862 common/class_wbk_db_utils.php:891
+#: common/class_wbk_db_utils.php:916
+msgid "Auto"
+msgstr "Auto"
+
+#: backend/classes/class_wbk_backend_options.php:197
+msgid "Auto lock appointments"
+msgstr "Lås automatisk aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:2941
+msgid "Auto redirect to PayPal when payment ready (without approving)"
+msgstr "Omstil automatisk til PayPal, når betalingen er klar (uden godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:225
+msgid "Autolock for group booking services:"
+msgstr "Lås automatisk for gruppe booking tjenester:"
+
+#: backend/classes/class_wbk_backend_options.php:3290
+msgid "Automatically add to cart"
+msgstr "Læg automatisk i indkøbsvognen"
+
+#: backend/classes/class_wbk_backend_options.php:6299
+msgid ""
+"Automatically delete appointments with the \"Awaiting approval\" status "
+"after ... minutes."
+msgstr ""
+"Slet automatisk aftaler med \"Afvent godkendelse\" status efter ... minutter."
+
+#: backend/classes/class_wbk_backend_options.php:2067
+msgid "Automatically delete attachments"
+msgstr "Slet automatisk vedhæftninger"
+
+#: backend/classes/class_wbk_backend_options.php:2211
+msgid "Availability calculation method"
+msgstr "Beregningsmetode for tilgængelighed"
+
+#: model/class-wbk-model.php:51
+msgid "Availability date range"
+msgstr "Dato interval for tilgængelighed"
+
+#: backend/classes/class_wbk_backend_options.php:2133
+msgid "Availability in popup calendar"
+msgstr "Tilgængelighed i popup kalender"
+
+#: backend/classes/class_wbk_backend_options.php:1816
+msgid "Availability label"
+msgstr "Tilgængeligheds etiket"
+
+#: backend/classes/class_wbk_backend_options.php:5212
+#: common/class_wbk_service_schedule.php:96
+#: common/class_wbk_service_schedule.php:147
+#: common/class_wbk_service_schedule.php:726 webba-booking-lite.php:226
+#: webba-booking-lite.php:395
+msgid "available"
+msgstr "tilgængelig"
+
+#: backend/solo-framework/solo-framework.php:921
+msgid "Available color"
+msgstr "Tilgængelig farve"
+
+#: backend/solo-framework/solo-framework.php:912
+msgid "Available font size"
+msgstr "Tilgængelig skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:930
+msgid "Available font style"
+msgstr "Tilgængelig skrifttype"
+
+#: backend/solo-framework/solo-framework.php:939
+msgid "Available font weight"
+msgstr "Tilgængelig skriftvægt"
+
+#: backend/solo-framework/solo-framework.php:948
+msgid "Available line height"
+msgstr "Tilgængelig linjehøjde"
+
+#: model/class-wbk-model.php:245
+msgid "Available on"
+msgstr "Tilgængelig den"
+
+#: backend/classes/class_wbk_backend_options.php:5151
+#: backend/classes/class_wbk_backend_options.php:5172
+#: backend/classes/class_wbk_backend_options.php:5187
+#: backend/classes/class_wbk_backend_options.php:5203
+#: backend/classes/class_wbk_backend_options.php:5230
+#: backend/classes/class_wbk_backend_options.php:5512
+#: backend/classes/class_wbk_backend_options.php:7039
+msgid "Available placeholders"
+msgstr "Tilgængelige pladsholdere"
+
+#: backend/classes/class_wbk_backend_options.php:5292
+#: backend/classes/class_wbk_backend_options.php:5303
+#: backend/classes/class_wbk_backend_options.php:5437
+#: backend/classes/class_wbk_backend_options.php:5452
+#: backend/classes/class_wbk_backend_options.php:5468
+#: backend/classes/class_wbk_backend_options.php:5484
+msgid "Available placeholders:"
+msgstr "Tilgængelige pladsholdere:"
+
+#: backend/classes/class_wbk_backend_options.php:5677
+#: backend/classes/class_wbk_backend_options.php:5701
+msgid "Available placeholders: "
+msgstr "Tilgængelige pladsholdere: "
+
+#: backend/classes/class_wbk_backend_options.php:5750
+msgid ""
+"Available placeholders: #service, #date, #time, #tr (time range), #id, "
+"#quantity"
+msgstr ""
+"Tilgængelige pladsholdere: #service, #date, #time, #tr (time range), #id, "
+"#quantity"
+
+#: webba-booking-lite.php:187 webba-booking-lite.php:299
+msgid "Available time slots"
+msgstr "Tilgængelige tidsintervaller"
+
+#: backend/classes/class_wbk_backend_options.php:6324
+#: backend/solo-framework/components/class_slf_table_select.php:41
+#: common/class_wbk_db_utils.php:750 utilities/class_wbk_model_utils.php:194
+msgid "Awaiting approval"
+msgstr "Afventer godkendelse"
+
+#: backend/classes/class_wbk_backend_options.php:3333
+msgid "Backend interface"
+msgstr "Backend interface"
+
+#: backend/solo-framework/solo-framework.php:292
+#: backend/solo-framework/solo-framework.php:333
+#: backend/solo-framework/solo-framework.php:492
+#: backend/solo-framework/solo-framework.php:614
+#: backend/solo-framework/solo-framework.php:700
+#: backend/solo-framework/solo-framework.php:858
+msgid "Background color"
+msgstr "Baggrundsfarve"
+
+#: vendor/plugion/utils/class-plugion-translator.php:73
+#: webba-booking-lite.php:701
+msgid "Bad request"
+msgstr "Fejlagtig forespørgsel"
+
+#: backend/classes/class_wbk_backend_options.php:2648
+msgid "Bank transfer button text"
+msgstr "Bankoverførsel knap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:4544
+msgid "Basic"
+msgstr "Enkel"
+
+#: backend/classes/class_wbk_backend_schedule.php:1546
+#: webba-booking-lite.php:194 webba-booking-lite.php:321
+#: webba-booking-lite.php:322
+msgid "Book"
+msgstr "Book"
+
+#: webba-booking-lite.php:186 webba-booking-lite.php:297
+msgid "Book an appointment on"
+msgstr "Book en aftale den"
+
+#: webba-booking-lite.php:185 webba-booking-lite.php:296
+msgid "Book an appointment on or after"
+msgstr "Book en aftale på eller efter den"
+
+#: backend/classes/class_wbk_backend_options.php:1846
+msgid "Book button text (form)"
+msgstr "Book knap tekst (formular)"
+
+#: backend/classes/class_wbk_backend_options.php:1832
+msgid "Book button text (time slot)"
+msgstr "Book knap tekst (tider)"
+
+#: webba-booking-lite.php:193 webba-booking-lite.php:311
+msgid "Booked"
+msgstr "Reserveret"
+
+#: backend/solo-framework/components/class_slf_table_hidden_text.php:14
+#: backend/solo-framework/components/class_slf_table_text.php:21
+msgid "Booked (not paid)"
+msgstr "Reserveret (ikke betalt)"
+
+#: backend/classes/class_wbk_backend_options.php:1762
+msgid "Booked time slot text"
+msgstr "Reserveret tidsrum tekst"
+
+#: backend/classes/class_wbk_backend_options.php:2359
+msgid "Booking approved message (admin)"
+msgstr "Booking godkendt meddelelse (admin)"
+
+#: backend/classes/class_wbk_backend_options.php:2281
+msgid "Booking cancel button text"
+msgstr "Booking aflyst knap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:2346
+msgid "Booking canceled message (admin)"
+msgstr "Booking aflyst meddelelse (admin)"
+
+#: backend/classes/class_wbk_backend_options.php:2333
+msgid "Booking canceled message (cutomer)"
+msgstr "Booking aflyst meddelelse (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:1916
+msgid "Booking done message"
+msgstr "Booking gennemført meddelelse"
+
+#: model/class-wbk-model.php:31
+msgid "Booking form"
+msgstr "Booking formular"
+
+#: backend/solo-framework/solo-framework.php:737
+msgid "Booking form button font size"
+msgstr "Booking formular knap skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:746
+msgid "Booking form button font style"
+msgstr "Booking formular knap font type"
+
+#: backend/solo-framework/solo-framework.php:755
+msgid "Booking form button font weight"
+msgstr "Booking formular knap font vægt"
+
+#: backend/solo-framework/solo-framework.php:679
+msgid "Booking form buttons"
+msgstr "Booking formular knapper"
+
+#: backend/solo-framework/solo-framework.php:615
+msgid "Booking form checkbox background"
+msgstr "Booking formular afkrydsningsfelt baggrund"
+
+#: backend/solo-framework/solo-framework.php:624
+msgid "Booking form checkbox border"
+msgstr "Booking formular afkrydsningsfelt ramme"
+
+#: backend/solo-framework/solo-framework.php:633
+msgid "Booking form checkbox border radius"
+msgstr "Booking formular afkrydsningsfelt ramme radius"
+
+#: backend/solo-framework/solo-framework.php:570
+msgid "Booking form checkbox height"
+msgstr "Booking formular afkrydsningsfelt højde"
+
+#: backend/solo-framework/solo-framework.php:606
+msgid "Booking form checkbox marker color"
+msgstr "Booking formular afkrydsningsfelt markør farve"
+
+#: backend/solo-framework/solo-framework.php:579
+msgid "Booking form checkbox width"
+msgstr "Booking formular afkrydsningsfelt bredde"
+
+#: backend/solo-framework/solo-framework.php:566
+msgid "Booking form checkboxes"
+msgstr "Booking formular afkrydsningsfelter"
+
+#: backend/solo-framework/solo-framework.php:1049
+msgid "Booking form customer details"
+msgstr "Booking formular kunde detaljer"
+
+#: backend/solo-framework/solo-framework.php:402
+msgid "Booking form customer details title underline margin"
+msgstr "Booking formular kunde detaljer titel understregning margin"
+
+#: backend/solo-framework/solo-framework.php:411
+msgid "Booking form customer details title underline style"
+msgstr "Booking formular kunde detaljer titel understregning stil"
+
+#: backend/solo-framework/solo-framework.php:384
+msgid "Booking form day title underline margin"
+msgstr "Booking formular kunde detaljer titel understregning margin"
+
+#: backend/solo-framework/solo-framework.php:393
+msgid "Booking form day title underline style"
+msgstr "Booking formular dag titel understregning stil"
+
+#: backend/solo-framework/solo-framework.php:303
+msgid "Booking form inner container appearance options"
+msgstr "Booking formular indre felt udseende valg"
+
+#: backend/solo-framework/solo-framework.php:493
+msgid "Booking form input background color"
+msgstr "Booking formular input baggrundsfarve"
+
+#: backend/solo-framework/solo-framework.php:556
+msgid "Booking form input border radius"
+msgstr "Booking formular input ramme radius"
+
+#: backend/solo-framework/solo-framework.php:511
+msgid "Booking form input font size"
+msgstr "Booking formular input skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:520
+msgid "Booking form input font style"
+msgstr "Booking formular input skrifttype"
+
+#: backend/solo-framework/solo-framework.php:529
+msgid "Booking form input font weight"
+msgstr "Booking formular input skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:538
+msgid "Booking form input height"
+msgstr "Booking formular input højde"
+
+#: backend/solo-framework/solo-framework.php:421
+msgid "Booking form input labels"
+msgstr "Booking formular input etiketter"
+
+#: backend/solo-framework/solo-framework.php:443
+msgid "Booking form input labels color"
+msgstr "Booking formular input etikette farve"
+
+#: backend/solo-framework/solo-framework.php:452
+msgid "Booking form input labels font size"
+msgstr "Booking formular input etiketter skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:461
+msgid "Booking form input labels font style"
+msgstr "Booking formular input etiketter skrift type"
+
+#: backend/solo-framework/solo-framework.php:470
+msgid "Booking form input labels font weight"
+msgstr "Booking formular input etiketter skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:502
+msgid "Booking form input text color"
+msgstr "Booking formular input tekst farve"
+
+#: backend/solo-framework/solo-framework.php:480
+msgid "Booking form inputs"
+msgstr "Booking formular input felter"
+
+#: backend/classes/class_wbk_backend_options.php:1735
+msgid "Booking form label"
+msgstr "Booking formular etiket"
+
+#: backend/solo-framework/solo-framework.php:588
+msgid "Booking form marker line-height"
+msgstr "Booking formular markør liniehøjde"
+
+#: backend/solo-framework/solo-framework.php:597
+msgid "Booking form marker size"
+msgstr "Booking formular markør størrelse"
+
+#: backend/solo-framework/solo-framework.php:253
+msgid "Booking form outer container appearance options"
+msgstr "Booking formular ydre område udseende valg"
+
+#: backend/solo-framework/solo-framework.php:366
+msgid "Booking form select hours label underline margin"
+msgstr "Booking formular vælg tider etiket understregning margin"
+
+#: backend/solo-framework/solo-framework.php:375
+msgid "Booking form select hours label underline style"
+msgstr "Booking formular vælg tider etiket understregning stil"
+
+#: backend/solo-framework/solo-framework.php:344
+msgid "Booking form separators"
+msgstr "Booking formular adskillere"
+
+#: backend/solo-framework/solo-framework.php:357
+msgid "Booking form step separator border"
+msgstr "Booking formular trin adskiller ramme"
+
+#: backend/solo-framework/solo-framework.php:348
+msgid "Booking form step separator margin"
+msgstr "Booking formular trin adskiller margin"
+
+#: backend/solo-framework/solo-framework.php:765
+msgid "Booking form time slots"
+msgstr "Booking formular tider"
+
+#: webba-booking-lite.php:191 webba-booking-lite.php:301
+msgid "Booking items count"
+msgstr "Booking antal"
+
+#: backend/classes/class_wbk_backend_options.php:5676
+msgid "Booking items count frontend label"
+msgstr "Booking antal frontend etiket"
+
+#: backend/classes/class_wbk_backend_options.php:1748
+msgid "Booking items count label"
+msgstr "Booking antal etiket"
+
+#: backend/classes/class_wbk_backend_options.php:7026
+msgid "Booking not added to card"
+msgstr "Booking ikke tilføjet til kort"
+
+#: backend/classes/class_wbk_backend_schedule.php:1701
+msgid "Booking not complete"
+msgstr "Booking ikke fuldført"
+
+#: common/woocommerce/class_wbk_woocommerce.php:241
+msgid "Booking product not exists"
+msgstr "Booking tjeneste findes ikke"
+
+#: backend/solo-framework/solo-framework.php:274
+#: backend/solo-framework/solo-framework.php:315
+#: backend/solo-framework/solo-framework.php:546
+#: backend/solo-framework/solo-framework.php:718
+#: backend/solo-framework/solo-framework.php:840
+msgid "Border"
+msgstr "Ramme"
+
+#: backend/solo-framework/solo-framework.php:283
+#: backend/solo-framework/solo-framework.php:324
+#: backend/solo-framework/solo-framework.php:555
+#: backend/solo-framework/solo-framework.php:727
+#: backend/solo-framework/solo-framework.php:849
+msgid "Border radius"
+msgstr "Ramme radius"
+
+#: backend/classes/class_wbk_backend_options.php:6780
+msgid "Brazilian Real"
+msgstr "Brasiliansk real"
+
+#: backend/classes/class_wbk_backend_options.php:6455
+msgid ""
+"Buffer time: minimum time to allow a cancellation before the appointment / "
+"reservation."
+msgstr ""
+"Buffertid: mindste tid, hvor aflysning er tilladt inden aftalen / "
+"reservationen."
+
+#: model/class-wbk-model.php:50
+msgid "Business hours"
+msgstr "Åbningstider"
+
+#: backend/solo-framework/solo-framework.php:966
+msgid "Button background"
+msgstr "Knap baggrund"
+
+#: backend/solo-framework/solo-framework.php:701
+msgid "Button background color"
+msgstr "Knap baggrund farve"
+
+#: backend/solo-framework/solo-framework.php:719
+#: backend/solo-framework/solo-framework.php:975
+msgid "Button border"
+msgstr "Knap ramme"
+
+#: backend/solo-framework/solo-framework.php:728
+msgid "Button border radius"
+msgstr "Knap ramme radius"
+
+#: backend/solo-framework/solo-framework.php:984
+msgid "Button color"
+msgstr "Knap farve"
+
+#: backend/solo-framework/solo-framework.php:736
+#: backend/solo-framework/solo-framework.php:1011
+msgid "Button font size"
+msgstr "Knap skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:745
+#: backend/solo-framework/solo-framework.php:1029
+msgid "Button font style"
+msgstr "Knap skrift stil"
+
+#: backend/solo-framework/solo-framework.php:754
+#: backend/solo-framework/solo-framework.php:1038
+msgid "Button font weight"
+msgstr "Knap skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:692
+msgid "Button height"
+msgstr "Knap højde"
+
+#: backend/solo-framework/solo-framework.php:1020
+msgid "Button line height"
+msgstr "Knap linie højde"
+
+#: backend/solo-framework/solo-framework.php:683
+#: backend/solo-framework/solo-framework.php:957
+msgid "Button margin"
+msgstr "Knap margin"
+
+#: backend/solo-framework/solo-framework.php:710
+msgid "Button text color"
+msgstr "Knap tekst farve"
+
+#: backend/solo-framework/solo-framework.php:678
+msgid "Buttons"
+msgstr "Knapper"
+
+#: model/class-wbk-model.php:233
+msgid "Calendar ID"
+msgstr "Kalender ID"
+
+#: common/google_api/class_wbk_gg.php:121
+#: renderer/templates/plugion/cell_pe_google_access_token.php:31
+msgid "Calendar name on Google:"
+msgstr "Kalendernavn i Google:"
+
+#: renderer/templates/backend_page.php:53
+msgid "Calendar not found"
+msgstr "Kalender ikke fundet."
+
+#: backend/classes/class_wbk_backend_options.php:6781
+msgid "Canadian Dollar"
+msgstr "Canadiske dollar"
+
+#: backend/class_wbk_backend.php:66
+#: backend/solo-framework/core/class_slf_table.php:693
+#: backend/solo-framework/core/class_slf_table.php:714
+#: webba-booking-lite.php:210
+msgid "Cancel"
+msgstr "Annullér"
+
+#: backend/classes/class_wbk_backend_options.php:5687
+#: webba-booking-lite.php:209 webba-booking-lite.php:341
+msgid "Cancel booking"
+msgstr "Annullér booking"
+
+#: backend/classes/class_wbk_backend_options.php:320
+msgid "Cancellation buffer"
+msgstr "Annullerings buffer"
+
+#: renderer/templates/backend_page.php:26
+msgid "Cancelled appointments"
+msgstr "Annullerede aftaler"
+
+#: model/class-wbk-model.php:181
+msgid "Cancelled by"
+msgstr "Annulleret af"
+
+#: common/class_wbk_db_utils.php:2687
+msgid "Cardholder name"
+msgstr "Korthavers navn"
+
+#: backend/classes/class_wbk_backend_options.php:5090
+msgid "Category frontend label"
+msgstr "Kategori frontend etiket"
+
+#: model/class-wbk-model.php:102 model/class-wbk-model.php:104
+msgid "Category name"
+msgstr "Kategori navn"
+
+#: common/google_api/class_wbk_gg.php:115
+#: renderer/templates/plugion/cell_pe_google_access_token.php:45
+msgid ""
+"Check Google API credentials, calendar ID and try to re-authorize this "
+"calendar"
+msgstr ""
+"Kontrollér Google API legitimationsoplysninger, kalender ID og prøv igen"
+
+#: backend/classes/class_wbk_backend_options.php:4354
+#: backend/classes/class_wbk_backend_options.php:4367
+msgid "Check if you'd like to attach iCal file to the notification"
+msgstr "Marker, hvis du ønsker at tilknytte en iCal fil til notifikationen"
+
+#: backend/classes/class_wbk_backend_options.php:3895
+msgid "Check if you'd like to make holidays recurring"
+msgstr "Marker, hvis du ønsker at gøre helligdage gentagne"
+
+#: backend/classes/class_wbk_backend_options.php:4339
+msgid "Check if you'd like to send administrator an email"
+msgstr "Marker, hvis du ønsker at sende administratoren et mail"
+
+#: backend/classes/class_wbk_backend_options.php:3939
+msgid ""
+"Check if you'd like to send administrator an email on appointment "
+"cancellation"
+msgstr ""
+"Marker, hvis du ønsker at sende administratoren et mail ved aflysning af "
+"aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:3501
+msgid ""
+"Check if you'd like to send administrator an email when payment received"
+msgstr ""
+"Marker, hvis du ønsker at sende administratoren et mail, når betaling er "
+"modtaget"
+
+#: backend/classes/class_wbk_backend_options.php:4157
+msgid "Check if you'd like to send an email to a customers from the group"
+msgstr "Marker, hvis du ønsker at sende et mail til kundens gruppe"
+
+#: backend/classes/class_wbk_backend_options.php:4325
+msgid "Check if you'd like to send copies of invoices to administrator"
+msgstr "Marker, hvis du ønsker at sende kopier af fakturaer til administratoren"
+
+#: backend/classes/class_wbk_backend_options.php:4104
+msgid ""
+"Check if you'd like to send copy of approval notification to administrator"
+msgstr ""
+"Marker, hvis du ønsker at sende kopi af godkendelsesnotifikationer til "
+"administratoren "
+
+#: backend/classes/class_wbk_backend_options.php:3984
+msgid ""
+"Check if you'd like to send customer an email on appointment cancellation"
+msgstr "Marker, hvis du ønsker at sende kunder et mail ved aflysning af aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:3923
+msgid "Check if you'd like to send customer an email on approval"
+msgstr ""
+"Marker, hvis du ønsker at sende kunder et mail ved godheldelse af aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:3908
+msgid "Check if you'd like to send customer an email on booking"
+msgstr "Marker, hvis du ønsker at sende kunder et mail ved booking af aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:3546
+msgid "Check if you'd like to send customer an email when payment received"
+msgstr ""
+"Marker, hvis du ønsker at sende kunder et mail, når betaling er modtaget"
+
+#: backend/classes/class_wbk_backend_options.php:4396
+msgid ""
+"Check if you'd like to send notification to customer when status is changed "
+"to Arrived"
+msgstr ""
+"Marker, hvis du ønsker at sende kunder et mail, når status ændres til "
+"Ankommet"
+
+#: backend/classes/class_wbk_backend_options.php:4266
+msgid "Check if you'd like to send reminders only for approved appointments."
+msgstr "Marker, hvis du kun ønsker at sende påmindelser for godkendte aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:4382
+msgid "Check if you'd like to send reminders to administrator"
+msgstr "Marker, hvis du ønsker at sende pååmindelser til administratoren"
+
+#: backend/classes/class_wbk_backend_options.php:4410
+msgid "Check if you'd like to send reminders to customer"
+msgstr "Marker, hvis du ønsker at sende påmindelser til kunder"
+
+#: backend/classes/class_wbk_backend_options.php:503
+msgid "Check shortcode on booking form initialization"
+msgstr "Marker shortcode på booking formular initialisering"
+
+#: backend/solo-framework/solo-framework.php:623
+msgid "Checkbox border"
+msgstr "Afkrydsningsfelt ramme"
+
+#: backend/solo-framework/solo-framework.php:632
+msgid "Checkbox border radius"
+msgstr "Afkrydsningsfelt ramme radius"
+
+#: backend/solo-framework/solo-framework.php:569
+msgid "Checkbox height"
+msgstr "Afkrydsningsfelt højde"
+
+#: backend/solo-framework/solo-framework.php:642
+msgid "Checkbox label color"
+msgstr "Afkrydsningsfelt etiket farve"
+
+#: backend/solo-framework/solo-framework.php:651
+msgid "Checkbox label font size"
+msgstr "Afkrydsningsfelt skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:660
+msgid "Checkbox label font style"
+msgstr "Afkrydsningsfelt skrift type"
+
+#: backend/solo-framework/solo-framework.php:669
+msgid "Checkbox label font weight"
+msgstr "Afkrydsningsfelt skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:605
+msgid "Checkbox marker color"
+msgstr "Afkrydsningsfelt markør farve"
+
+#: backend/solo-framework/solo-framework.php:587
+msgid "Checkbox marker line-height"
+msgstr "Afkrydsningsfelt markør liniehøjde"
+
+#: backend/solo-framework/solo-framework.php:596
+msgid "Checkbox marker size"
+msgstr "Afkrydsningsfelt markør størrelse"
+
+#: backend/solo-framework/solo-framework.php:578
+msgid "Checkbox width"
+msgstr "Afkrydsningsfelt bredde"
+
+#: backend/solo-framework/solo-framework.php:565
+msgid "Checkboxes"
+msgstr "Afkrydsningsfelter"
+
+#: backend/classes/class_wbk_backend_options.php:5698
+#: webba-booking-lite.php:211 webba-booking-lite.php:345
+msgid "Checkout"
+msgstr "Gå til kassen"
+
+#: backend/classes/class_wbk_backend_options.php:2294
+msgid "Checkout button text"
+msgstr "Gå til kassen knap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:7219
+msgid ""
+"Choose the time zone used for the event's added to the customer's calendar"
+msgstr "Vælg tidszone for begivenheder tilføjet kundens kalender"
+
+#: backend/classes/class_wbk_backend_options.php:7235
+msgid "Choose when to add events in administrator's Google Calendar"
+msgstr ""
+"Vælg hvornår begivenheder skal tilføjes administratorens Google kalender"
+
+#: common/class_wbk_db_utils.php:2688
+msgid "City"
+msgstr "By"
+
+#: backend/classes/class_wbk_backend_options.php:4693
+msgid "Classic"
+msgstr "Klassisk"
+
+#: frontend/classes/class_wbk_frontend_booking.php:295
+msgid "Clear"
+msgstr "Ryd"
+
+#: backend/classes/class_wbk_backend_options.php:5386
+#: common/class_wbk_db_utils.php:1162 webba-booking-lite.php:225
+#: webba-booking-lite.php:394
+msgid "Click here to add this event to your Google Calendar."
+msgstr "Klik her for at tilføje denne begivenhed til din Google kalender."
+
+#: backend/classes/class_wbk_backend_options.php:5362
+#: common/class_wbk_db_utils.php:1196 webba-booking-lite.php:387
+msgid "Click here to approve this booking."
+msgstr "Klik her for at godkende denne booking."
+
+#: backend/classes/class_wbk_backend_options.php:5350
+#: common/class_wbk_db_utils.php:1195 webba-booking-lite.php:386
+msgid "Click here to cancel this booking."
+msgstr "Klik her for at aflyse denne booking."
+
+#: backend/classes/class_wbk_backend_options.php:5337
+#: webba-booking-lite.php:220 webba-booking-lite.php:359
+msgid "Click here to cancel your booking."
+msgstr "Klik her for at aflyse din booking."
+
+#: backend/classes/class_wbk_backend_options.php:5324
+#: webba-booking-lite.php:219 webba-booking-lite.php:358
+msgid "Click here to pay for your booking."
+msgstr "Klik her for at betale din booking."
+
+#: renderer/templates/plugion/cell_pe_google_access_token.php:38
+msgid "Click on the link below to start the authorization process"
+msgstr "Klik på linket nedenfor for at indlede autoriseringsprocessen"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:70
+msgid "Click to display the service schedule:"
+msgstr "Klik for at se tjeneste kalenderen:"
+
+#: backend/classes/class_wbk_backend_schedule.php:60
+#: frontend/classes/class_wbk_frontend_booking.php:296
+msgid "Close"
+msgstr "Luk"
+
+#: backend/classes/class_wbk_backend_schedule.php:150
+#: backend/classes/class_wbk_backend_schedule.php:274
+msgid "close"
+msgstr "luk"
+
+#: backend/solo-framework/solo-framework.php:1437
+msgid "Color"
+msgstr "Farve"
+
+#: backend/classes/class_wbk_backend_options.php:3366
+msgid "Columns of Appointment table"
+msgstr "Kolonner i aftale tabellen"
+
+#: backend/classes/class_wbk_backend_options.php:5065
+msgid "Comma"
+msgstr "Komma"
+
+#: backend/classes/class_wbk_backend_options.php:5951
+msgid "Comma-separated list of IDs of custom fields."
+msgstr "Komma-separeret liste af ID'er for tilpassede felter"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:53
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:32
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:36
+#: model/class-wbk-model.php:144 model/class-wbk-model.php:192
+#: webba-booking-lite.php:198 webba-booking-lite.php:319
+msgid "Comment"
+msgstr "Kommentar"
+
+#: backend/classes/class_wbk_backend_options.php:1902
+msgid "Comment label (booking form)"
+msgstr "Kommentar etiket (booking formular)"
+
+#: backend/classes/class_wbk_backend_options.php:432
+msgid "Continuous appointments"
+msgstr "Løbende aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:1695
+msgid "Count of dates in the dropdown"
+msgstr "Antal dage i dropdown"
+
+#: common/class_wbk_db_utils.php:2689
+msgid "Country"
+msgstr "Land"
+
+#: common/class_wbk_db_utils.php:2720 model/class-wbk-model.php:242
+#: model/class-wbk-model.php:244 utilities/class_wbk_model_utils.php:183
+msgid "Coupon"
+msgstr "Kupon"
+
+#: backend/classes/class_wbk_backend_options.php:3618
+#: common/class_wbk_ajax_controller.php:1076 webba-booking-lite.php:228
+msgid "Coupon applied"
+msgstr "Kupon anvendt"
+
+#: backend/classes/class_wbk_backend_options.php:3607
+#: webba-booking-lite.php:227
+msgid "Coupon code"
+msgstr "Kupon kode"
+
+#: common/class_wbk_ajax_controller.php:968
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:361
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:326
+msgid "coupon code"
+msgstr "kupon kode"
+
+#: backend/classes/class_wbk_backend_options.php:2675
+msgid "Coupon code field placeholder"
+msgstr "Kupon kode felt maske"
+
+#: backend/classes/class_wbk_backend_options.php:2701
+msgid "Coupon failed message"
+msgstr "Kupon fejl meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:3628
+#: common/class_wbk_ajax_controller.php:1084 webba-booking-lite.php:229
+msgid "Coupon not applied"
+msgstr "Kupon ikke anvendt"
+
+#: backend/classes/class_wbk_backend_options.php:2688
+msgid "Coupon success message"
+msgstr "Kupon succes meddelelse"
+
+#: backend/class_wbk_backend.php:108
+#: backend/classes/class_wbk_backend_options.php:1557
+#: model/class-wbk-model.php:243
+msgid "Coupons"
+msgstr "Kuponer"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:68
+#: backend/templates/tpl_wbk_backend_schedule.php:94
+msgid "Create at least one service. "
+msgstr "Opret mindst en tjeneste"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:101
+msgid "Create multiple bookings"
+msgstr "Opret flere bookinger"
+
+#: backend/solo-framework/core/class_slf_table.php:383
+msgid "Create new"
+msgstr "Opret ny"
+
+#: common/class_wbk_db_utils.php:2708 model/class-wbk-model.php:136
+#: utilities/class_wbk_model_utils.php:171
+msgid "Created on"
+msgstr "Oprettet den"
+
+#: backend/classes/class_wbk_backend_options.php:1955
+msgid "Credit card payment button text"
+msgstr "Kreditkort betalings klap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:1488
+msgid "CSV export delimiter"
+msgstr "CSV eksport skilletegn"
+
+#: backend/classes/class_wbk_backend_options.php:3018
+msgid "Currency"
+msgstr "Valuta"
+
+#: backend/classes/class_wbk_backend_options.php:2967
+msgid "Currency multiplier"
+msgstr "Valuta multiplikator"
+
+#: backend/classes/class_wbk_backend_options.php:1227
+msgid "Current invoice number"
+msgstr "Gældende faktura nummer"
+
+#: backend/classes/class_wbk_backend_options.php:4250
+msgid "Current local time:"
+msgstr "Gældende lokal tid:"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:51
+msgid "Custom data"
+msgstr "Brugerdefineret data"
+
+#: backend/classes/class_wbk_backend_options.php:3405
+msgid "Custom field columns"
+msgstr "Brugerdefineret data kolonner"
+
+#: common/class_wbk_db_utils.php:2716
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:35
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:39
+#: model/class-wbk-model.php:145 model/class-wbk-model.php:193
+#: utilities/class_wbk_model_utils.php:179
+msgid "Custom fields"
+msgstr "Brugerdefinerede felter"
+
+#: common/class_wbk_db_utils.php:781
+msgid "Customer"
+msgstr "Kunde"
+
+#: common/class_wbk_db_utils.php:2715 utilities/class_wbk_model_utils.php:178
+msgid "Customer comment"
+msgstr "Kunde kommentar"
+
+#: backend/solo-framework/solo-framework.php:1048
+msgid "Customer details"
+msgstr "Kunde detaljer"
+
+#: backend/solo-framework/solo-framework.php:1107
+msgid "Customer details sub-title align"
+msgstr "Kunde detaljer undertitel justering"
+
+#: backend/solo-framework/solo-framework.php:1125
+msgid "Customer details sub-title color"
+msgstr "Kunde detaljer undertitel farve"
+
+#: backend/solo-framework/solo-framework.php:1116
+msgid "Customer details sub-title font size"
+msgstr "Kunde detaljer undertitel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1134
+msgid "Customer details sub-title font style"
+msgstr "Kunde detaljer undertitel skrift type"
+
+#: backend/solo-framework/solo-framework.php:1143
+msgid "Customer details sub-title font weight"
+msgstr "Kunde detaljer undertitel skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:1152
+msgid "Customer details sub-title line height"
+msgstr "Kunde detaljer undertitel linje højde"
+
+#: backend/solo-framework/solo-framework.php:1053
+msgid "Customer details title align"
+msgstr "Kunde detaljer titel justering"
+
+#: backend/solo-framework/solo-framework.php:1071
+msgid "Customer details title color"
+msgstr "Kunde detaljer titel farve"
+
+#: backend/solo-framework/solo-framework.php:1062
+msgid "Customer details title font size"
+msgstr "Kunde detaljer titel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1080
+msgid "Customer details title font style"
+msgstr "Kunde detaljer titel skrift type"
+
+#: backend/solo-framework/solo-framework.php:1089
+msgid "Customer details title font weight"
+msgstr "Kunde detaljer titel skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:1098
+msgid "Customer details title line height"
+msgstr "Kunde detaljer titel linje højde"
+
+#: backend/solo-framework/solo-framework.php:401
+msgid "Customer details title underline margin"
+msgstr "Kunde detaljer titel underlinje margin"
+
+#: backend/solo-framework/solo-framework.php:410
+msgid "Customer details title underline style"
+msgstr "Kunde detaljer titel underlinje type"
+
+#: common/class_wbk_db_utils.php:2713 utilities/class_wbk_model_utils.php:176
+msgid "Customer email"
+msgstr "Kunde email"
+
+#: backend/solo-framework/components/class_slf_table_text.php:23
+#: common/class_wbk_db_utils.php:2712 utilities/class_wbk_model_utils.php:175
+msgid "Customer name"
+msgstr "Kunde navn"
+
+#: backend/classes/class_wbk_backend_options.php:3339
+msgid "Customer name in the backend"
+msgstr "Kunde navn i backend"
+
+#: backend/classes/class_wbk_backend_options.php:1161
+msgid "Customer reminders message"
+msgstr "Kunde påmindelse meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:3135
+msgid "Customer's time zone"
+msgstr "Kundens tidszone"
+
+#: backend/classes/class_wbk_backend_options.php:6782
+msgid "Czech Koruna"
+msgstr "Tjekkisk koruna"
+
+#: backend/classes/class_wbk_backend_options.php:3731
+msgid "d.m.y"
+msgstr "d.m.y"
+
+#: common/class_wbk_date_time_utils.php:496
+msgid "Daily booking limit is reached, please select another date"
+msgstr "Daglig booking grænse er nået, vælg venligst en anden dato"
+
+#: backend/classes/class_wbk_backend_options.php:7058
+msgid "Daily booking limit is reached, please select another date."
+msgstr "Daglig booking grænse er nået, vælg venligst en anden dato."
+
+#: backend/classes/class_wbk_backend_options.php:419
+msgid "Daily limit"
+msgstr "Daglig grænse"
+
+#: backend/classes/class_wbk_backend_options.php:2792
+msgid "Daily limit reached message"
+msgstr "Daglig grænse nået meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:6783
+msgid "Danish Krone"
+msgstr "Danske kroner"
+
+#: common/class_wbk_db_utils.php:2709
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:17
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:21
+#: model/class-wbk-model.php:137 model/class-wbk-model.php:185
+#: utilities/class_wbk_model_utils.php:172
+#: vendor/plugion/utils/class-plugion-translator.php:94
+#: webba-booking-lite.php:722
+msgid "Date"
+msgstr "Dato"
+
+#: webba-booking-lite.php:320
+msgid "date"
+msgstr "dato"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:97
+msgid "Date auto lock"
+msgstr "Dato auto lås"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:98
+msgid "Date auto unlock"
+msgstr "Dato auto oplåsning"
+
+#: backend/classes/class_wbk_backend_options.php:99
+msgid "Date format"
+msgstr "Datoformat"
+
+#: backend/classes/class_wbk_backend_options.php:3353
+msgid "Date format (backend)"
+msgstr "Datoformat (backend)"
+
+#: backend/classes/class_wbk_backend_options.php:3679
+msgid "Date format updated"
+msgstr "Datoformat opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:5101
+#: backend/classes/class_wbk_backend_options.php:5113
+msgid "Date frontend label"
+msgstr "Dato frontend etiket"
+
+#: backend/classes/class_wbk_backend_options.php:1431
+msgid "Date input"
+msgstr "Dato input"
+
+#: backend/classes/class_wbk_backend_options.php:2766
+msgid "Date label above the timeslots"
+msgstr "Dato etiket over tiderne"
+
+#: webba-booking-lite.php:192
+msgid "date..."
+msgstr "Dato..."
+
+#: backend/solo-framework/solo-framework.php:768
+msgid "Day title align"
+msgstr "Dato titel justering"
+
+#: backend/solo-framework/solo-framework.php:786
+msgid "Day title color"
+msgstr "Dato titel farve"
+
+#: backend/solo-framework/solo-framework.php:777
+msgid "Day title font size"
+msgstr "Dato titel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:795
+msgid "Day title font style"
+msgstr "Dato titel skrift type"
+
+#: backend/solo-framework/solo-framework.php:804
+msgid "Day title font weight"
+msgstr "Dato titel skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:813
+msgid "Day title line height"
+msgstr "Dato titel linjehøjde"
+
+#: backend/solo-framework/solo-framework.php:383
+msgid "Day title underline margin"
+msgstr "Dato titel underlinje margin"
+
+#: backend/solo-framework/solo-framework.php:392
+msgid "Day title underline style"
+msgstr "Dato titel underlinje type"
+
+#: frontend/classes/class_wbk_frontend_booking.php:279
+msgid "Dec"
+msgstr "dec"
+
+#: frontend/classes/class_wbk_frontend_booking.php:267
+msgid "December"
+msgstr "December"
+
+#: model/class-wbk-model.php:80 model/class-wbk-model.php:83
+#: model/class-wbk-model.php:86
+msgid "Default"
+msgstr "Standard"
+
+#: backend/classes/class_wbk_backend_options.php:251
+msgid "Default appointment status:"
+msgstr "Standard aftale status:"
+
+#: model/class-wbk-model.php:32
+msgid "Default form"
+msgstr "standard formular"
+
+#: backend/classes/class_wbk_backend_options.php:2185
+msgid "Default number of days shown in extended mode"
+msgstr "Standard antal dage vist i udvidet tilstand"
+
+#: backend/classes/class_wbk_backend_schedule.php:62
+msgid "Delete"
+msgstr "Slet"
+
+#: backend/classes/class_wbk_backend_options.php:6378
+msgid "Delete appointments with started transaction"
+msgstr "Slet aftaler med påbegyndte transaktioner"
+
+#: backend/classes/class_wbk_backend_options.php:279
+msgid "Delete expired (not paid) appointments"
+msgstr "Slet udløbne (ikke betalte) aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:292
+msgid "Delete expired appointments with started but not finished transaction"
+msgstr "Slet udløbne aftaler med påbegyndte, men ikke fuldførte transaktioner"
+
+#: backend/classes/class_wbk_backend_options.php:393
+msgid "Delete pending appointments"
+msgstr "Slet afventende aftaler"
+
+#: model/class-wbk-model.php:19
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: backend/solo-framework/solo-framework.php:1151
+msgid "Details sub-title line height"
+msgstr "Detalje undertitel linjehøjde"
+
+#: backend/solo-framework/solo-framework.php:1097
+msgid "Details title line height"
+msgstr "Detalje titel linjehøjde"
+
+#: backend/classes/class_wbk_backend_options.php:531
+msgid "Disable booked dates in calendar"
+msgstr "Deaktiver bookede datoer i kalenderen"
+
+#: backend/classes/class_wbk_backend_options.php:6638
+msgid "Disable date in the calendar if no free time slots found."
+msgstr "Deaktiver datoer i kalenderen, hvis der ikke er nogen fri tider."
+
+#: backend/classes/class_wbk_backend_options.php:2146
+msgid "Disable time slots after X hours from the time of booking"
+msgstr "Deaktiver tider efter X timer efter bookingtidspunkt"
+
+#: backend/classes/class_wbk_backend_options.php:3760
+#: backend/classes/class_wbk_backend_options.php:3813
+#: backend/classes/class_wbk_backend_options.php:4595
+#: backend/classes/class_wbk_backend_options.php:4636
+#: backend/classes/class_wbk_backend_options.php:4655
+#: backend/classes/class_wbk_backend_options.php:4673
+#: backend/classes/class_wbk_backend_options.php:4906
+#: backend/classes/class_wbk_backend_options.php:4957
+#: backend/classes/class_wbk_backend_options.php:5001
+#: backend/classes/class_wbk_backend_options.php:5050
+#: backend/classes/class_wbk_backend_options.php:5891
+#: backend/classes/class_wbk_backend_options.php:5932
+#: backend/classes/class_wbk_backend_options.php:5976
+#: backend/classes/class_wbk_backend_options.php:6246
+#: backend/classes/class_wbk_backend_options.php:6264
+#: backend/classes/class_wbk_backend_options.php:6282
+#: backend/classes/class_wbk_backend_options.php:6343
+#: backend/classes/class_wbk_backend_options.php:6362
+#: backend/classes/class_wbk_backend_options.php:6493
+#: backend/classes/class_wbk_backend_options.php:6514
+#: backend/classes/class_wbk_backend_options.php:6535
+#: backend/classes/class_wbk_backend_options.php:6595
+#: backend/classes/class_wbk_backend_options.php:6658
+#: backend/classes/class_wbk_backend_options.php:6952
+#: backend/classes/class_wbk_backend_options.php:6970
+#: backend/classes/class_wbk_backend_options.php:7116
+#: backend/classes/class_wbk_backend_options.php:7136
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: backend/classes/class_wbk_backend_options.php:6987
+msgid "Disabled (do not update status)"
+msgstr "Deaktiveret (opdatér ikke status)"
+
+#: backend/solo-framework/solo-framework.php:1482
+msgid "Disabled button background"
+msgstr "Deaktiveret knap baggrund"
+
+#: backend/solo-framework/solo-framework.php:1490
+msgid "Disabled button color"
+msgstr "Deaktiveret knap farve"
+
+#: backend/solo-framework/solo-framework.php:1483
+msgid "Disabled time slot button background"
+msgstr "Deaktiverede tider knap baggrund"
+
+#: backend/solo-framework/solo-framework.php:1491
+msgid "Disabled time slot button color"
+msgstr "Deaktiverede tider knap farve"
+
+#: backend/classes/class_wbk_backend_options.php:4925
+#: backend/classes/class_wbk_backend_options.php:6210
+#: backend/classes/class_wbk_backend_options.php:6228
+msgid "Disallow"
+msgstr "Tillad ikke"
+
+#: backend/classes/class_wbk_backend_options.php:3638
+#: common/PayPal/class_wbk_paypal.php:249
+#: common/stripe/class_wbk_stripe.php:184
+#: common/stripe/class_wbk_stripe_blank.php:169 webba-booking-lite.php:230
+msgid "Discount"
+msgstr "Rabat"
+
+#: model/class-wbk-model.php:251
+msgid "Discount (fixed)"
+msgstr "Rabat (fast)"
+
+#: model/class-wbk-model.php:252
+msgid "Discount (percentage)"
+msgstr "Rabat (procent)"
+
+#: backend/classes/class_wbk_backend_options.php:2714
+msgid "Discount in payment calculation"
+msgstr "Rabat i beregning af betaling"
+
+#: backend/classes/class_wbk_backend_options.php:5256
+msgid ""
+"Displayed when a customer tries to cancel an appointment/reservation within "
+"less than the time allowed to do so."
+msgstr ""
+"Vises når en kunde forsøger at annullere en aftale/reservation før dette er "
+"tilladt."
+
+#: backend/classes/class_wbk_backend_options.php:5243
+msgid "Displayed when customer tries to cancel paid booking."
+msgstr "Vises når en kunde forsøger at annullere en betalt aftale."
+
+#: backend/classes/class_wbk_backend_options.php:5228
+msgid ""
+"Displayed when customers pay for booking or cancel the booking with the link "
+"sent in e-mail notification."
+msgstr ""
+"Vises når en kunde betaler for booking eller annulerer booking med et link "
+"sendt i en email notifikation."
+
+#: backend/classes/class_wbk_backend_options.php:7202
+msgid ""
+"Do not change this option if you do not plan to use the same Google "
+"calendars on different domains"
+msgstr ""
+"Ret ikke denne option, hvis du ikke ønsker at bruge den samme Google "
+"kalender for forskellige domæner"
+
+#: backend/classes/class_wbk_backend_options.php:6377
+msgid "Do not delete appointments with started transaction"
+msgstr "Slet ikke aftaler med påbegyndte transaktioner"
+
+#: backend/classes/class_wbk_backend_options.php:6616
+msgid "Do not include tax"
+msgstr "Inkludér ikke skat"
+
+#: backend/classes/class_wbk_backend_options.php:4280
+msgid "Do not send invoice"
+msgstr "send ikke faktura"
+
+#: backend/classes/class_wbk_backend_options.php:4694
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: backend/classes/class_wbk_backend_options.php:3720
+msgid "Dropdown dates count updated"
+msgstr "Drowdown dato antal opdateret"
+
+#: model/class-wbk-model.php:57
+msgid "Duration (minutes)"
+msgstr "Varighed (minuter)"
+
+#: backend/classes/class_wbk_backend_options.php:4311
+msgid ""
+"Each time a customer pay with PayPal or Stripe, the value of this option "
+"will be increased by one."
+msgstr ""
+"Denne værdi vil blive øget med en, hver gang en kunde betaler med PayPal "
+"eller Stripe."
+
+#: vendor/plugion/utils/class-plugion-translator.php:72
+#: webba-booking-lite.php:700
+msgid "Element not found"
+msgstr "Elementet blev ikke fundet"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:17
+#: common/class_wbk_email_notifications.php:234
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:26
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:30
+#: model/class-wbk-model.php:77 model/class-wbk-model.php:142
+#: model/class-wbk-model.php:190 webba-booking-lite.php:196
+#: webba-booking-lite.php:317
+msgid "Email"
+msgstr "Email"
+
+#: backend/classes/class_wbk_backend_options.php:3930
+#: backend/classes/class_wbk_backend_options.php:4111
+msgid "Email (on approval) status updated"
+msgstr "Email (ved godkendelse) status opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:3946
+#: backend/classes/class_wbk_backend_options.php:3991
+msgid "Email (on cancellation) status updated"
+msgstr "email (ved aflysning) status opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:2320
+msgid "Email input label on cancel booking"
+msgstr "email input etiket på aflys booking"
+
+#: backend/classes/class_wbk_backend_options.php:1874
+msgid "Email label (booking form)"
+msgstr "email etiket (booking formular)"
+
+#: backend/classes/class_wbk_backend_options.php:579
+msgid "Email notifications"
+msgstr "email notifikationer"
+
+#: backend/classes/class_wbk_backend_options.php:3507
+#: backend/classes/class_wbk_backend_options.php:3552
+#: backend/classes/class_wbk_backend_options.php:3915
+#: backend/classes/class_wbk_backend_options.php:4164
+#: backend/classes/class_wbk_backend_options.php:4346
+#: backend/classes/class_wbk_backend_options.php:4389
+#: backend/classes/class_wbk_backend_options.php:4402
+#: backend/classes/class_wbk_backend_options.php:4417
+msgid "Email status updated"
+msgstr "email status opdateret"
+
+#: model/class-wbk-model.php:112
+msgid "Email template"
+msgstr "email skabelon"
+
+#: backend/class_wbk_backend.php:104 model/class-wbk-model.php:113
+msgid "Email templates"
+msgstr "email skabeloner"
+
+#: backend/classes/class_wbk_backend_options.php:5934
+msgid ""
+"Enable this option for auto lock time slots of different services on booking "
+"(connection between services)."
+msgstr ""
+"Aktiver dette valg for auto lås tider for forskellige tjenester ved booking "
+"(relation mellem tjenester)."
+
+#: backend/classes/class_wbk_backend_options.php:6230
+msgid ""
+"Enable this option if you want to allow CUSTOMERS to cancel paid "
+"appointments."
+msgstr "Aktivér dette valg for at tillade kunder at aflyse betalte aftaler."
+
+#: backend/classes/class_wbk_backend_options.php:6345
+msgid ""
+"Enable this option if you want to allow online payments for the approved "
+"appointments <b>ONLY</b>."
+msgstr ""
+"Aktivér dette valg for <b>KUN<b> at tillade online betaling af godkendte "
+"aftaler."
+
+#: backend/classes/class_wbk_backend_options.php:6266
+msgid ""
+"Enable this option to allow only one appointment per day from one email."
+msgstr ""
+"Aktivér dette valg for kun at tillade en aftale per dag per email adresse."
+
+#: backend/classes/class_wbk_backend_options.php:6284
+msgid ""
+"Enable this option to allow only one appointment per service from one email."
+msgstr ""
+"Aktivér dette valg for kun at tillade en aftale per tjeneste per email "
+"adresse."
+
+#: backend/classes/class_wbk_backend_options.php:6248
+msgid ""
+"Enable this option to allow only one appointment per time slot from one "
+"email."
+msgstr ""
+"Aktivér dette valg for kun at tillade en aftale per tid per email adresse."
+
+#: backend/classes/class_wbk_backend_options.php:4676
+msgid "Enable this option to allow range selection in multiple booking mode"
+msgstr ""
+"Aktivér dette valg for at tillade en successive aftalevalg i multibooking "
+"tilstand."
+
+#: backend/classes/class_wbk_backend_options.php:6495
+msgid ""
+"Enable this option to check if the page has shortcode before booking form "
+"initialized."
+msgstr ""
+"Aktivér dette valg for at kontrollere, om siden har shortcodes før booking "
+"formularen initialiseres."
+
+#: backend/classes/class_wbk_backend_options.php:4910
+msgid ""
+"Enable this option to clean up database after after the appointment time has "
+"passed"
+msgstr ""
+"Aktivér dette valg for at rydde op i databasen efter at aftale tidspunktet "
+"er passeret."
+
+#: backend/classes/class_wbk_backend_options.php:6366
+msgid "Enable this option to delete expired (not paid) appointments"
+msgstr "Aktivér dette valg for at slette udløbne (ikke betalte) aftaler"
+
+#: backend/classes/class_wbk_backend_options.php:7118
+msgid "Enable this option to hide adress on PayPal checkout."
+msgstr "Aktivér dette valg for at skjule adressen på PayPal kassen."
+
+#: backend/classes/class_wbk_backend_options.php:6660
+msgid ""
+"Enable this option to hide all sections of the booking form when booking is "
+"done."
+msgstr ""
+"Aktivér dette valg for at skjule alle sektioner af booking formularen, når "
+"bookingen er udført."
+
+#: backend/classes/class_wbk_backend_options.php:6516
+msgid ""
+"Enable this option to show cancel button on the steps of the booking process."
+msgstr ""
+"Aktivér dette valg for at vise fortryd knappen på trinene i booking "
+"processen."
+
+#: backend/classes/class_wbk_backend_options.php:4658
+msgid ""
+"Enable this option to show service description below the service select on "
+"the frontend."
+msgstr ""
+"Aktivér dette valg for at vise tjeneste beskrivelsen under tjenestevalget i "
+"frontend'en."
+
+#: backend/classes/class_wbk_backend_options.php:3759
+#: backend/classes/class_wbk_backend_options.php:4596
+#: backend/classes/class_wbk_backend_options.php:4637
+#: backend/classes/class_wbk_backend_options.php:4656
+#: backend/classes/class_wbk_backend_options.php:4674
+#: backend/classes/class_wbk_backend_options.php:4907
+#: backend/classes/class_wbk_backend_options.php:4958
+#: backend/classes/class_wbk_backend_options.php:5051
+#: backend/classes/class_wbk_backend_options.php:5890
+#: backend/classes/class_wbk_backend_options.php:5931
+#: backend/classes/class_wbk_backend_options.php:5975
+#: backend/classes/class_wbk_backend_options.php:6245
+#: backend/classes/class_wbk_backend_options.php:6263
+#: backend/classes/class_wbk_backend_options.php:6281
+#: backend/classes/class_wbk_backend_options.php:6342
+#: backend/classes/class_wbk_backend_options.php:6492
+#: backend/classes/class_wbk_backend_options.php:6513
+#: backend/classes/class_wbk_backend_options.php:6534
+#: backend/classes/class_wbk_backend_options.php:6594
+#: backend/classes/class_wbk_backend_options.php:6657
+#: backend/classes/class_wbk_backend_options.php:6951
+#: backend/classes/class_wbk_backend_options.php:6969
+#: backend/classes/class_wbk_backend_options.php:7115
+#: backend/classes/class_wbk_backend_options.php:7135
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: backend/classes/class_wbk_backend_options.php:5052
+msgid "Enabled (show only local time)"
+msgstr "Aktiveret (vis kun lokal tid)"
+
+#: backend/classes/class_wbk_backend_options.php:5003
+msgid "Enabled (time slot checkout button)"
+msgstr "Aktiveret (tids køb knappen)"
+
+#: backend/classes/class_wbk_backend_options.php:5002
+msgid "Enabled (top bar checkout button)"
+msgstr "Aktiveret (overligger køb knappen)"
+
+#: backend/classes/class_wbk_backend_options.php:5023
+msgid "end"
+msgstr "slut"
+
+#: backend/classes/class_wbk_backend_options.php:2372
+msgid "Error message on cancel booking"
+msgstr "Fejlmeddelelse ved fortryd booking"
+
+#: renderer/templates/backend_page.php:37
+msgid "Error: invalid calendar ID"
+msgstr "Fejl: ugyldig kalender ID"
+
+#: backend/classes/class_wbk_backend_options.php:2159
+msgid "EU GDPR Compliance"
+msgstr "EU GDPR overholdelse"
+
+#: backend/classes/class_wbk_backend_options.php:6784
+msgid "Euro"
+msgstr "Euro"
+
+#: backend/classes/class_wbk_backend_options.php:6174
+msgid "Example 1:"
+msgstr "Eksempel 1:"
+
+#: backend/classes/class_wbk_backend_options.php:6178
+msgid "Example 2:"
+msgstr "Eksempel 2:"
+
+#: backend/classes/class_wbk_backend_options.php:5873
+msgid "Example: #name #field_lastname"
+msgstr "Eksempel: #name #field_lastname"
+
+#: backend/classes/class_wbk_backend_options.php:4426
+msgid "Example: 1 - tomorrow, 2 - day after tomorrow, 7 - one week before"
+msgstr "Eksempel: 1 - i morgen, 2 - i overmorgen, 7 - en uge før"
+
+#: backend/classes/class_wbk_backend_options.php:4882
+msgid "Example: audio/* all sound files are accepted."
+msgstr "Eksempel: audio/* alle lydfiler accepteres."
+
+#: backend/classes/class_wbk_backend_options.php:5953
+msgid "Example: custom-field1[Title 1],custom-field2[Title 2]"
+msgstr "Eksempel: custom-field1[Title 1],custom-field2[Title 2]"
+
+#: backend/classes/class_wbk_backend_options.php:4881
+msgid ""
+"Example: file_extension. A file extension starting with the STOP character, "
+"e.g: .gif, .jpg, .png, .doc"
+msgstr ""
+"Eksempel: fil-endelse. En filendelse startende med STOP tegnet, f.eks.: "
+".gif, .jpg, .png, .doc"
+
+#: backend/classes/class_wbk_backend_options.php:4884
+msgid "Example: image/* all image files are accepted."
+msgstr "Eksempel: image/* alle billedfiler accepteres."
+
+#: backend/classes/class_wbk_backend_options.php:4883
+msgid "Example: video/* all video files are accepted."
+msgstr "Eksempel: video/* alle video filer accepteres."
+
+#: backend/classes/class_wbk_backend_schedule.php:1154
+#: backend/classes/class_wbk_backend_schedule.php:1214
+msgid "Exclude dates"
+msgstr "Udeladte datoer"
+
+#: backend/classes/class_wbk_backend_options.php:306
+msgid "Expiration time"
+msgstr "Udløbstid"
+
+#: backend/classes/class_wbk_backend_options.php:6390
+msgid "Expiration time in minutes."
+msgstr "Udløbstid i minutter."
+
+#: backend/classes/class_wbk_backend_options.php:3187
+msgid "Export for group services"
+msgstr "Eksportér for gruppe tjenester"
+
+#: plugion_extensions/plugion_hooks.php:321
+msgid "Export to csv file"
+msgstr "Eksportér til csv fil"
+
+#: backend/classes/class_wbk_backend_options.php:4543
+msgid "Extended"
+msgstr "Udvidet"
+
+#: vendor/plugion/utils/class-plugion-translator.php:74
+#: webba-booking-lite.php:702
+msgid "Failed"
+msgstr "Mislykket"
+
+#: frontend/classes/class_wbk_frontend_booking.php:269
+msgid "Feb"
+msgstr "feb"
+
+#: frontend/classes/class_wbk_frontend_booking.php:257
+msgid "February"
+msgstr "Februar"
+
+#: vendor/plugion/utils/class-plugion-translator.php:69
+#: webba-booking-lite.php:697
+#, php-format
+msgid "Field %s is empty"
+msgstr "Feltet %s er tomt"
+
+#: backend/classes/class_wbk_backend_options.php:2779
+msgid "Field validation error message"
+msgstr "Felt validerings fejlmeddelelse"
+
+#: webba-booking-lite.php:190
+msgid "Fill in a form"
+msgstr "Udfyld formular"
+
+#: backend/solo-framework/core/class_slf_table.php:701
+msgid "Fill in a form to add new element:"
+msgstr "Udfyld formular for at tilføje nyt element"
+
+#: vendor/plugion/utils/class-plugion-translator.php:96
+#: webba-booking-lite.php:724
+msgid "Filters"
+msgstr "filtre"
+
+#: vendor/plugion/utils/class-plugion-translator.php:91
+#: webba-booking-lite.php:719
+msgid "Filters for"
+msgstr "filtre for"
+
+#: vendor/plugion/utils/class-plugion-translator.php:85
+#: webba-booking-lite.php:713
+msgid "First"
+msgstr "Første"
+
+#: backend/solo-framework/solo-framework.php:1446
+msgid "Font size"
+msgstr "Skriftstørrelse"
+
+#: backend/classes/class_wbk_backend_options.php:3252
+msgid "Font size for card element on mobile devices"
+msgstr "Skriftstørrelse for kort emelemt på mobile enheder"
+
+#: backend/solo-framework/solo-framework.php:1455
+msgid "Font style"
+msgstr "Font type"
+
+#: backend/solo-framework/solo-framework.php:1464
+msgid "Font weight"
+msgstr "Font vægt"
+
+#: backend/classes/class_wbk_backend_options.php:5154
+msgid ""
+"For the multi-service mode use [split] placeholder to split the string in 2 "
+"parts: static and repeatable"
+msgstr ""
+"I molti-tjeneste tilstand brug [split] plasholder for at opsplitte strengen "
+"i 2 dele: statisk og gentagbar"
+
+#: vendor/plugion/utils/class-plugion-translator.php:75
+#: webba-booking-lite.php:703
+msgid "Forbidden"
+msgstr "Forbudt"
+
+#: backend/classes/class_wbk_backend_options.php:3379
+msgid "Format of timeslots in the Schedule page"
+msgstr "Format for tider på tidsplan siden"
+
+#: backend/classes/class_wbk_backend_options.php:1583
+msgid "Fractional separator in prices"
+msgstr "Fraktions skilletegn i priser"
+
+#: frontend/classes/class_wbk_frontend_booking.php:292
+msgid "Fri"
+msgstr "Fre"
+
+#: backend/classes/class_wbk_backend_schedule.php:1164
+#: backend/classes/class_wbk_backend_schedule.php:1222
+#: backend/classes/class_wbk_backend_schedule.php:1293
+#: backend/classes/class_wbk_backend_schedule.php:1363
+#: common/class_wbk_ajax_controller.php:99
+#: common/class_wbk_business_hours.php:415
+#: common/class_wbk_date_time_utils.php:118
+#: common/class_wbk_date_time_utils.php:228
+#: frontend/classes/class_wbk_frontend_booking.php:285
+#: renderer/templates/plugion/input_pe_business_hours.php:26
+msgid "Friday"
+msgstr "Fredag"
+
+#: common/class_wbk_ajax_controller.php:123
+msgid "from"
+msgstr "fra"
+
+#: backend/classes/class_wbk_backend_options.php:1266
+msgid "From: email"
+msgstr "Fra: email"
+
+#: backend/classes/class_wbk_backend_options.php:1253
+msgid "From: name"
+msgstr "Fra: navn"
+
+#: model/class-wbk-model.php:58
+msgid "Gap (minutes)"
+msgstr "Åbning (minutter)"
+
+#: backend/classes/class_wbk_backend_options.php:78
+#: model/class-wbk-model.php:17
+msgid "General"
+msgstr "Generelt"
+
+#: common/stripe/class_wbk_stripe.php:368
+#: common/stripe/class_wbk_stripe_blank.php:354
+msgid "generic Stripe error"
+msgstr "generisk Stripe fejl"
+
+#: backend/solo-framework/components/class_slf_table_wp_user.php:19
+msgid "Give access to this calendar to"
+msgstr "Giv adgang til denne kalender til"
+
+#: backend/classes/class_wbk_backend_options.php:3082
+msgid "Google API Client ID"
+msgstr "Google API klient ID"
+
+#: backend/classes/class_wbk_backend_options.php:3095
+msgid "Google API Client Secret"
+msgstr "Google API klient Secret"
+
+#: renderer/templates/plugion/cell_pe_google_access_token.php:20
+msgid "Google API credentials not set"
+msgstr "Google API legitimationsoplysninger ikke sat"
+
+#: backend/classes/class_wbk_backend_options.php:3076
+msgid "Google Calendar"
+msgstr "Google kalender"
+
+#: model/class-wbk-model.php:35 model/class-wbk-model.php:228
+msgid "Google calendar"
+msgstr "Google kalender"
+
+#: backend/classes/class_wbk_backend_options.php:2544
+msgid "Google calendar event / iCal description (administrator)"
+msgstr "Google kalender begivenhed / iCal beskrivelse (administrator)"
+
+#: backend/classes/class_wbk_backend_options.php:2570
+msgid "Google calendar event / iCal description (customer)"
+msgstr "Google kalender begivenhed / iCal beskrivelse (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:2531
+msgid "Google calendar event / iCal summary (administrator)"
+msgstr "Google kalender begivenhed / iCal resumé (administrator)"
+
+#: backend/classes/class_wbk_backend_options.php:2557
+msgid "Google calendar event / iCal summary (customer)"
+msgstr "Google kalender begivenhed / iCal resumé (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:2505
+msgid "Google calendar event adding error message"
+msgstr "Google kalender begivenhed tilføje fejlmeddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:2492
+msgid "Google calendar event adding success message"
+msgstr "Google kalender begivenhed tilføje succes meddelelse"
+
+#: backend/class_wbk_backend.php:107 model/class-wbk-model.php:229
+msgid "Google calendars"
+msgstr "Google kalendere"
+
+#: backend/solo-framework/solo-framework.php:691
+msgid "Height"
+msgstr "Højde"
+
+#: vendor/plugion/utils/class-plugion-translator.php:78
+#: webba-booking-lite.php:706
+msgid "Here _START_ to _END_ of _TOTAL_ entries"
+msgstr "Her _START_ til _END_ af ialt _TOTAL_ poster"
+
+#: backend/classes/class_wbk_backend_options.php:2928
+msgid "Hide address"
+msgstr "skjul adresse"
+
+#: backend/classes/class_wbk_backend_options.php:372
+msgid "Hide form on booking"
+msgstr "Gem formular på booking"
+
+#: backend/classes/class_wbk_backend_options.php:4974
+msgid "Highest value"
+msgstr "Højere værdi"
+
+#: backend/classes/class_wbk_backend_options.php:545
+#: backend/classes/class_wbk_backend_options.php:552
+msgid "Holidays"
+msgstr "Helligdage"
+
+#: backend/classes/class_wbk_backend_options.php:6785
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong dollar"
+
+#: backend/classes/class_wbk_backend_options.php:5125
+msgid "Hours frontend label"
+msgstr "Timer frontend etiket"
+
+#: backend/classes/class_wbk_backend_options.php:6786
+msgid "Hungarian Forint"
+msgstr "Ungarske Forint"
+
+#: backend/solo-framework/core/class_slf_table.php:406
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:14
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:18
+msgid "ID"
+msgstr "ID"
+
+#: model/class-wbk-model.php:180
+msgid "ID of cancelled appointment"
+msgstr "ID for annulleret aftale"
+
+#: backend/classes/class_wbk_backend_options.php:3174
+msgid "Ignore free events:"
+msgstr "ignorer ledige tider:"
+
+#: common/google_api/class_wbk_gg.php:108
+msgid ""
+"IMPORTANT NOTICE: add the following URL in the Google Cloud Console or "
+"contact administrator before authorization:"
+msgstr ""
+"VIGTIGT: tilføj denne URL i Google Cloud Console eller kontact "
+"administratoren før authorisering:"
+
+#: backend/classes/class_wbk_backend_options.php:4584
+msgid ""
+"IMPORTANT NOTICE: using \"Send one Email for all booked time slots\" with "
+"multi-service booking mode is recommended only if all services has the same "
+"e-mail."
+msgstr ""
+"VIGTIGGT: brug af \"Send en email for alle bookede tider\" i multi-tjeneste "
+"booking tilstand anbefales kun, hvis alle tjenester har samme email adresse. "
+"the same e-mail."
+
+#: backend/classes/class_wbk_backend_options.php:7185
+msgid ""
+"IMPORTANT: DO NOT ENABLE CACHE IF THERE IS NO ISSUES WITH THE PERFORMANCE"
+msgstr "VIGTIGT: AKTIVER IKKE CACHE, HVIS DER IKKE ER PERFORMANCEPROBLEMER"
+
+#: backend/classes/class_wbk_backend_options.php:4600
+msgid ""
+"IMPORTANT: enable this option only with Basic mode and multiple booking "
+"disabled."
+msgstr ""
+"VIGTIGT: aktiver kun dette valg i basal tilstand og med multi-booking slået "
+"fra."
+
+#: backend/classes/class_wbk_backend_options.php:4639
+msgid ""
+"IMPORTANT: if this option is enabled set the \"Allow unlock manually\" "
+"(Appointments tab) to \"Disallow\"."
+msgstr ""
+"VIGTIGT: hvis dette valg er aktiveret, sæt da \"Tillad manuel oplåsning\" "
+"(Aftale fanen) til \"Fravalgt\"."
+
+#: backend/classes/class_wbk_backend_options.php:6381
+msgid ""
+"IMPORTANT: if you choose \"Delete appointments with started transaction\", "
+"expired appointments will be deleted even if a customer started (and not "
+"finished) the payment (initialized transaction)."
+msgstr ""
+"VIGTIGT: hvis du vælger \"Slet aftale med påbegyndt transaktion\", vil udløbne "
+"transaktioner blive slettet selv om en kunde har påbegyndt og ikke fuldført "
+"en betaling (påbegyndt transaktion)."
+
+#: backend/classes/class_wbk_backend_options.php:4853
+msgid "IMPORTANT: this option is for multi-service booking only"
+msgstr "VIGTIGT: dette valg er kun for multi-tjeneste booking"
+
+#: backend/classes/class_wbk_backend_options.php:4867
+msgid "IMPORTANT: this option is for regular booking only"
+msgstr "VIGTIGT: dette valg er kun for normal booking booking"
+
+#: renderer/templates/plugion/input_pe_business_hours.php:33
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: common/class_wbk_ajax_controller.php:1648
+msgid "incorrect amount"
+msgstr "forkert beløb"
+
+#: common/class_wbk_appointment_deprecated.php:209
+msgid "incorrect attachment"
+msgstr "forkert vedhæftning"
+
+#: common/class_wbk_appointment_deprecated.php:194
+msgid "incorrect day"
+msgstr "forkert dag"
+
+#: common/class_wbk_entity.php:80
+msgid "incorrect description"
+msgstr "forkert beskrivelse"
+
+#: common/class_wbk_appointment_deprecated.php:127
+#: common/class_wbk_service_deprecated.php:75
+msgid "incorrect duration"
+msgstr "forkert varighed"
+
+#: common/class_wbk_appointment_deprecated.php:110
+#: common/class_wbk_service_deprecated.php:58
+msgid "incorrect email"
+msgstr "forkert email"
+
+#: common/class_wbk_entity.php:28
+msgid "incorrect id"
+msgstr "forkert id"
+
+#: common/class_wbk_service_deprecated.php:254
+msgid "incorrect interval"
+msgstr "forkert interval"
+
+#: common/class_wbk_service_deprecated.php:204
+msgid "incorrect min_quantity"
+msgstr "forkert minimum antal"
+
+#: common/class_wbk_service_deprecated.php:94
+msgid "incorrect multiple limit"
+msgstr "forkert multibel grænse"
+
+#: common/class_wbk_service_deprecated.php:108
+msgid "incorrect multiple low limit"
+msgstr "forkert multibel lav grænse"
+
+#: common/class_wbk_entity.php:43
+msgid "incorrect name"
+msgstr "forkert navn"
+
+#: common/class_wbk_appointment_deprecated.php:267
+msgid "incorrect phone"
+msgstr "forkert telefon"
+
+#: common/class_wbk_service_deprecated.php:126
+msgid "incorrect prepare_time"
+msgstr "forkert forberedelsestid"
+
+#: common/class_wbk_service_deprecated.php:233
+msgid "incorrect price"
+msgstr "forkert pris"
+
+#: common/class_wbk_service_deprecated.php:219
+msgid "incorrect priority"
+msgstr "forkert prioritet"
+
+#: common/class_wbk_appointment_deprecated.php:142
+#: common/class_wbk_service_deprecated.php:189
+msgid "incorrect quantity"
+msgstr "forkert antal"
+
+#: common/class_wbk_appointment_deprecated.php:94
+msgid "incorrect service"
+msgstr "forkert tjeneste"
+
+#: backend/classes/class_wbk_backend_options.php:3659
+msgid "Incorrect start of week"
+msgstr "forkert start på uge"
+
+#: common/class_wbk_service_deprecated.php:142
+msgid "incorrect step"
+msgstr "forkert trin"
+
+#: common/class_wbk_appointment_deprecated.php:172
+msgid "incorrect time"
+msgstr "forkert tid"
+
+#: common/class_wbk_appointment_deprecated.php:157
+msgid "incorrect time offset"
+msgstr "forkert tidsafvigelse"
+
+#: backend/solo-framework/solo-framework.php:302
+msgid "Inner container"
+msgstr "Indre område"
+
+#: backend/solo-framework/solo-framework.php:334
+msgid "Inner container background color"
+msgstr "Indre område baggrundsfarve"
+
+#: backend/solo-framework/solo-framework.php:316
+msgid "Inner container border"
+msgstr "Indre område ramme"
+
+#: backend/solo-framework/solo-framework.php:325
+msgid "Inner container border radius"
+msgstr "Indre område ramme radius"
+
+#: backend/solo-framework/solo-framework.php:307
+msgid "Inner container padding"
+msgstr "Indre område udfyldning"
+
+#: backend/solo-framework/solo-framework.php:547
+msgid "Input border"
+msgstr "Input ramme"
+
+#: backend/solo-framework/solo-framework.php:510
+msgid "Input font size"
+msgstr "Input skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:519
+msgid "Input font style"
+msgstr "Input skrift type"
+
+#: backend/solo-framework/solo-framework.php:528
+msgid "Input font weight"
+msgstr "Input skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:537
+msgid "Input height"
+msgstr "Input højde"
+
+#: backend/solo-framework/solo-framework.php:425
+msgid "Input label padding"
+msgstr "Input etiket udfyldning"
+
+#: backend/solo-framework/solo-framework.php:420
+msgid "Input labels"
+msgstr "Input etiketter"
+
+#: backend/solo-framework/solo-framework.php:484
+msgid "Input padding"
+msgstr "Input udfyldning"
+
+#: backend/solo-framework/solo-framework.php:501
+msgid "Input text color"
+msgstr "Input tekst farve"
+
+#: backend/solo-framework/solo-framework.php:479
+msgid "Inputs"
+msgstr "Input"
+
+#: backend/solo-framework/core/class_slf_table.php:289
+msgid "Internal error"
+msgstr "Intern fejl"
+
+#: common/class_wbk_ajax_controller.php:1629
+msgid "invalid appointment id(s)"
+msgstr "Ugyldig aftale id(er)"
+
+#: common/stripe/class_wbk_stripe.php:359
+#: common/stripe/class_wbk_stripe_blank.php:345
+msgid "invalid parameters were supplied to Stripe's API"
+msgstr "Ugyldige parametre blev sendt til Stripe's API"
+
+#: common/class_wbk_ajax_controller.php:1621
+msgid "invalid payment id"
+msgstr "Ugyldig betalingsid"
+
+#: backend/classes/class_wbk_backend_options.php:4298
+#: common/class_wbk_email_notifications.php:65 webba-booking-lite.php:384
+msgid "Invoice"
+msgstr "Faktura"
+
+#: backend/classes/class_wbk_backend_options.php:1214
+msgid "Invoice email subject"
+msgstr "Faktura email emne"
+
+#: model/class-wbk-model.php:85
+msgid "Invoice notification template"
+msgstr "Faktura notifikation template"
+
+#: backend/classes/class_wbk_backend_options.php:6787
+msgid "Israeli New Sheqel"
+msgstr "Israelsk ny shekel"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:21
+msgid "Items count"
+msgstr "Element antal"
+
+#: frontend/classes/class_wbk_frontend_booking.php:268
+msgid "Jan"
+msgstr "jan"
+
+#: frontend/classes/class_wbk_frontend_booking.php:256
+msgid "January"
+msgstr "januar"
+
+#: backend/classes/class_wbk_backend_options.php:6788
+msgid "Japanese Yen"
+msgstr "Japanske yen"
+
+#: backend/classes/class_wbk_backend_options.php:3812
+msgid "jQuery Mask Plugin"
+msgstr "jQuery maske Plugin"
+
+#: backend/classes/class_wbk_backend_options.php:3833
+msgid ""
+"jQuery Mask Plugin format example: (000) 000-0000. \"0\" represents numeric "
+"symbol."
+msgstr ""
+"jQuery maske Plugin format eksempel: (000) 000-0000. \"0\" repræsenterer et "
+"numerisk tegn."
+
+#: backend/classes/class_wbk_backend_options.php:3811
+msgid "jQuery Masked Input Plugin"
+msgstr "jQuery maske input Plugin"
+
+#: backend/classes/class_wbk_backend_options.php:3832
+msgid ""
+"jQuery Masked Input Plugin format example: (999) 999-9999. \"9\" represents "
+"numeric symbol."
+msgstr ""
+"jQuery maske input Plugin format eksempel: (999) 999-9999. \"9\" repræsenterer "
+"et numerisk tegn."
+
+#: backend/classes/class_wbk_backend_options.php:1502
+msgid "jQuery no-conflict mode"
+msgstr "jQuery ingen-konflikt tilstand"
+
+#: frontend/classes/class_wbk_frontend_booking.php:274
+msgid "Jul"
+msgstr "jul"
+
+#: frontend/classes/class_wbk_frontend_booking.php:262
+msgid "July"
+msgstr "juli"
+
+#: frontend/classes/class_wbk_frontend_booking.php:273
+msgid "Jun"
+msgstr "jun"
+
+#: frontend/classes/class_wbk_frontend_booking.php:261
+msgid "June"
+msgstr "juni"
+
+#: backend/solo-framework/solo-framework.php:442
+#: backend/solo-framework/solo-framework.php:641
+msgid "Label color"
+msgstr "Etiket farve"
+
+#: backend/solo-framework/solo-framework.php:451
+#: backend/solo-framework/solo-framework.php:650
+msgid "Label font size"
+msgstr "Etiket skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:460
+#: backend/solo-framework/solo-framework.php:659
+msgid "Label font style"
+msgstr "Eriket skrifttype"
+
+#: backend/solo-framework/solo-framework.php:469
+#: backend/solo-framework/solo-framework.php:668
+msgid "Label font weight"
+msgstr "Etiket skrift vægt"
+
+#: vendor/plugion/utils/class-plugion-translator.php:86
+#: webba-booking-lite.php:714
+msgid "Last"
+msgstr "Sidste"
+
+#: backend/classes/class_wbk_backend_options.php:6858
+msgid "Leave empty to not convert the currency."
+msgstr "Lad stå tom for ingen valutakonvertering."
+
+#: backend/classes/class_wbk_backend_options.php:6035
+msgid "Leave empty to not set limit"
+msgstr "Lad stå tom for ingen grænse."
+
+#: backend/classes/class_wbk_backend_options.php:3690
+msgid "Leave empty to not set the limit. "
+msgstr "Lad stå tom for ingen grænse."
+
+#: backend/classes/class_wbk_backend_options.php:6014
+msgid "Leave empty to not set this limit"
+msgstr "Lad stå tom for ingen grænse."
+
+#: backend/classes/class_wbk_backend_options.php:6924
+msgid "Leave empty to use default input field font size"
+msgstr "Lad stå tom for at bruge standard input felt skriftstørrelse"
+
+#: backend/classes/class_wbk_backend_options.php:3671
+msgid "Leave empty to use Wordpress Date Format. "
+msgstr "Lad stå tom for at bruge WordPress dato format."
+
+#: backend/classes/class_wbk_backend_options.php:3793
+msgid "Leave empty to use Wordpress Time Format. "
+msgstr "Lad stå tom for at bruge WordPress tids format."
+
+#: backend/classes/class_wbk_backend_options.php:4617
+msgid "Let users select count"
+msgstr "Lad brugerne vælge antal"
+
+#: backend/classes/class_wbk_backend_options.php:2805
+msgid "Limit by email reached message"
+msgstr "Begræns af emails nået meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:2120
+msgid "Limit date range for multi-service mode"
+msgstr "Begræns datointerval for multi-tjeneste tilstand"
+
+#: backend/classes/class_wbk_backend_options.php:406
+msgid "Limit per time"
+msgstr "Begræns per tid"
+
+#: backend/classes/class_wbk_backend_options.php:1292
+msgid "Link to the page with Webba Booking shortcode"
+msgstr "Link til siden med Webba Booking skortkoder"
+
+#: backend/classes/class_wbk_backend_options.php:3515
+#: backend/classes/class_wbk_backend_options.php:3560
+#: backend/classes/class_wbk_backend_options.php:3571
+#: backend/classes/class_wbk_backend_options.php:3955
+#: backend/classes/class_wbk_backend_options.php:4024
+#: backend/classes/class_wbk_backend_options.php:4120
+#: backend/classes/class_wbk_backend_options.php:4132
+#: backend/classes/class_wbk_backend_options.php:4145
+#: backend/classes/class_wbk_backend_options.php:4204
+#: backend/classes/class_wbk_backend_options.php:4230
+#: backend/classes/class_wbk_backend_options.php:4300
+msgid "List of available placeholders"
+msgstr "Liste over tilgængelige pladsholdere"
+
+#: backend/classes/class_wbk_backend_options.php:6708
+msgid "Live"
+msgstr "Live"
+
+#: backend/classes/class_wbk_backend_options.php:1517
+msgid "Load pickadate javascript"
+msgstr "Indlæs pickadate javascript"
+
+#: backend/solo-framework/solo-framework.php:1389
+msgid "Load presets"
+msgstr "Indlæs forudindstillinger"
+
+#: backend/classes/class_wbk_backend_options.php:3044
+msgid "Load Stripe API"
+msgstr "Indlæs Stripe API"
+
+#: backend/classes/class_wbk_backend_options.php:3031
+msgid "Load Stripe javascript"
+msgstr "Indlæs Stripe javascript"
+
+#: vendor/plugion/utils/class-plugion-translator.php:71
+#: webba-booking-lite.php:699
+msgid "Loading..."
+msgstr "Indlæser..."
+
+#: backend/classes/class_wbk_backend_options.php:1777
+msgid "Local time format"
+msgstr "Lokal tidsformat"
+
+#: backend/classes/class_wbk_backend_schedule.php:1152
+msgid "Lock all dates on range"
+msgstr "Lås alle datoer i intervallet"
+
+#: backend/classes/class_wbk_backend_options.php:471
+msgid "Lock one time slot before and after appointment"
+msgstr "Lås en tid før og efter aftalen"
+
+#: backend/classes/class_wbk_backend_options.php:6190
+#: backend/classes/class_wbk_backend_options.php:7248
+msgid "lock time slot"
+msgstr "lås tiden"
+
+#: backend/classes/class_wbk_backend_options.php:445
+msgid "Lock time slot if at least one place is booked"
+msgstr "lås tiden hvis mindst en aftale er booket"
+
+#: backend/classes/class_wbk_backend_schedule.php:1283
+msgid "Lock time slots on date range"
+msgstr "Lås tiderne i dato intervallet"
+
+#: backend/classes/class_wbk_backend_options.php:458
+msgid "Lock whole day if at least one time slot is booked"
+msgstr "Lås hele dagen hvis mindst en tid er booket"
+
+#: model/class-wbk-model.php:90
+msgid "Lower limit for multiple mode"
+msgstr "Nedre grænse for multi tilstand"
+
+#: backend/classes/class_wbk_backend_options.php:3728
+msgid "m/d/y"
+msgstr "m/d/å"
+
+#: backend/classes/class_wbk_backend_options.php:4601
+msgid ""
+"Make sure your service schedule includes ONLY ONE time slot available on a "
+"day."
+msgstr ""
+"Kontroller, at din service plan inkluderer KIN EN tid tilgængelig per dag."
+
+#: backend/classes/class_wbk_backend_options.php:6789
+msgid "Malaysian Ringgit"
+msgstr "Malaysiske ringgit"
+
+#: renderer/templates/backend_page.php:69
+#: renderer/templates/plugion/cell_pe_google_access_token.php:27
+msgid "Manage authorization"
+msgstr "Administrer godkeldelser"
+
+#: backend/solo-framework/components/class_slf_table_select.php:55
+#: common/class_wbk_db_utils.php:755 utilities/class_wbk_model_utils.php:199
+msgid "Managed by WooCommerce"
+msgstr "Administreret af WooCommerce"
+
+#: frontend/classes/class_wbk_frontend_booking.php:270
+msgid "Mar"
+msgstr "mar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:258
+msgid "March"
+msgstr "Marts"
+
+#: backend/solo-framework/solo-framework.php:265
+#: backend/solo-framework/solo-framework.php:433
+#: backend/solo-framework/solo-framework.php:682
+#: backend/solo-framework/solo-framework.php:822
+#: backend/solo-framework/solo-framework.php:1428
+msgid "Margin"
+msgstr "Margen"
+
+#: backend/classes/class_wbk_backend_options.php:1352
+msgid "Maximum amount of bookings in one session"
+msgstr "Maksimal antal aftaler i en session"
+
+#: model/class-wbk-model.php:54
+msgid "Maximum booking count per time slot"
+msgstr "Maksimal antal aftaler per tid"
+
+#: backend/classes/class_wbk_backend_options.php:6013
+msgid "Maximum number of available bookings at given time"
+msgstr "Maksimal antal ledige tider på ethvert tidspunkt"
+
+#: backend/classes/class_wbk_backend_options.php:6034
+msgid "Maximum number of bookings of all services at one day"
+msgstr "Makdimal antal aftaler for alle tjenester på en dag"
+
+#: frontend/classes/class_wbk_frontend_booking.php:260
+#: frontend/classes/class_wbk_frontend_booking.php:272
+msgid "May"
+msgstr "Maj"
+
+#: backend/classes/class_wbk_backend_options.php:5149
+msgid "Message before the booking form"
+msgstr "Meddelelse før booking formularen"
+
+#: backend/classes/class_wbk_backend_options.php:2661
+msgid "Message for Bank transfer payment method"
+msgstr "Meddelelse for Bankoverførsel metoden"
+
+#: backend/classes/class_wbk_backend_options.php:2635
+msgid "Message for Pay on arrival payment method"
+msgstr "Meddelelse for betaling ved ankomst metoden"
+
+#: backend/classes/class_wbk_backend_options.php:2033
+msgid "Message if no booking available for payment found"
+msgstr "Meddelelse hvis der ikke er nogen ledige aftaler for betalingen"
+
+#: backend/classes/class_wbk_backend_options.php:721
+msgid "Message to a customer (on approval)"
+msgstr "Meddelelse til kunden (ved godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:655
+msgid "Message to a customer (on booking)"
+msgstr "Meddelelse til kunden (ved booking)"
+
+#: backend/classes/class_wbk_backend_options.php:681
+msgid "Message to a customer (on manual booking)"
+msgstr "Meddelelse til kunden (ved manuel booking)"
+
+#: backend/classes/class_wbk_backend_options.php:1028
+msgid "Message to a customer (on payment received)"
+msgstr "Meddelelse til kunden (ved modtagelse af betaling)"
+
+#: backend/classes/class_wbk_backend_options.php:1067
+msgid "Message to a customer (on status is changed to arrived)"
+msgstr "Meddelelse til kunden (npr status ændres til ankommet)"
+
+#: backend/classes/class_wbk_backend_options.php:893
+msgid "Message to a customers from the group"
+msgstr "Meddelelse til en kunde fra gruppen"
+
+#: backend/classes/class_wbk_backend_options.php:787
+msgid "Message to administrator (on cancellation)"
+msgstr "Meddelelse til adminstrator (ved godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:949
+msgid "Message to an administrator (on booking)"
+msgstr "Meddelelse til kunden (ved godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:989
+msgid "Message to an administrator (on payment received)"
+msgstr "Meddelelse til administratoren (ved betaling modtaget)"
+
+#: backend/classes/class_wbk_backend_options.php:841
+msgid "Message to customer (on cancellation by administrator)"
+msgstr "Meddelelse til kunden (ved administrators aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:854
+msgid "Message to customer (on cancellation by customer)"
+msgstr "Meddelelse til kunden (ved kundens aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:2727
+msgid "Meta key for WooCommerce product"
+msgstr "Meta key for WooCommerce "
+
+#: backend/classes/class_wbk_backend_options.php:6790
+msgid "Mexican Peso"
+msgstr "Mexicansk peso"
+
+#: model/class-wbk-model.php:53
+msgid "Minimum booking count per time slot"
+msgstr "Mindste antal bookings per tids interval"
+
+#: backend/classes/class_wbk_backend_options.php:7184
+msgid "Minutes"
+msgstr "Minutter"
+
+#: backend/classes/class_wbk_backend_options.php:6454
+msgid "minutes"
+msgstr "minutter"
+
+#: backend/classes/class_wbk_backend_options.php:1306
+#: backend/classes/class_wbk_backend_options.php:1313
+#: model/class-wbk-model.php:234
+msgid "Mode"
+msgstr "Tilstand"
+
+#: backend/classes/class_wbk_backend_options.php:1378
+msgid "Mode of multiple places selection"
+msgstr "Valg af tilstand for flere steder"
+
+#: frontend/classes/class_wbk_frontend_booking.php:288
+msgid "Mon"
+msgstr "Man"
+
+#: backend/classes/class_wbk_backend_options.php:3650
+#: backend/classes/class_wbk_backend_schedule.php:1160
+#: backend/classes/class_wbk_backend_schedule.php:1218
+#: backend/classes/class_wbk_backend_schedule.php:1289
+#: backend/classes/class_wbk_backend_schedule.php:1359
+#: common/class_wbk_ajax_controller.php:83
+#: common/class_wbk_business_hours.php:403
+#: common/class_wbk_business_hours.php:425
+#: common/class_wbk_date_time_utils.php:105
+#: common/class_wbk_date_time_utils.php:216
+#: frontend/classes/class_wbk_frontend_booking.php:281
+#: renderer/templates/plugion/input_pe_business_hours.php:22
+msgid "Monday"
+msgstr "Mandag"
+
+#: backend/classes/class_wbk_backend_options.php:3834
+msgid "More information"
+msgstr "Mere information"
+
+#: backend/solo-framework/solo-framework.php:1406
+msgid "Multi-Service"
+msgstr "Multi-Service"
+
+#: backend/classes/class_wbk_backend_options.php:761
+msgid "Multiple booking cancellation notification mode (admin)"
+msgstr "Tilstand for aflysning af flere aftaler (admin)"
+
+#: backend/classes/class_wbk_backend_options.php:815
+msgid "Multiple booking cancellation notification mode (customer)"
+msgstr "Tilstand for aflysning af flere aftaler (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:598
+msgid "Multiple booking notification mode (admin)"
+msgstr "Tilstand for flere aftaler (admin)"
+
+#: backend/classes/class_wbk_backend_options.php:585
+msgid "Multiple booking notification mode (customer)"
+msgstr "Tilstand for flere aftaler (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:1339
+msgid "Multiple bookings in one session"
+msgstr "Flere aftaler i en session"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:15
+#: common/class_wbk_email_notifications.php:233
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:23
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:27
+#: model/class-wbk-model.php:114 model/class-wbk-model.php:141
+#: model/class-wbk-model.php:189 model/class-wbk-model.php:230
+#: webba-booking-lite.php:195 webba-booking-lite.php:316
+msgid "Name"
+msgstr "Navn"
+
+#: backend/classes/class_wbk_backend_options.php:1860
+msgid "Name label (booking form)"
+msgstr "Namneetiket (booking formular)"
+
+#: common/stripe/class_wbk_stripe.php:365
+#: common/stripe/class_wbk_stripe_blank.php:351
+msgid "network communication with Stripe failed"
+msgstr "net kommunikation med Stripe fejlede"
+
+#: vendor/plugion/utils/class-plugion-translator.php:98
+#: webba-booking-lite.php:726
+msgid "New"
+msgstr "Ny"
+
+#: webba-booking-lite.php:291
+msgid "New appointment booking"
+msgstr "Ny aftale booking"
+
+#: backend/classes/class_wbk_backend_options.php:6792
+msgid "New Zealand Dollar"
+msgstr "New Zealandske dollar"
+
+#: vendor/plugion/utils/class-plugion-translator.php:87
+#: webba-booking-lite.php:715
+msgid "Next"
+msgstr "Næste"
+
+#: frontend/classes/class_wbk_frontend_booking.php:298
+msgid "Next month"
+msgstr "Næste måned"
+
+#: backend/classes/class_wbk_backend_options.php:4557
+#: backend/classes/class_wbk_backend_options.php:4712
+#: backend/classes/class_wbk_backend_options.php:4730
+#: backend/classes/class_wbk_backend_options.php:4748
+#: backend/classes/class_wbk_backend_options.php:4766
+#: backend/classes/class_wbk_backend_options.php:4782
+#: backend/classes/class_wbk_backend_options.php:4797
+#: backend/classes/class_wbk_backend_options.php:4809
+#: backend/classes/class_wbk_backend_options.php:5912
+#: backend/classes/class_wbk_backend_options.php:6636
+#: backend/classes/class_wbk_backend_options.php:7265
+#: backend/classes/class_wbk_backend_options.php:7282
+msgid "No"
+msgstr "Nej"
+
+#: backend/classes/class_wbk_backend_options.php:6555
+#: backend/classes/class_wbk_backend_options.php:6576
+msgid "no"
+msgstr "nej"
+
+#: vendor/plugion/utils/class-plugion-translator.php:77
+#: webba-booking-lite.php:705
+msgid "No data available"
+msgstr "Ingen data tilgængelig"
+
+#: vendor/plugion/renderer/templates/table.php:21
+msgid "No data available."
+msgstr "Ingen data tilgængelig."
+
+#: vendor/plugion/utils/class-plugion-translator.php:84
+#: webba-booking-lite.php:712
+msgid "No matching records found"
+msgstr "Ingen match fundet"
+
+#: backend/classes/class_wbk_backend_options.php:6791
+msgid "Norwegian Krone"
+msgstr "Norsk krone"
+
+#: backend/solo-framework/components/class_slf_table_wp_user.php:22
+msgid "not selected"
+msgstr "ikke valgt"
+
+#: backend/classes/class_wbk_backend_options.php:5875
+msgid ""
+"Note, it's necessary to include #name placeholder into the value of this "
+"option."
+msgstr ""
+"Bemærk, at det er nødvendigt at medtage #name pladsholder i værdien for "
+"dette valg."
+
+#: backend/classes/class_wbk_backend_options.php:6133
+msgid ""
+"Note: if autolock is enabled, appointments of the connected services are "
+"taken into amount."
+msgstr ""
+"Bemærk: hvis autolås er aktiveret, tages aftaler i den forbundne tjeneste i "
+"betragtning."
+
+#: backend/classes/class_wbk_backend_options.php:6163
+msgid ""
+"Note: if continuous appointments enabled for the service, time slot will be "
+"locked before the first booked timeslot and after last booked time slot."
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:6075
+msgid "Note: this option is used by front-end booking"
+msgstr ""
+
+#: frontend/classes/class_wbk_frontend_booking.php:278
+msgid "Nov"
+msgstr ""
+
+#: frontend/classes/class_wbk_frontend_booking.php:266
+msgid "November"
+msgstr "November"
+
+#: frontend/classes/class_wbk_frontend_booking.php:277
+msgid "Oct"
+msgstr "okt"
+
+#: frontend/classes/class_wbk_frontend_booking.php:265
+msgid "October"
+msgstr "Oktober"
+
+#: common/class_wbk_db_utils.php:762 utilities/class_wbk_model_utils.php:124
+msgid "One-way (export)"
+msgstr "Envejs (eksport)"
+
+#: common/class_wbk_db_utils.php:763 utilities/class_wbk_model_utils.php:125
+msgid "One-way (import)"
+msgstr "Envejs (import)"
+
+#: backend/classes/class_wbk_backend_options.php:4731
+msgid "Only on the booking page (not recommended)"
+msgstr "Kun på booking siden (frarådes)"
+
+#: backend/classes/class_wbk_backend_schedule.php:146
+#: backend/classes/class_wbk_backend_schedule.php:223
+msgid "open"
+msgstr "åbn"
+
+#: backend/solo-framework/solo-framework.php:1407
+msgid "Options for multi service mode"
+msgstr "Valg for multi tjeneste tilstand"
+
+#: backend/class_wbk_backend.php:155
+msgid "Or category"
+msgstr "Eller kategori"
+
+#: backend/classes/class_wbk_backend_schedule.php:1142
+#: backend/classes/class_wbk_backend_schedule.php:1204
+#: backend/classes/class_wbk_backend_schedule.php:1261
+#: backend/classes/class_wbk_backend_schedule.php:1331
+msgid "or Service category"
+msgstr "eller tjeneske kategori"
+
+#: backend/classes/class_wbk_backend_options.php:2089
+msgid "Order service by"
+msgstr "Bestille tjeneste af"
+
+#: backend/solo-framework/solo-framework.php:252
+msgid "Outer container"
+msgstr "Ydre område"
+
+#: backend/solo-framework/solo-framework.php:293
+msgid "Outer container background color"
+msgstr "Ydre område baggrundsfarve"
+
+#: backend/solo-framework/solo-framework.php:275
+msgid "Outer container border"
+msgstr "Ydre område ramme"
+
+#: backend/solo-framework/solo-framework.php:284
+msgid "Outer container border radius"
+msgstr "Ydre område ramme radius"
+
+#: backend/solo-framework/solo-framework.php:266
+msgid "Outer container margin"
+msgstr "Ydre område margin"
+
+#: backend/solo-framework/solo-framework.php:257
+msgid "Outer container padding"
+msgstr "Ydre område udfyldning"
+
+#: backend/solo-framework/solo-framework.php:434
+msgid "Outer label margin"
+msgstr "Ydre etiket margin"
+
+#: backend/classes/class_wbk_backend_schedule.php:1610
+msgid "Overbooking error"
+msgstr "Overbooking fejl"
+
+#: backend/classes/class_wbk_backend_options.php:3057
+msgid "Override Stripe card element error messages"
+msgstr "Overskriv Stripe kort element fejl meddelelse"
+
+#: backend/solo-framework/solo-framework.php:256
+#: backend/solo-framework/solo-framework.php:306
+#: backend/solo-framework/solo-framework.php:424
+#: backend/solo-framework/solo-framework.php:483
+#: backend/solo-framework/solo-framework.php:831
+#: backend/solo-framework/solo-framework.php:1419
+msgid "Padding"
+msgstr "Udfyldning"
+
+#: backend/classes/class_wbk_backend_options.php:6990
+#: backend/solo-framework/components/class_slf_table_select.php:50
+#: common/class_wbk_db_utils.php:753 utilities/class_wbk_model_utils.php:197
+msgid "Paid (approved)"
+msgstr "Betalt (godkendt)"
+
+#: backend/classes/class_wbk_backend_options.php:6989
+#: backend/solo-framework/components/class_slf_table_select.php:47
+#: common/class_wbk_db_utils.php:752 utilities/class_wbk_model_utils.php:196
+msgid "Paid (awaiting approval)"
+msgstr "Betalt (afventer godkendelse)'"
+
+#: backend/classes/class_wbk_backend_options.php:5240
+msgid "Paid booking can't be canceled."
+msgstr "Betalt booking kan ikke aflyses."
+
+#: webba-booking-lite.php:217 webba-booking-lite.php:353
+msgid "Paid booking couldn't be canceled."
+msgstr "Betalt booking kunne ikke aflyses."
+
+#: backend/classes/class_wbk_backend_options.php:5563
+#: common/class_wbk_ajax_controller.php:979
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:372
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:334
+msgid "Pay by bank transfer"
+msgstr "Betaling via bankoverførsel"
+
+#: backend/classes/class_wbk_backend_options.php:5725
+#: webba-booking-lite.php:324
+msgid "Pay now with credit card"
+msgstr "Betal nu med kreditkort"
+
+#: backend/classes/class_wbk_backend_options.php:5714
+#: webba-booking-lite.php:323
+msgid "Pay now with PayPal"
+msgstr "Betal nu med PayPal"
+
+#: backend/classes/class_wbk_backend_options.php:5553
+#: common/class_wbk_ajax_controller.php:972
+#: common/class_wbk_ajax_controller.php:974
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:365
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:367
+#: frontend/templates/tpl_wbk_frontend_multserv_booking_ui.php:330
+msgid "Pay on arrival"
+msgstr "Betal ved ankomst"
+
+#: backend/classes/class_wbk_backend_options.php:2622
+msgid "Pay on arrival button text"
+msgstr "Betal ved ankomst knap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:5516
+#: common/stripe/class_wbk_stripe.php:88
+#: common/stripe/class_wbk_stripe_blank.php:74 webba-booking-lite.php:406
+msgid "Pay with credit card"
+msgstr "Betal med kreditkort"
+
+#: webba-booking-lite.php:200
+msgid "Pay with PayPal"
+msgstr "Betal med PayPal"
+
+#: backend/classes/class_wbk_backend_options.php:6689
+#: webba-booking-lite.php:208 webba-booking-lite.php:336
+msgid "Payment canceled."
+msgstr "Betaling annuleret."
+
+#: backend/classes/class_wbk_backend_options.php:6677
+msgid "Payment complete."
+msgstr "Betaling fuldført."
+
+#: webba-booking-lite.php:207 webba-booking-lite.php:335
+msgid "Payment completed."
+msgstr "Betaling fuldført."
+
+#: backend/classes/class_wbk_backend_options.php:5736
+#: webba-booking-lite.php:201 webba-booking-lite.php:325
+msgid "Payment details"
+msgstr "Betaling detaljer"
+
+#: backend/classes/class_wbk_backend_options.php:1968
+msgid "Payment details title"
+msgstr "Betaling detaljer titel"
+
+#: backend/classes/class_wbk_backend_options.php:1981
+msgid "Payment item name"
+msgstr "Betaling element navn"
+
+#: common/class_wbk_db_utils.php:2718 model/class-wbk-model.php:147
+#: model/class-wbk-model.php:195 utilities/class_wbk_model_utils.php:181
+msgid "Payment method"
+msgstr "Betalingsmetode"
+
+#: common/stripe/class_wbk_stripe.php:376
+#: common/stripe/class_wbk_stripe_blank.php:362
+#: common/woocommerce/class_wbk_woocommerce.php:256
+msgid "Payment method not supported"
+msgstr "Betalingsmetode understøttes ikke"
+
+#: model/class-wbk-model.php:87
+msgid "Payment methods"
+msgstr "Betalingsmetoder"
+
+#: backend/classes/class_wbk_backend_options.php:2268
+msgid "Payment result cancel message"
+msgstr "Betaling annuleret meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:2255
+msgid "Payment result success message"
+msgstr "Betaling gennemført meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:2242
+msgid "Payment result title"
+msgstr "Betaling resultat titel"
+
+#: backend/classes/class_wbk_backend_options.php:5815
+#: webba-booking-lite.php:206 webba-booking-lite.php:334
+msgid "Payment status"
+msgstr "Betalings status"
+
+#: backend/classes/class_wbk_backend_options.php:2829
+msgid "PayPal"
+msgstr "PayPal"
+
+#: backend/classes/class_wbk_backend_options.php:2902
+msgid "PayPal currency"
+msgstr "PayPal valuta"
+
+#: backend/classes/class_wbk_backend_options.php:2875
+msgid "PayPal Live ClientID"
+msgstr "PayPal Live klientID"
+
+#: backend/classes/class_wbk_backend_options.php:2889
+msgid "PayPal Live Secret"
+msgstr "PayPal Live hemmelig nøgle"
+
+#: backend/classes/class_wbk_backend_options.php:2835
+msgid "PayPal mode"
+msgstr "PayPal tilstand"
+
+#: backend/classes/class_wbk_backend_options.php:1942
+msgid "PayPal payment button text"
+msgstr "PayPal betaling knaptekst"
+
+#: backend/classes/class_wbk_backend_options.php:2848
+msgid "PayPal Sandbox ClientID"
+msgstr "PayPal Sandkasse ClientID"
+
+#: backend/classes/class_wbk_backend_options.php:2862
+msgid "PayPal Sandbox Secret"
+msgstr "PayPal Sandkasse hemmelig nøgle"
+
+#: backend/classes/class_wbk_backend_options.php:6614
+msgid "PayPal tax option"
+msgstr "PayPal skattevalg"
+
+#: backend/classes/class_wbk_backend_options.php:6828
+msgid "PayPal tax updated"
+msgstr "PayPal skat opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:6824
+msgid "PayPal updated"
+msgstr "PayPal opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:211
+msgid "Perform autolock on:"
+msgstr "Udfør autolås tændt:"
+
+#: backend/classes/class_wbk_backend_options.php:6793
+msgid "Philippine Peso"
+msgstr "Fillippinske peso"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:19
+#: common/class_wbk_db_utils.php:2714
+#: common/class_wbk_email_notifications.php:235
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:29
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:33
+#: model/class-wbk-model.php:143 model/class-wbk-model.php:191
+#: utilities/class_wbk_model_utils.php:177 webba-booking-lite.php:197
+#: webba-booking-lite.php:318
+msgid "Phone"
+msgstr "Telefon"
+
+#: backend/classes/class_wbk_backend_options.php:169
+msgid "Phone field is required in the booking form"
+msgstr "Telefonnr felt er obligatorisk i booking formularen"
+
+#: backend/classes/class_wbk_backend_options.php:155
+msgid "Phone format"
+msgstr "Telefonnr format"
+
+#: backend/classes/class_wbk_backend_options.php:1888
+msgid "Phone label (booking form)"
+msgstr "Telefornr etiket (booking formular)"
+
+#: backend/classes/class_wbk_backend_options.php:141
+msgid "Phone number mask input"
+msgstr "Telefornr input maske"
+
+#: backend/classes/class_wbk_backend_options.php:3885
+msgid ""
+"Pick holidays. This option should be used to set only holidays. Do not use "
+"it to set weekends (there is a Business hours parameter of services for this "
+"purpose)"
+msgstr ""
+"Vælg fridage. Vælg kun fridage. Vælg ikke weekends (der er en "
+"forretningstider parameter for tjenester til dette formål)"
+
+#: backend/classes/class_wbk_backend_options.php:5438
+#: backend/classes/class_wbk_backend_options.php:5453
+#: backend/classes/class_wbk_backend_options.php:5470
+#: backend/classes/class_wbk_backend_options.php:5486
+msgid "Placeholder for custom field:"
+msgstr "Pladsholder for brugerdefineret felt:"
+
+#: backend/classes/class_wbk_backend_options.php:5578
+msgid "Placeholders"
+msgstr "Pladsholdere"
+
+#: common/class_wbk_db_utils.php:2711
+#: common/class_wbk_email_notifications.php:236 model/class-wbk-model.php:139
+#: model/class-wbk-model.php:187 utilities/class_wbk_model_utils.php:174
+msgid "Places booked"
+msgstr "Bookede steder"
+
+#: webba-booking-lite.php:214 webba-booking-lite.php:355
+msgid "Please, enter your email to confirm cancelation"
+msgstr "Indtast venligst din email adresse for at bekræfte aflysningen"
+
+#: backend/classes/class_wbk_backend_options.php:5266
+msgid "Please, enter your email to confirm cancellation"
+msgstr "Indtast venligst din email adresse for at bekræfte aflysningen"
+
+#: backend/classes/class_wbk_backend_options.php:4105
+msgid ""
+"Please, note: copy of notification will be sent if appointment is approved "
+"by the approval link."
+msgstr ""
+"Bemærk: En kopi af notifikationen vil blive sendtm hvis aftalen bekræftes "
+"via bekræftelseslinket."
+
+#: plugion_extensions/class-wbk-pe-business-hours.php:43
+msgid "Please, remove time range intersections."
+msgstr "Fjern venligst tids overlappet."
+
+#: vendor/plugion/utils/class-plugion-translator.php:76
+#: webba-booking-lite.php:704
+msgid "Please, set at least one filter"
+msgstr "Sæt venligst mindst et filter"
+
+#: backend/classes/class_wbk_backend_options.php:6794
+msgid "Polish Zloty"
+msgstr "Polske zloty"
+
+#: backend/classes/class_wbk_backend_options.php:4692
+msgid "Popup"
+msgstr "Pop-op"
+
+#: common/class_wbk_db_utils.php:2692
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: backend/classes/class_wbk_backend_options.php:6795
+msgid "Pound Sterling"
+msgstr "Pund sterling"
+
+#: model/class-wbk-model.php:55
+msgid "Preparation time (minutes)"
+msgstr "Forberedelsestid (minutter)"
+
+#: vendor/plugion/utils/class-plugion-translator.php:88
+#: webba-booking-lite.php:716
+msgid "Previous"
+msgstr "Forrige"
+
+#: frontend/classes/class_wbk_frontend_booking.php:299
+msgid "Previous  month"
+msgstr "Forrige måned"
+
+#: common/class_wbk_db_utils.php:2719 model/class-wbk-model.php:89
+#: utilities/class_wbk_model_utils.php:182
+msgid "Price"
+msgstr "Pris"
+
+#: backend/classes/class_wbk_backend_options.php:1994
+msgid "Price format"
+msgstr "Prisformat"
+
+#: model/class-wbk-model.php:20
+msgid "Priority"
+msgstr "Prioritet"
+
+#: backend/classes/class_wbk_backend_options.php:4825
+msgid "Priority (ascending)"
+msgstr "Prioritet (stigende)"
+
+#: backend/classes/class_wbk_backend_options.php:4824
+msgid "Priority (descending)"
+msgstr "Prioritet (faldende)"
+
+#: vendor/plugion/utils/class-plugion-translator.php:82
+#: webba-booking-lite.php:710
+msgid "Processing..."
+msgstr "Behandler..."
+
+#: backend/classes/class_wbk_backend_options.php:3277
+msgid "Product ID"
+msgstr "Produkt-id"
+
+#: common/woocommerce/class_wbk_woocommerce.php:237
+msgid "Product ID not specified correctly"
+msgstr "Produkt ID ikke anført korrekt"
+
+#: backend/classes/class_wbk_backend_options.php:2992
+msgid "Publishable key"
+msgstr "Publicerbar nøgke"
+
+#: backend/classes/class_wbk_backend_options.php:1418
+msgid "Range selection"
+msgstr "Interval valg"
+
+#: common/google_api/class_wbk_gg.php:116
+msgid "Re-authorize"
+msgstr "Godkend igen"
+
+#: backend/classes/class_wbk_backend_options.php:565
+msgid "Recurring holidays"
+msgstr "Tilbagevendende fridage"
+
+#: backend/classes/class_wbk_backend_options.php:2954
+#: backend/classes/class_wbk_backend_options.php:3239
+msgid "Redirect to page when payment is successful"
+msgstr "Omdiriger til side, når betaling er gennemført"
+
+#: backend/classes/class_wbk_backend_options.php:6913
+msgid "Redirect URL for successful payment. Leave empty to not redirect."
+msgstr ""
+"Ondirigerings URL for gennemført betaling. Efterlad blank for ingen "
+"omdirigering."
+
+#: backend/classes/class_wbk_backend_options.php:6836
+msgid ""
+"Redirect URL for successful payment. Leave empty to use page with booking "
+"form."
+msgstr ""
+"Ondirigerings URL for gennemført betaling. Efterlad blank for at bruge siden "
+"med booking formularen."
+
+#: backend/classes/class_wbk_backend_options.php:6191
+#: backend/classes/class_wbk_backend_options.php:7249
+msgid "reduce count of available places"
+msgstr "reducer antallet af ledige pladser"
+
+#: backend/classes/class_wbk_backend_options.php:3108
+msgid "Refresh cache after"
+msgstr "Genopfrisk cachen efter"
+
+#: model/class-wbk-model.php:82
+msgid "Reminder notification template"
+msgstr "Template for påmindelses notifikation"
+
+#: common/google_api/class_wbk_gg.php:125
+msgid "Remove authorization"
+msgstr "Fjern autorisation"
+
+#: common/class_wbk_date_time_utils.php:200
+msgid "Remove the second gap"
+msgstr "Fjern det andet hul"
+
+#: backend/classes/class_wbk_backend_options.php:5762
+msgid "Required placeholder: #price."
+msgstr "Påkrævet pladholder: #price."
+
+#: backend/classes/class_wbk_backend_options.php:6707
+msgid "Sandbox"
+msgstr "Sandkasse"
+
+#: frontend/classes/class_wbk_frontend_booking.php:293
+msgid "Sat"
+msgstr "Lør"
+
+#: backend/classes/class_wbk_backend_schedule.php:1165
+#: backend/classes/class_wbk_backend_schedule.php:1223
+#: backend/classes/class_wbk_backend_schedule.php:1294
+#: backend/classes/class_wbk_backend_schedule.php:1364
+#: common/class_wbk_ajax_controller.php:103
+#: common/class_wbk_business_hours.php:418
+#: common/class_wbk_date_time_utils.php:121
+#: common/class_wbk_date_time_utils.php:231
+#: frontend/classes/class_wbk_frontend_booking.php:286
+#: renderer/templates/plugion/input_pe_business_hours.php:27
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: backend/solo-framework/core/class_slf_table.php:692
+#: backend/solo-framework/core/class_slf_table.php:713
+msgid "Save"
+msgstr "Gem"
+
+#: vendor/plugion/utils/class-plugion-translator.php:97
+#: webba-booking-lite.php:725
+msgid "Save and close"
+msgstr "Gem og luk"
+
+#: backend/solo-framework/solo-framework.php:1377
+msgid "Save options"
+msgstr "Gem valgene"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:60
+msgid "Schedule"
+msgstr "Tidsplan"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:96
+msgid "Schedule Tools:"
+msgstr "Tidsplanlægnings værktøj:"
+
+#: backend/classes/class_wbk_backend_schedule.php:10
+msgid "Schedules"
+msgstr "Tidsplaner"
+
+#: backend/classes/class_wbk_backend_options.php:1596
+msgid "Scroll container"
+msgstr "Rul område"
+
+#: backend/classes/class_wbk_backend_options.php:1609
+msgid "Scroll value"
+msgstr "Rul værdi"
+
+#: vendor/plugion/utils/class-plugion-translator.php:83
+#: webba-booking-lite.php:711
+msgid "Search"
+msgstr "Søg"
+
+#: common/class_wbk_ajax_controller.php:145
+msgid "Search time slots"
+msgstr "Søg tider"
+
+#: backend/classes/class_wbk_backend_options.php:3005
+msgid "Secret key"
+msgstr "Hemmelig nøgle"
+
+#: webba-booking-lite.php:295
+msgid "Select a service"
+msgstr "Vælg tjeneste"
+
+#: backend/classes/class_wbk_backend_options.php:3392
+msgid "Select all services on the Appointments page automatically"
+msgstr "Vælg automatisk alle tjenester på aftale siden"
+
+#: backend/classes/class_wbk_backend_options.php:5087
+#: renderer/templates/plugion/category_list.php:10 webba-booking-lite.php:184
+#: webba-booking-lite.php:411
+msgid "Select category"
+msgstr "Vælg kategori"
+
+#: backend/classes/class_wbk_backend_options.php:1642
+msgid "Select category label"
+msgstr "Vælg kategori etiket"
+
+#: backend/classes/class_wbk_backend_options.php:1682
+msgid "Select date input placeholder"
+msgstr "Vælg data input plasholder"
+
+#: backend/classes/class_wbk_backend_options.php:1668
+msgid "Select date label (basic mode)"
+msgstr "Vælg dato etiket (enkel tilstand)"
+
+#: backend/classes/class_wbk_backend_options.php:1655
+msgid "Select date label (extended mode)"
+msgstr "Vælg dato etiket (udvidet tilstand)"
+
+#: backend/classes/class_wbk_backend_options.php:6903
+msgid "Select fields required for Stripe payment (optional)"
+msgstr "Vælg nødvendige felter for Stripe betaling (valgfrie)"
+
+#: backend/classes/class_wbk_backend_options.php:1709
+msgid "Select hours label"
+msgstr "Vælg time etiket"
+
+#: backend/solo-framework/solo-framework.php:365
+msgid "Select hours label\tunderline margin"
+msgstr "Vælg time etiket underste margen"
+
+#: backend/solo-framework/solo-framework.php:374
+msgid "Select hours label underline style"
+msgstr "Vælg time etiket underste type"
+
+#: model/class-wbk-model.php:232
+#: vendor/plugion/utils/class-plugion-translator.php:101
+#: webba-booking-lite.php:729
+msgid "select option"
+msgstr "Vælg tilvalg"
+
+#: backend/class_wbk_backend.php:152
+#: backend/classes/class_wbk_backend_schedule.php:1118
+#: backend/classes/class_wbk_backend_schedule.php:1120
+#: backend/classes/class_wbk_backend_schedule.php:1180
+#: backend/classes/class_wbk_backend_schedule.php:1182
+#: backend/classes/class_wbk_backend_schedule.php:1238
+#: backend/classes/class_wbk_backend_schedule.php:1308
+#: backend/classes/class_wbk_backend_schedule.php:1378
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:717
+#: webba-booking-lite.php:183
+msgid "Select service"
+msgstr "Vælg tjeneste"
+
+#: backend/classes/class_wbk_backend_options.php:1629
+msgid "Select service label"
+msgstr "Vælg tjeneste etiket"
+
+#: backend/classes/class_wbk_backend_options.php:6074
+#: backend/classes/class_wbk_backend_options.php:6104
+#: backend/classes/class_wbk_backend_options.php:6132
+#: backend/classes/class_wbk_backend_options.php:6162
+msgid "Select the services for which this rule is applied"
+msgstr "Vælg de tjenester, som denne regel gælder for"
+
+#: common/class_wbk_service_schedule.php:124
+msgid "Select time slot"
+msgstr "Vælg tider"
+
+#: backend/classes/class_wbk_backend_options.php:1722
+msgid "Select time slots label"
+msgstr "Vælg tider etiket"
+
+#: backend/classes/class_wbk_backend_schedule.php:1144
+#: backend/classes/class_wbk_backend_schedule.php:1206
+#: backend/classes/class_wbk_backend_schedule.php:1240
+#: backend/classes/class_wbk_backend_schedule.php:1263
+#: backend/classes/class_wbk_backend_schedule.php:1310
+#: backend/classes/class_wbk_backend_schedule.php:1333
+#: backend/classes/class_wbk_backend_schedule.php:1380
+#: frontend/classes/class_wbk_frontend_booking.php:423
+#: frontend/classes/class_wbk_frontend_booking.php:468
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:729
+msgid "select..."
+msgstr "vælg..."
+
+#: backend/classes/class_wbk_backend_options.php:5066
+msgid "Semicolon"
+msgstr "Semikolon"
+
+#: backend/classes/class_wbk_backend_options.php:906
+msgid "Send administrator an email (on booking)"
+msgstr "Send mail til administrator (ved booking)"
+
+#: backend/classes/class_wbk_backend_options.php:748
+msgid "Send administrator an email (on cancellation)"
+msgstr "Send mail til administrator (ved aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:963
+msgid "Send administrator an email (on payment received)"
+msgstr "Send mail til administrator (ved betaling modtaget)"
+
+#: backend/classes/class_wbk_backend_options.php:1080
+msgid "Send administrator reminders"
+msgstr "Send administrator påmindelser"
+
+#: backend/classes/class_wbk_backend_options.php:3200
+msgid ""
+"Send an alert email to administrator if any issue occurred with the "
+"integration:"
+msgstr ""
+"Send et alarm mail til administrator, hvis der opstår problemer med "
+"integrationen:"
+
+#: backend/classes/class_wbk_backend_options.php:867
+msgid "Send an email to other customers from the group (if provided)"
+msgstr "Send et mail til de øvrige kunder i gruppen (hvis de findes)"
+
+#: backend/classes/class_wbk_backend_options.php:1240
+msgid "Send copies of invoices to administrator"
+msgstr "Send kopi af fakturaer til administrator"
+
+#: backend/classes/class_wbk_backend_options.php:1279
+msgid "Send copies of service emails to"
+msgstr "Send kopier af service mails til"
+
+#: backend/classes/class_wbk_backend_options.php:734
+msgid "Send copy of approval notification to administrator"
+msgstr "Send kopi af godkendelsesnotifikation til administrator"
+
+#: backend/classes/class_wbk_backend_options.php:695
+msgid "Send customer an email (on approval)"
+msgstr "Send et mail til kunden (ved godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:611
+msgid "Send customer an email (on booking)"
+msgstr "Send et mail til kunden (ved booking)"
+
+#: backend/classes/class_wbk_backend_options.php:802
+msgid "Send customer an email (on cancellation)"
+msgstr "Send et mail til kunden (ved aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:1002
+msgid "Send customer an email (on payment received)"
+msgstr "Send et mail til kunden (ved modtagelse af betaling)"
+
+#: backend/classes/class_wbk_backend_options.php:1121
+msgid "Send customer reminders"
+msgstr "Send påmindelser til kunder"
+
+#: backend/classes/class_wbk_backend_options.php:1135
+msgid "Send customer reminders days before appointment"
+msgstr "Send påmindelser til kunder dage før aftalen"
+
+#: backend/classes/class_wbk_backend_options.php:4011
+#: backend/classes/class_wbk_backend_options.php:4568
+#: backend/classes/class_wbk_backend_options.php:4581
+msgid "Send Email for each booked time slot"
+msgstr "Send mail for hver booket tid"
+
+#: backend/classes/class_wbk_backend_options.php:3999
+msgid "Send Email for each cancelled time slot"
+msgstr "Send mail for hver aflyst tid"
+
+#: backend/classes/class_wbk_backend_options.php:4282
+msgid "Send invoice on approval"
+msgstr "Send faktura ved godkendelse"
+
+#: backend/classes/class_wbk_backend_options.php:4281
+msgid "Send invoice on booking"
+msgstr "Send faktura ved booking"
+
+#: backend/classes/class_wbk_backend_options.php:4283
+msgid "Send invoice on payment complete"
+msgstr "Send faktura ved gennemført betaling"
+
+#: backend/classes/class_wbk_backend_options.php:1201
+msgid "Send invoice to customer"
+msgstr "Send faktura til kunde"
+
+#: backend/classes/class_wbk_backend_options.php:1041
+msgid "Send notification when status is changed to Arrived"
+msgstr "Send notifikation, når status cndres til ankommet"
+
+#: backend/classes/class_wbk_backend_options.php:4012
+#: backend/classes/class_wbk_backend_options.php:4569
+#: backend/classes/class_wbk_backend_options.php:4582
+msgid "Send one Email for all booked time slots"
+msgstr "Send et mail for alle bookede tider"
+
+#: backend/classes/class_wbk_backend_options.php:4000
+msgid "Send one Email for all cancelled time slots"
+msgstr "Send et mail for alle aflyste tider"
+
+#: backend/classes/class_wbk_backend_options.php:1188
+msgid "Send reminders only for approved appointments"
+msgstr "Send kun påmindelser for godkendte aftaler"
+
+#: frontend/classes/class_wbk_frontend_booking.php:276
+msgid "Sep"
+msgstr "sep"
+
+#: backend/solo-framework/solo-framework.php:343
+msgid "Separators"
+msgstr "Skilletegn"
+
+#: frontend/classes/class_wbk_frontend_booking.php:264
+msgid "September"
+msgstr "September"
+
+#: backend/solo-framework/solo-framework.php:1398
+msgid "Serialize options"
+msgstr "Serialiserings valg"
+
+#: common/class_wbk_db_utils.php:2707
+#: common/class_wbk_email_notifications.php:231
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:15
+#: model/class-wbk-model.php:134 model/class-wbk-model.php:182
+#: utilities/class_wbk_model_utils.php:170
+msgid "Service"
+msgstr "Tjeneste"
+
+#: model/class-wbk-model.php:14
+msgid "service"
+msgstr "Tjeneste"
+
+#: backend/classes/class_wbk_backend_schedule.php:523
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:143
+#: frontend/templates/tpl_wbk_frontend_landing.php:137
+#: plugion_extensions/plugion_hooks.php:179
+msgid "Service administrator"
+msgstr "Tjeneste administrator"
+
+#: backend/class_wbk_backend.php:102 model/class-wbk-model.php:101
+msgid "Service categories"
+msgstr "Tjeneste kategorier"
+
+#: model/class-wbk-model.php:100
+msgid "Service category"
+msgstr "Tjeneste kategori"
+
+#: renderer/templates/plugion/category_list.php:22
+msgid "Service catetories"
+msgstr "Tjeneste kategorier"
+
+#: backend/classes/class_wbk_backend_options.php:5079
+msgid "Service frontend label"
+msgstr "Tjeneste frontend etiket"
+
+#: model/class-wbk-model.php:18
+msgid "Service name"
+msgstr "Tjeneste navn"
+
+#: backend/solo-framework/solo-framework.php:1447
+msgid "Service title font size"
+msgstr "Tjeneste titel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1456
+msgid "Service title Font style"
+msgstr "Tjeneste titel skrifttype"
+
+#: backend/solo-framework/solo-framework.php:1465
+msgid "Service title font weight"
+msgstr "Tjeneste titel skrift vægt"
+
+#: backend/solo-framework/solo-framework.php:1411
+msgid "Service title text align"
+msgstr "Tjeneste titel skrift justering"
+
+#: backend/solo-framework/solo-framework.php:1438
+msgid "Service title text color"
+msgstr "Tjeneste titel skrift farve"
+
+#: backend/solo-framework/solo-framework.php:1429
+msgid "Service title text margin"
+msgstr "Tjeneste titel skrift margen"
+
+#: backend/solo-framework/solo-framework.php:1420
+msgid "Service title text padding"
+msgstr "Tjeneste titel skrift udfyldning"
+
+#: backend/classes/class_wbk_backend_options.php:6176
+msgid "Service with the id equals 1 is availeble on 01/15/2020 at 15:00-18:00"
+msgstr "Tjeneste med id lig 1 er tilgængelig den 15-01-2021 kl. 15:00-16:00"
+
+#: backend/class_wbk_backend.php:101 model/class-wbk-model.php:103
+#: model/class-wbk-model.php:105 model/class-wbk-model.php:246
+msgid "Services"
+msgstr "Tjenester"
+
+#: model/class-wbk-model.php:15
+msgid "services"
+msgstr "tjenester"
+
+#: backend/classes/class_wbk_backend_options.php:5967
+msgid "services in the same categories"
+msgstr "tjenester i samme kategori"
+
+#: backend/classes/class_wbk_backend_options.php:6557
+msgid ""
+"Set \"no\" if there are plugins in your WordPress that are using the "
+"pickadate date picker."
+msgstr ""
+"Vælg \"nej\", hvis du bruger pickadate dato vælger i dine WordPress plugins"
+
+#: backend/classes/class_wbk_backend_options.php:6578
+msgid ""
+"Set \"yes\" to allow administrator to cancel or approve appointment with the "
+"link sent in notification."
+msgstr ""
+"Vælg \"Ja\" for at tillade administratoren at afvise eller godkende aftaler "
+"med linket sendt i notifikationen."
+
+#: backend/classes/class_wbk_backend_options.php:4750
+msgid ""
+"Set 'no' or 6.21.1 only if there is a conflict with other plugin that uses "
+"Stripe."
+msgstr ""
+"Vælg \"Nej\" eller kun 6.21.1, hvis der er konflikt med andre plugins, som "
+"benytter Stripe."
+
+#: backend/classes/class_wbk_backend_options.php:7186
+msgid "Set 0 to disable caching."
+msgstr "Sæt 0 for at deaktivere caching."
+
+#: backend/classes/class_wbk_backend_options.php:6300
+msgid "Set 0 to not delete automatically"
+msgstr "Vælg 0 for ikke at slette automatisk"
+
+#: backend/classes/class_wbk_backend_options.php:4892
+msgid "Set 0 to not disable time slots"
+msgstr "Vælg 0 for ikke at deaktivere tider"
+
+#: backend/classes/class_wbk_backend_options.php:6364
+msgid "Set expiration time on approve"
+msgstr "Sæt udløbstid ved godkendelse"
+
+#: backend/classes/class_wbk_backend_options.php:6363
+msgid "Set expiration time on booking"
+msgstr "Sæt udløbstid ved booking"
+
+#: backend/classes/class_wbk_backend_options.php:3316
+msgid "Set status after booking is paid with WooCommerce to:"
+msgstr "Sæt status efter aftalen er betalt med WooCommerce til:"
+
+#: backend/classes/class_wbk_backend_options.php:4310
+msgid ""
+"Set the initial number of invoice. Placeholder for notifications: "
+"#invoice_number"
+msgstr ""
+"Sæt første fakturanummer. Pladsholder for notifikationer: #invoice_number"
+
+#: backend/classes/class_wbk_backend_options.php:6173
+msgid ""
+"Set this option to override the business hours of certain services on "
+"specific dates."
+msgstr ""
+"Sæt dette valg for at tilsidesætte åbningstider for bestemte tjenester på "
+"bestemte dage."
+
+#: backend/templates/tpl_wbk_backend_options.php:8
+msgid "Settings"
+msgstr "Opsætning"
+
+#: vendor/plugion/utils/class-plugion-translator.php:81
+#: webba-booking-lite.php:709
+msgid "Show _MENU_ entries"
+msgstr "Vis _MENU_ indgange"
+
+#: backend/classes/class_wbk_backend_options.php:183
+msgid "Show booked time slots"
+msgstr "Vis bookede tider"
+
+#: backend/classes/class_wbk_backend_options.php:517
+msgid "Show cancel button"
+msgstr "Vis annulér knappen"
+
+#: backend/classes/class_wbk_backend_options.php:3418
+msgid "Show category name after service name"
+msgstr "Vis kategorinavn efter tjenestenavn"
+
+#: backend/classes/class_wbk_backend_options.php:5036
+msgid "Show details and BOOK button"
+msgstr "Vis detaljer og BOOK knappen"
+
+#: backend/classes/class_wbk_backend_options.php:2198
+msgid "Show details of previous bookings"
+msgstr "Vis detaljer for den forrige booking"
+
+#: backend/classes/class_wbk_backend_options.php:1474
+msgid "Show local time in time slots"
+msgstr "Vis lokal tid i tiderne"
+
+#: backend/classes/class_wbk_backend_options.php:2041
+msgid "Show locked time slots as booked"
+msgstr "Vis låst tid som booket"
+
+#: common/class_wbk_ajax_controller.php:412
+#: common/class_wbk_ajax_controller.php:419
+msgid "Show more"
+msgstr "Vis flere"
+
+#: backend/classes/class_wbk_backend_schedule.php:63
+msgid "Show next week"
+msgstr "Vis næste uge"
+
+#: backend/classes/class_wbk_backend_options.php:2107
+msgid "Show night hours time slots in previous day"
+msgstr "Vis nattider for forrige dag"
+
+#: backend/classes/class_wbk_backend_options.php:1405
+msgid "Show service description"
+msgstr "Vis tjenestebeskrivelse"
+
+#: backend/classes/class_wbk_backend_options.php:1326
+msgid "Show suitable hours"
+msgstr "Vis passende tider"
+
+#: backend/classes/class_wbk_backend_options.php:5037
+msgid "Show time button only"
+msgstr "Vis kun tids knappen"
+
+#: vendor/plugion/utils/class-plugion-translator.php:79
+#: webba-booking-lite.php:707
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Vis 0 til 0 af 0 poster"
+
+#: backend/classes/class_wbk_backend_options.php:5578
+msgid ""
+"Since version 3.3.61 you can use general placeholders in this option. More "
+"information: "
+msgstr ""
+"Viden version 3.3.61 har du kunnet anvende en generel pladsholder her. Mere "
+"information:"
+
+#: backend/classes/class_wbk_backend_options.php:6796
+msgid "Singapore Dollar"
+msgstr "Singaporeansk dollar"
+
+#: backend/classes/class_wbk_backend_options.php:1365
+msgid "Skip time slot selection"
+msgstr "Spring over valg af tid"
+
+#: backend/classes/class_wbk_backend_options.php:4599
+msgid "Skip time slot selection if only one time slot is available."
+msgstr "Spring over valg af tid, hvis der kun er en ledig tid."
+
+#: frontend/classes/class_wbk_frontend_booking.php:314
+msgid "Something went wrong, please try again."
+msgstr "Noget gik galt, prøv venligst igen."
+
+#: backend/classes/class_wbk_backend_options.php:5253
+#: webba-booking-lite.php:218 webba-booking-lite.php:354
+msgid ""
+"Sorry, you can not cancel because you have exceeded the time allowed to do "
+"so."
+msgstr "Du kan desværre ikke aflyse, da det er for sent at gøre det."
+
+#: backend/classes/class_wbk_backend_options.php:484
+msgid "Special business hours"
+msgstr "Specielle åbningstider"
+
+#: backend/classes/class_wbk_backend_options.php:3746
+#: backend/classes/class_wbk_backend_options.php:5022
+#: backend/classes/class_wbk_backend_options.php:5023
+#: backend/classes/class_wbk_backend_schedule.php:1168
+#: backend/classes/class_wbk_backend_schedule.php:1227
+#: backend/classes/class_wbk_backend_schedule.php:1298
+#: backend/classes/class_wbk_backend_schedule.php:1368
+msgid "Start"
+msgstr "Start"
+
+#: backend/classes/class_wbk_backend_options.php:3747
+msgid "Start - End"
+msgstr "Start- Slut"
+
+#: frontend/classes/class_wbk_frontend_booking.php:456
+msgid "Start booking"
+msgstr "Start booking"
+
+#: common/class_wbk_db_utils.php:2693
+msgid "State"
+msgstr "Tilstand"
+
+#: common/class_wbk_db_utils.php:2717
+#: common/class_wbk_email_notifications.php:237
+#: common/google_api/class_wbk_gg.php:107
+#: common/google_api/class_wbk_gg.php:114 model/class-wbk-model.php:150
+#: model/class-wbk-model.php:198 utilities/class_wbk_model_utils.php:180
+msgid "Status"
+msgstr "Tilstand"
+
+#: model/class-wbk-model.php:59
+msgid "Step (minutes)"
+msgstr "Trin (minutter)"
+
+#: backend/solo-framework/solo-framework.php:356
+msgid "Step separator border"
+msgstr "Trin adskillelse grænse"
+
+#: backend/solo-framework/solo-framework.php:347
+msgid "Step separator margin"
+msgstr "Trin adskillelse margen"
+
+#: backend/classes/class_wbk_backend_options.php:2986
+msgid "Stripe"
+msgstr "Stripe"
+
+#: backend/classes/class_wbk_backend_options.php:2609
+msgid "Stripe API error message"
+msgstr "Stripe API fejlmeddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:2583
+msgid "Stripe button text"
+msgstr "Stripe knap tekst"
+
+#: backend/classes/class_wbk_backend_options.php:2596
+msgid "Stripe card element error message"
+msgstr "Stripe kort fejlmeddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:6615
+msgid "Stripe tax option"
+msgstr "Stripe skattevalg"
+
+#: backend/classes/class_wbk_backend_options.php:6876
+#: backend/classes/class_wbk_backend_options.php:6880
+msgid "Stripe tax updated"
+msgstr "Stripe skat opdateret"
+
+#: backend/solo-framework/solo-framework.php:1106
+msgid "Sub-title align"
+msgstr "Undertitel justering"
+
+#: backend/solo-framework/solo-framework.php:1124
+msgid "Sub-title color"
+msgstr "Undertitel farve"
+
+#: backend/solo-framework/solo-framework.php:1115
+msgid "Sub-title font size"
+msgstr "Undertitel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1133
+msgid "Sub-title font style"
+msgstr "Undertitel skrifttype"
+
+#: backend/solo-framework/solo-framework.php:1142
+msgid "Sub-title font weight"
+msgstr "Undertitel skriftvægt"
+
+#: backend/classes/class_wbk_backend_options.php:1094
+msgid "Subject of administrator reminders"
+msgstr "Emne for administrator opmindelser"
+
+#: backend/classes/class_wbk_backend_options.php:708
+msgid "Subject of an email to a customer (on approval)"
+msgstr "Emne for et mail til en kunde (ved godkendelse)"
+
+#: backend/classes/class_wbk_backend_options.php:641
+msgid "Subject of an email to a customer (on booking)"
+msgstr "Emne for et mail til en kunde (ved booking)"
+
+#: backend/classes/class_wbk_backend_options.php:668
+msgid "Subject of an email to a customer (on manual booking)"
+msgstr "Emne for et mail til en kunde (ved manuel booking)"
+
+#: backend/classes/class_wbk_backend_options.php:1054
+msgid "Subject of an email to a customer (on status changed to arrived)"
+msgstr "Emne for et mail til en kunde (ved statusændring til ankommet)"
+
+#: backend/classes/class_wbk_backend_options.php:880
+msgid "Subject of an email to a customers from the group"
+msgstr "Emne for et mail til kunder i en gruppe"
+
+#: backend/classes/class_wbk_backend_options.php:774
+msgid "Subject of an email to administrator (on cancellation)"
+msgstr "Emne for et mail til administrator (ved aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:936
+msgid "Subject of an email to an administrator (on booking)"
+msgstr "Emne for et mail til administrator (ved booking)"
+
+#: backend/classes/class_wbk_backend_options.php:976
+msgid "Subject of an email to an administrator (on payment received)"
+msgstr "Emne for et mail til administrator (ved betaling modtaget)"
+
+#: backend/classes/class_wbk_backend_options.php:828
+msgid "Subject of an email to customer (on cancellation)"
+msgstr "Emne for et mail til en kunde (ved aflysning)"
+
+#: backend/classes/class_wbk_backend_options.php:1015
+msgid "Subject of an email to to a customer (on payment received)"
+msgstr "Emne for et mail til en kunde (ved betaling modtaget)"
+
+#: backend/classes/class_wbk_backend_options.php:1148
+msgid "Subject of customer reminders"
+msgstr "Emne for en kundepåmindelse"
+
+#: webba-booking-lite.php:203 webba-booking-lite.php:328
+msgid "Subtotal"
+msgstr "Subtotaler"
+
+#: backend/classes/class_wbk_backend_options.php:2007
+msgid "Subtotal title"
+msgstr "Subtotaler titel"
+
+#: webba-booking-lite.php:189 webba-booking-lite.php:298
+msgid "Suitable hours"
+msgstr "Passende tider"
+
+#: backend/classes/class_wbk_backend_options.php:4973
+msgid "Sum"
+msgstr "Sum"
+
+#: frontend/classes/class_wbk_frontend_booking.php:287
+msgid "Sun"
+msgstr "Søn"
+
+#: backend/classes/class_wbk_backend_options.php:3649
+#: backend/classes/class_wbk_backend_schedule.php:1166
+#: backend/classes/class_wbk_backend_schedule.php:1224
+#: backend/classes/class_wbk_backend_schedule.php:1295
+#: backend/classes/class_wbk_backend_schedule.php:1365
+#: common/class_wbk_ajax_controller.php:107
+#: common/class_wbk_business_hours.php:421
+#: common/class_wbk_date_time_utils.php:124
+#: common/class_wbk_date_time_utils.php:234
+#: frontend/classes/class_wbk_frontend_booking.php:280
+#: renderer/templates/plugion/input_pe_business_hours.php:21
+msgid "Sunday"
+msgstr "Søndag"
+
+#: backend/classes/class_wbk_backend_options.php:6797
+msgid "Swedish Krona"
+msgstr "Svensk krone"
+
+#: backend/classes/class_wbk_backend_options.php:6798
+msgid "Swiss Franc"
+msgstr "Schweiziske franc"
+
+#: backend/classes/class_wbk_backend_options.php:3161
+msgid "Synchronization of group services:"
+msgstr "Synkronisering af gruppe tjenester:"
+
+#: backend/classes/class_wbk_backend_options.php:6799
+msgid "Taiwan New Dollar"
+msgstr "Taiwan, nye dollar"
+
+#: backend/classes/class_wbk_backend_options.php:2915
+#: backend/classes/class_wbk_backend_options.php:3213
+#: common/PayPal/class_wbk_paypal.php:280
+#: common/stripe/class_wbk_stripe.php:211
+#: common/stripe/class_wbk_stripe_blank.php:196
+msgid "Tax"
+msgstr "Skat"
+
+#: backend/classes/class_wbk_backend_options.php:1544
+msgid "Tax used for #total_amount placeholder"
+msgstr "Skat brugt for #total_amount placeholder"
+
+#: model/class-wbk-model.php:115
+msgid "Template"
+msgstr "Skabelon"
+
+#: backend/classes/class_wbk_backend_options.php:1803
+msgid "Text after the time in time slot"
+msgstr "Tekst efter tiden i tider"
+
+#: backend/classes/class_wbk_backend_options.php:1790
+msgid "Text before the time in time slot"
+msgstr "Tekst før tiden i tider"
+
+#: backend/solo-framework/solo-framework.php:709
+msgid "Text color"
+msgstr "Tekst farve"
+
+#: backend/classes/class_wbk_backend_options.php:2453
+msgid "Text of the approval link (administrator)"
+msgstr "Tekst for godkendelseslinket (administrator)"
+
+#: backend/classes/class_wbk_backend_options.php:2440
+msgid "Text of the cancellation link (administrator)"
+msgstr "Tekst for afvisningslinket (administrator)"
+
+#: backend/classes/class_wbk_backend_options.php:2426
+msgid "Text of the cancellation link (customer)"
+msgstr "Tekst for afvisningslinket (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:2466
+msgid "Text of the link for adding to customer's Google Calendar"
+msgstr "Tekst for linket, som tilføjer til kundens Google kalender"
+
+#: backend/classes/class_wbk_backend_options.php:2413
+msgid "Text of the payment link (customer)"
+msgstr "Tekst for betalingslinket (kunde)"
+
+#: backend/classes/class_wbk_backend_options.php:5577
+msgid "Text on booked time slot. Available placeholders: #username, #time."
+msgstr "Tekst på den bookede tid, Tilgængelige pladsholdere: #username, #time."
+
+#: backend/classes/class_wbk_backend_options.php:6800
+msgid "Thai Baht"
+msgstr "Thailandske baht"
+
+#: webba-booking-lite.php:188 webba-booking-lite.php:199
+#: webba-booking-lite.php:302
+msgid "Thanks for booking appointment"
+msgstr "Tak for din aftalebooking"
+
+#: backend/classes/class_wbk_backend_options.php:3689
+msgid ""
+"The amount of time slots allowed to your customers to reserve at a time."
+msgstr "Tidsrum, hvor dine kunder må reservere en tid."
+
+#: backend/classes/class_wbk_backend_options.php:3431
+msgid "The default number of dates to display on the appointment page"
+msgstr "standard antal dage, som vises på aftalesiden"
+
+#: backend/classes/class_wbk_backend_options.php:5874
+msgid ""
+"The example above show how to show customer's name and last name. The last "
+"name is stored in the custom field with id \"lastname\" in this example."
+msgstr ""
+"Eksemplet ovenfor viser, hvordan kundens for- og efternavn vises. "
+"Efternavnet er gemt i tilvalgsfeltet med id \"efternavn\" i dette eksempel."
+
+#: renderer/templates/backend_page.php:78
+msgid "The Google Calendar API require PHP 5.4 or greater. Your version is "
+msgstr "Google kalender API kræver PHP 5.4 eller nyere. Din version er "
+
+#: backend/classes/class_wbk_backend_options.php:6935
+msgid "The id of the product used for booking (should be a simple product)."
+msgstr "ID for produktet brugt til booking (skal være et enkelt produkt)"
+
+#: backend/classes/class_wbk_backend_options.php:4852
+msgid "The number of days from today that available for booking"
+msgstr "Antal dage fra i dag, som er tilgængelige for booking"
+
+#: backend/classes/class_wbk_backend_options.php:4866
+msgid "The number of days to check availability for in the popup calendar"
+msgstr "Antal dage i pop-op kalenderen, hvor tilgængelighed skal kontrolleres"
+
+#: backend/classes/class_wbk_backend_options.php:1570
+msgid "The number of digits in the fractional part of the price"
+msgstr "Antal cifre i den fraktionale del af prisen"
+
+#: backend/classes/class_wbk_backend_options.php:4839
+msgid "The number of hours after midnight"
+msgstr "Antal timer efter midnat"
+
+#: backend/classes/class_wbk_backend_options.php:7188
+msgid ""
+"The regularity of the cron job should be less than the \"Refresh cache "
+"after\" option."
+msgstr "Cronjobbet skal køre sjældnere end \"Opfrisk cache efter\" parameteren."
+
+#: backend/classes/class_wbk_backend_options.php:6814
+msgid "The tax used for payments made with PayPal. Percentage of an amount"
+msgstr "Skat brugt ved betalinger via PayPal. Procent af beløbet."
+
+#: backend/classes/class_wbk_backend_options.php:6848
+msgid "The tax used for payments made with Stripe. Percentage of an amount"
+msgstr "Skat brugt ved betalinger via Stripe. Procent af beløbet."
+
+#: common/woocommerce/class_wbk_woocommerce.php:245
+msgid "There are no bookings available for adding to cart"
+msgstr "Der er ingen aftaler tilgængelig til indkøbsvognen"
+
+#: backend/classes/class_wbk_backend_options.php:5793
+#: webba-booking-lite.php:213 webba-booking-lite.php:352
+msgid "There are no bookings available for payment."
+msgstr "Der er ingen aftaler tilgængelig for betaling"
+
+#: backend/classes/class_wbk_backend_options.php:4960
+msgid "This option applies to services with a multiple places per time slot"
+msgstr "Dette valg hører til tjenester med flere placeringer per tid"
+
+#: backend/classes/class_wbk_backend_options.php:6619
+msgid ""
+"This option is used when calculating the total amount with #total_amount "
+"placeholders in email and interface messages"
+msgstr ""
+"Dette valg bruges ved beregning af det totale beløb med #total_amount "
+"placeholders i mails og meddelelser"
+
+#: backend/classes/class_wbk_backend_options.php:6857
+msgid ""
+"This option should be used if the price of your service is set in a currency "
+"not supported by PayPal and you need to convert it to currency supported by "
+"PayPal before checkout."
+msgstr ""
+"Dette valg bruges, når prisen på din tjeneste er sat i en valuta, som ikke "
+"understøttes af PayPal, og du må konvertere det til en valuta, som "
+"understøttes af PayPal inden betaling."
+
+#: backend/classes/class_wbk_backend_options.php:4513
+msgid ""
+"This page will be used as a landing for payment or cancellation. Page should "
+"contain [webba_email_landing] or [webba_booking] shortcode."
+msgstr ""
+"Denne side bruges som landingsside efter betaling eller aflysning. Siden "
+"skal indeholde [webba_email_landing] eller [webba_booking] shortcode."
+
+#: frontend/classes/class_wbk_frontend_booking.php:291
+msgid "Thu"
+msgstr "Tors"
+
+#: backend/classes/class_wbk_backend_schedule.php:1163
+#: backend/classes/class_wbk_backend_schedule.php:1221
+#: backend/classes/class_wbk_backend_schedule.php:1292
+#: backend/classes/class_wbk_backend_schedule.php:1362
+#: common/class_wbk_ajax_controller.php:95
+#: common/class_wbk_business_hours.php:412
+#: common/class_wbk_date_time_utils.php:115
+#: common/class_wbk_date_time_utils.php:225
+#: frontend/classes/class_wbk_frontend_booking.php:284
+#: renderer/templates/plugion/input_pe_business_hours.php:25
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:12
+#: common/class_wbk_db_utils.php:2710
+#: common/class_wbk_email_notifications.php:232
+#: frontend/templates/tpl_wbk_frontend_feature_appointments.php:20
+#: frontend/templates/tpl_wbk_frontend_feature_appointments_category.php:24
+#: model/class-wbk-model.php:138 model/class-wbk-model.php:186
+#: utilities/class_wbk_model_utils.php:173
+#: vendor/plugion/utils/class-plugion-translator.php:95
+#: webba-booking-lite.php:723
+msgid "Time"
+msgstr "Tid"
+
+#: backend/solo-framework/solo-framework.php:876
+msgid "Time color"
+msgstr "Tid farve"
+
+#: backend/solo-framework/solo-framework.php:867
+msgid "Time font size"
+msgstr "Tid skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:885
+msgid "Time font style"
+msgstr "Tid skrifttype"
+
+#: backend/solo-framework/solo-framework.php:894
+msgid "Time font weight"
+msgstr "Tid skriftvægt"
+
+#: backend/classes/class_wbk_backend_options.php:113
+msgid "Time format"
+msgstr "Tid format"
+
+#: backend/classes/class_wbk_backend_options.php:3801
+msgid "Time format updated"
+msgstr "Tidsformat opdateret"
+
+#: backend/classes/class_wbk_backend_options.php:1391
+msgid "Time hole optimization"
+msgstr "Tids gab optimering"
+
+#: backend/solo-framework/solo-framework.php:903
+msgid "Time line height"
+msgstr "Tidslinie højde"
+
+#: backend/classes/class_wbk_backend_options.php:1175
+msgid "Time of a daily reminder"
+msgstr "Tid for daglig påmindelse"
+
+#: backend/solo-framework/solo-framework.php:994
+msgid "Time slot active button background"
+msgstr "Tid aktiv knap baggrund"
+
+#: backend/solo-framework/solo-framework.php:1003
+msgid "Time slot active button color"
+msgstr "Tid aktiv knap farve"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:99
+msgid "Time slot auto lock"
+msgstr "Tid autolås"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:100
+msgid "Time slot auto unlock"
+msgstr "Tid auto oplåsning"
+
+#: backend/solo-framework/solo-framework.php:922
+msgid "Time slot available color"
+msgstr "Tid ledig farve"
+
+#: backend/solo-framework/solo-framework.php:931
+msgid "Time slot available font style"
+msgstr "Tid ledig skrifttype"
+
+#: backend/solo-framework/solo-framework.php:940
+msgid "Time slot available font weight"
+msgstr "Tid ledig skriftvægt"
+
+#: backend/solo-framework/solo-framework.php:949
+msgid "Time slot available line height"
+msgstr "Tid ledig linehøjde"
+
+#: backend/solo-framework/solo-framework.php:859
+msgid "Time slot background color"
+msgstr "Tid baggrundsfarve"
+
+#: backend/solo-framework/solo-framework.php:841
+msgid "Time slot block border"
+msgstr "Tid område grænse"
+
+#: backend/solo-framework/solo-framework.php:823
+msgid "Time slot block margin"
+msgstr "Tid område margen"
+
+#: backend/solo-framework/solo-framework.php:832
+msgid "Time slot block padding"
+msgstr "Tid område udfyldning"
+
+#: backend/solo-framework/solo-framework.php:850
+msgid "Time slot border radius"
+msgstr "Tid grænse radius"
+
+#: backend/solo-framework/solo-framework.php:967
+msgid "Time slot button background"
+msgstr "Tid knap baggrund "
+
+#: backend/solo-framework/solo-framework.php:976
+msgid "Time slot button border"
+msgstr "Tid knap grænse"
+
+#: backend/solo-framework/solo-framework.php:985
+msgid "Time slot button color"
+msgstr "Tid knap farve"
+
+#: backend/solo-framework/solo-framework.php:1012
+msgid "Time slot button font size"
+msgstr "Tid knap skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1030
+msgid "Time slot button font style"
+msgstr "Tid knap skrifttype"
+
+#: backend/solo-framework/solo-framework.php:1039
+msgid "Time slot button font weight"
+msgstr "Tid knap skriftvægt"
+
+#: backend/solo-framework/solo-framework.php:1021
+msgid "Time slot button line height"
+msgstr "Tid knap liniehøjde"
+
+#: backend/solo-framework/solo-framework.php:958
+msgid "Time slot button margin"
+msgstr "Tid knap margen"
+
+#: backend/classes/class_wbk_backend_options.php:1460
+msgid "Time slot format"
+msgstr "Tid knap format"
+
+#: backend/solo-framework/solo-framework.php:913
+msgid "Time slot time available size"
+msgstr "Tidblok ledig tid størrelse"
+
+#: backend/solo-framework/solo-framework.php:877
+msgid "Time slot time color"
+msgstr "Tidblok tid farve"
+
+#: backend/solo-framework/solo-framework.php:868
+msgid "Time slot time font size"
+msgstr "Tidblok tid skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:886
+msgid "Time slot time font style"
+msgstr "Tidblok tid skrifttype"
+
+#: backend/solo-framework/solo-framework.php:895
+msgid "Time slot time font weight"
+msgstr "Tidblok tid skriftvægt"
+
+#: backend/solo-framework/solo-framework.php:904
+msgid "Time slot time line height"
+msgstr "Tidblok tid liniehøjde"
+
+#: backend/classes/class_wbk_backend_options.php:1446
+msgid "Time slot time string"
+msgstr "Tidblok tidstreng"
+
+#: frontend/classes/class_wbk_frontend_booking.php:315
+msgid "Time slot(s) already booked."
+msgstr "Tidblok allerede booket"
+
+#: backend/solo-framework/solo-framework.php:764
+msgid "Time slots"
+msgstr "Tidblok"
+
+#: backend/classes/class_wbk_backend_options.php:5137
+msgid "Time slots frontend label"
+msgstr "Tidblok frontend etiket"
+
+#: backend/classes/class_wbk_backend_options.php:1929
+#: backend/classes/class_wbk_backend_options.php:5845
+msgid "Time slots not found message"
+msgstr "Tidblok ikke fundet meddelelse"
+
+#: backend/classes/class_wbk_backend_options.php:127
+msgid "Timezone"
+msgstr "Tidszone"
+
+#: backend/classes/class_wbk_backend_options.php:5987
+msgid "Tip: set lower value for better performance."
+msgstr "Tip: sæt lavere værdi for bedre performance."
+
+#: backend/solo-framework/solo-framework.php:1052
+#: backend/solo-framework/solo-framework.php:1410
+msgid "Title align"
+msgstr "Titel justering"
+
+#: backend/solo-framework/solo-framework.php:1070
+msgid "Title color"
+msgstr "Titel farve"
+
+#: backend/solo-framework/solo-framework.php:1061
+msgid "Title font size"
+msgstr "Titel skriftstørrelse"
+
+#: backend/solo-framework/solo-framework.php:1079
+msgid "Title font style"
+msgstr "Titel skrifttype"
+
+#: backend/solo-framework/solo-framework.php:1088
+msgid "Title font weight"
+msgstr "Titel skriftvægt"
+
+#: backend/classes/class_wbk_backend_options.php:7187
+msgid ""
+"To regularly update the caching data, add the following URI to the cron job: "
+msgstr ""
+"Tilføj denne URI til cron jobbet for regelmæssigt at opdatere cached data:"
+
+#: frontend/classes/class_wbk_frontend_booking.php:294
+msgid "Today"
+msgstr "I dag"
+
+#: backend/classes/class_wbk_backend_options.php:3535
+#: backend/classes/class_wbk_backend_options.php:3584
+#: backend/classes/class_wbk_backend_options.php:3598
+#: backend/classes/class_wbk_backend_options.php:3970
+#: backend/classes/class_wbk_backend_options.php:4039
+#: backend/classes/class_wbk_backend_options.php:4052
+#: backend/classes/class_wbk_backend_options.php:4065
+#: backend/classes/class_wbk_backend_options.php:4079
+#: backend/classes/class_wbk_backend_options.php:4093
+#: backend/classes/class_wbk_backend_options.php:4175
+#: backend/classes/class_wbk_backend_options.php:4443
+#: backend/classes/class_wbk_backend_options.php:4460
+#: backend/classes/class_wbk_backend_options.php:4476
+#: backend/classes/class_wbk_backend_options.php:5831
+msgid "Toggle editor"
+msgstr "Skift editor"
+
+#: common/stripe/class_wbk_stripe.php:356
+#: common/stripe/class_wbk_stripe_blank.php:342
+msgid "too many requests made to the API too quickly"
+msgstr "for mange forespørgsler foretaget til API'en for hurtigt"
+
+#: webba-booking-lite.php:204 webba-booking-lite.php:329
+msgid "Total"
+msgstr "Total"
+
+#: backend/classes/class_wbk_backend_schedule.php:786
+#: backend/classes/class_wbk_backend_schedule.php:895
+msgid "Total locked: "
+msgstr "Total låst:"
+
+#: backend/classes/class_wbk_backend_options.php:2020
+msgid "Total title"
+msgstr "Total titel"
+
+#: backend/classes/class_wbk_backend_schedule.php:995
+#: backend/classes/class_wbk_backend_schedule.php:1102
+msgid "Total unlocked: "
+msgstr "Total tid"
+
+#: backend/classes/class_wbk_backend_options.php:1623
+msgid "Translation"
+msgstr "Oversættelse"
+
+#: plugion_extensions/class-wbk-pe-time.php:18
+msgid "Ttime entered incorrectly"
+msgstr "Fejl i indtastet tid"
+
+#: frontend/classes/class_wbk_frontend_booking.php:289
+msgid "Tue"
+msgstr "Tirs"
+
+#: backend/classes/class_wbk_backend_schedule.php:1161
+#: backend/classes/class_wbk_backend_schedule.php:1219
+#: backend/classes/class_wbk_backend_schedule.php:1290
+#: backend/classes/class_wbk_backend_schedule.php:1360
+#: common/class_wbk_ajax_controller.php:87
+#: common/class_wbk_business_hours.php:406
+#: common/class_wbk_date_time_utils.php:108
+#: common/class_wbk_date_time_utils.php:219
+#: frontend/classes/class_wbk_frontend_booking.php:282
+#: renderer/templates/plugion/input_pe_business_hours.php:23
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: common/class_wbk_db_utils.php:764 utilities/class_wbk_model_utils.php:126
+msgid "Two-ways"
+msgstr "Tovejs"
+
+#: backend/classes/class_wbk_backend_options.php:6801
+msgid "U.S. Dollar"
+msgstr "Amerikanske dollar"
+
+#: backend/solo-framework/core/class_slf_table.php:311
+msgid "Unable to add, please fix the following fields: "
+msgstr "Kan ikke tilføjes, ret venligst disse felter:"
+
+#: backend/classes/class_wbk_backend_options.php:5312
+#: webba-booking-lite.php:216 webba-booking-lite.php:357
+msgid "Unable to cancel booking, please check the email you've entered."
+msgstr ""
+"Kan ikke afbestille booking, kontroller venligst den angivne email adresse."
+
+#: common/class_wbk_ajax_controller.php:1144
+msgid "Unable to create payment."
+msgstr "Kunne ikke oprette betaling."
+
+#: common/class_wbk_ajax_controller.php:1612
+msgid "unable to initalize Stripe object"
+msgstr "Kunne ikke initialisere Stripe objekt"
+
+#: backend/solo-framework/core/class_slf_table.php:218
+msgid "Unable to save, please fix the following fields: "
+msgstr "Kunne ikke gemme, ret venligst disse felter:"
+
+#: webba-booking-lite.php:303
+msgid ""
+"Unfortunately we were unable to meet your search criteria. Please change the "
+"criteria and try again."
+msgstr ""
+"Vi var desværre ikke i stand til at indfri dine søgekriterier. Ret dem "
+"venligst op prøv igen."
+
+#: common/stripe/class_wbk_stripe.php:347
+#: common/stripe/class_wbk_stripe.php:371
+#: common/stripe/class_wbk_stripe_blank.php:333
+#: common/stripe/class_wbk_stripe_blank.php:357
+msgid "unknown error"
+msgstr "ukendt fejl"
+
+#: backend/classes/class_wbk_backend_schedule.php:1212
+msgid "Unlock all dates on range"
+msgstr "Lås alle datoer i intervallet op"
+
+#: backend/classes/class_wbk_backend_schedule.php:1353
+msgid "Unlock time slots on date range"
+msgstr "Lås tiderne i dato intervallet op"
+
+#: model/class-wbk-model.php:92
+msgid "Upper limit for multiple mode"
+msgstr "Øvre grænse for multi tilstand"
+
+#: model/class-wbk-model.php:248
+msgid "Usage limit"
+msgstr "Grænse for brug"
+
+#: backend/classes/class_wbk_backend_options.php:7217
+msgid "Use customer's calendar time zone"
+msgstr "Brug kundens kalender tidszone"
+
+#: backend/classes/class_wbk_backend_options.php:4943
+msgid "Use Low limit value of service"
+msgstr "Brug nedre grænse for tjeneste"
+
+#: backend/classes/class_wbk_backend_options.php:5952
+msgid "Use square brackets to set column headers."
+msgstr "Brug kantede paranteser til at sætte kolonne overskrifter"
+
+#: backend/classes/class_wbk_backend_options.php:5872
+msgid ""
+"Use this option if you need show custom fields near customer name in the "
+"appointments table and in the schedules."
+msgstr ""
+"Brug dette valg, hvis du har brug for at vise tilpassede felter nær "
+"kundenavn i aftale tabellen i aftaleoversigterne."
+
+#: backend/classes/class_wbk_backend_options.php:6856
+msgid "Use this option if you need to update price before data sent to PayPal."
+msgstr ""
+"rug dette valg, hvis du har brug for at opdatere prisen, inden data sendes "
+"til PayPal."
+
+#: backend/classes/class_wbk_backend_options.php:4286
+msgid ""
+"Use this option to control the dispatch of the invoice in parallel with the "
+"notification."
+msgstr ""
+"Brug dette vald til at kontrollere udsendelsen af faktura parallelt med "
+"notifikationen."
+
+#: backend/classes/class_wbk_backend_options.php:4944
+msgid "Use Up limit value of services"
+msgstr "Brug øvre grænse fir tjenesten."
+
+#: backend/classes/class_wbk_backend_options.php:7216
+msgid "Use Webba Booking time zone"
+msgstr "Brug Webba Booking tidszone."
+
+#: model/class-wbk-model.php:250
+msgid "Used"
+msgstr "Brugt"
+
+#: backend/classes/class_wbk_backend_options.php:3735
+msgid ""
+"Used in the \"Appointments\" page controls. d - day, m - month, y - year."
+msgstr "Brugt i \"Aftaler\" sidens kontroller. d - dag, m - måned, y - år."
+
+#: backend/classes/class_wbk_backend_options.php:3708
+msgid "Used only for dropdown date select."
+msgstr "Bruges kun ved dropdown datovalg."
+
+#: model/class-wbk-model.php:231
+msgid "User"
+msgstr "Bruger"
+
+#: common/class_wbk_db_utils.php:2721 model/class-wbk-model.php:149
+#: model/class-wbk-model.php:197 utilities/class_wbk_model_utils.php:184
+msgid "User IP"
+msgstr "Bruger IP"
+
+#: model/class-wbk-model.php:39
+msgid "Users"
+msgstr "Brugere"
+
+#: backend/classes/class_wbk_backend_options.php:3303
+msgid "Validate WooCommerce coupons as Webba Coupons"
+msgstr "Valider WooCommerce kuponer som Webba Kuponer"
+
+#: vendor/plugion/utils/class-plugion-translator.php:68
+#: webba-booking-lite.php:696
+#, php-format
+msgid "Validation of %s failed"
+msgstr "Validering af %s mislykkedes"
+
+#: vendor/plugion/utils/class-plugion-translator.php:66
+#: webba-booking-lite.php:694
+#, php-format
+msgid "Value of %s is not acceptable"
+msgstr "Værdien af %s er uacceptabel"
+
+#: backend/classes/class_wbk_backend_options.php:2400
+msgid "Warning message on cancel booking (buffer)"
+msgstr "Advarselsmeddelelse for aflys booking (buffer)"
+
+#: backend/classes/class_wbk_backend_options.php:2385
+msgid "Warning message on cancel booking (reason: paid booking)"
+msgstr "Advarselsmeddelelse for aflys booking (årsag: betalt booking)"
+
+#: backend/class_wbk_backend.php:84
+msgid "Webba Booking"
+msgstr "Webba Booking"
+
+#: backend/class_wbk_backend.php:164
+msgid "Webba Booking Email landing"
+msgstr "Webba Booking Email landing"
+
+#: backend/class_wbk_backend.php:163
+msgid "Webba Booking form"
+msgstr "Webba Booking formular"
+
+#: backend/classes/class_wbk_backend_options.php:6309
+#: backend/classes/class_wbk_backend_options.php:6315
+#: backend/classes/class_wbk_backend_options.php:6398
+#: backend/classes/class_wbk_backend_options.php:6404
+msgid "Webba Booking: expiration time setting updated"
+msgstr "Webba Booking: udløbstid opdateret"
+
+#: frontend/classes/class_wbk_frontend_booking.php:290
+msgid "Wed"
+msgstr "Ons"
+
+#: backend/classes/class_wbk_backend_schedule.php:1162
+#: backend/classes/class_wbk_backend_schedule.php:1220
+#: backend/classes/class_wbk_backend_schedule.php:1291
+#: backend/classes/class_wbk_backend_schedule.php:1361
+#: common/class_wbk_ajax_controller.php:91
+#: common/class_wbk_business_hours.php:409
+#: common/class_wbk_date_time_utils.php:112
+#: common/class_wbk_date_time_utils.php:222
+#: frontend/classes/class_wbk_frontend_booking.php:283
+#: renderer/templates/plugion/input_pe_business_hours.php:24
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: backend/classes/class_wbk_backend_options.php:85
+msgid "Week starts on"
+msgstr "Ugen starter på"
+
+#: backend/classes/class_wbk_backend_options.php:3148
+msgid "When add events in admin calendar"
+msgstr "Når en begivenhed tilføjes i admin kalender"
+
+#: backend/classes/class_wbk_backend_options.php:3271
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: backend/classes/class_wbk_backend_options.php:2740
+msgid "WooCommerce button text"
+msgstr "WooCommerce knap tekst"
+
+#: common/woocommerce/class_wbk_woocommerce.php:233
+msgid "WooCommerce not found"
+msgstr "WooCommerce ikke fundet"
+
+#: backend/classes/class_wbk_backend_options.php:3651
+msgid "Wordpress default"
+msgstr "Wordpress standard"
+
+#: backend/classes/class_wbk_backend_options.php:3730
+msgid "y-m-d"
+msgstr "y-m-d"
+
+#: backend/classes/class_wbk_backend_options.php:3729
+msgid "y/m/d"
+msgstr "y/m/d"
+
+#: backend/classes/class_wbk_backend_options.php:4556
+#: backend/classes/class_wbk_backend_options.php:4711
+#: backend/classes/class_wbk_backend_options.php:4729
+#: backend/classes/class_wbk_backend_options.php:4765
+#: backend/classes/class_wbk_backend_options.php:4781
+#: backend/classes/class_wbk_backend_options.php:4796
+#: backend/classes/class_wbk_backend_options.php:4808
+#: backend/classes/class_wbk_backend_options.php:5911
+#: backend/classes/class_wbk_backend_options.php:6635
+#: backend/classes/class_wbk_backend_options.php:7266
+#: backend/classes/class_wbk_backend_options.php:7283
+msgid "Yes"
+msgstr "Ja"
+
+#: backend/classes/class_wbk_backend_options.php:6554
+#: backend/classes/class_wbk_backend_options.php:6575
+msgid "yes"
+msgstr "ja"
+
+#: vendor/plugion/utils/class-plugion-translator.php:100
+#: webba-booking-lite.php:728
+msgid "Yes, delete it."
+msgstr "Ja, slet."
+
+#: backend/classes/class_wbk_backend_options.php:4747
+msgid "Yes, load version 6.21.1 (not recommended)"
+msgstr "Ja, indlæs version 6.21.1 (ikke anbefalet)"
+
+#: backend/classes/class_wbk_backend_options.php:4746
+msgid "Yes, load version 7.26.0"
+msgstr "Ja, indlæs version 7.26.0"
+
+#: webba-booking-lite.php:300
+msgid "You are booking #service on #date  at #time <br>Please, fill in a form:"
+msgstr "Du booker #service den #date kl. #time <br>Udfyld venligst formularen:"
+
+#: backend/classes/class_wbk_backend_options.php:7068
+#: frontend/classes/class_wbk_frontend_booking.php:329
+msgid "You have reached your booking limit."
+msgstr "Du har nået din booking grænse."
+
+#: webba-booking-lite.php:277
+msgid "You have successfully booked an appointment"
+msgstr "Du har gennemført at booke en aftale"
+
+#: backend/classes/class_wbk_backend_options.php:5278
+#: webba-booking-lite.php:215 webba-booking-lite.php:356
+msgid "Your appointment booking has been canceled."
+msgstr "Din aftale er blevet aflyst."
+
+#: backend/classes/class_wbk_backend_options.php:4021
+#: common/class_wbk_email_notifications.php:63 webba-booking-lite.php:371
+msgid "Your appointment canceled"
+msgstr "Din aftale er aflyst"
+
+#: backend/classes/class_wbk_backend_options.php:4142
+#: webba-booking-lite.php:280
+msgid "Your booking has been approved"
+msgstr "Din booking er blevet godkendt"
+
+#: common/class_wbk_ajax_controller.php:1012
+msgid "Your booking should be paid on arrival"
+msgstr "Din booking skal betales ved ankomsten"
+
+#: webba-booking-lite.php:349
+msgid "Your local time:<br>#ds<br>#ts"
+msgstr "Din lokale tid:<br>#ds<br>#ts"

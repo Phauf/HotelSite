@@ -1,0 +1,83 @@
+$filterbox-bg-color: #fff !default;
+
+.filterbox {
+  margin: 0;
+  width: 100%;
+  display: block;
+  margin-bottom: 1.5em;
+}
+
+.filterbox__wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 100%;
+  padding: 1em;
+  border-radius: 1px;
+
+  background-color: $filterbox-bg-color;
+  border: solid 1px $border-color;
+  box-shadow: 0 1px 2px rgba(black, .08);
+
+  @include media-breakpoint-up(md) {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.filterbox__box:not(:last-child) {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: solid 1px #eeeeee;
+
+  @include media-breakpoint-up(md) {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.filterbox__box-wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+
+  > .filterbox__label {
+    flex-grow: 1;
+    display: block;
+    margin-right: 7px;
+    line-height: 1.4;
+  }
+
+  select.input-transparent {
+    width: auto !important;
+    line-height: 1.4;
+  }
+}
+
+.filterbox__showprice {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.filterbox__showprice-item {
+  float: left;
+  line-height: 1.4;
+
+  &:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  a {
+    color: #888;
+  }
+
+  a:hover,
+  a:focus,
+  &.active > a {
+    color: #1a1a1a;
+  }
+}

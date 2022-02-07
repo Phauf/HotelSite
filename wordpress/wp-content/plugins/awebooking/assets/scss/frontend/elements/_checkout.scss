@@ -1,0 +1,110 @@
+.awebooking-checkout .content-area {
+  width: 100%;
+}
+
+.awebooking {
+  #checkout-services-form,
+  #checkout-form,
+  .checkout__section--guest-details,
+  .checkout__section--guest-additional-information {
+    margin-bottom: 1.75em;
+  }
+
+  .payment-methods {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 1.75em;
+  }
+
+  .payment-method {
+    padding: 1em;
+    border-radius: 3px;
+    margin-bottom: 1em;
+    background-color: #f7f7f7;
+    position: relative;
+    box-sizing: border-box;
+
+    .payment-method__label {
+      cursor: pointer;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &.selected {
+      box-shadow: 0 0 0 2px lighten($primary, 5%);
+    }
+  }
+
+  .payment-method__description {
+    padding-left: $custom-control-gutter;
+
+    p {
+      color: #8c8c8c;
+      margin-top: 0;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .payment-method__controls {
+    display: none;
+  }
+  .selected .payment-method__controls {
+    display: block !important;
+  }
+}
+
+/**
+   * Order page
+   */
+ul.booking_details {
+  @include clearfix();
+  margin: 0 0 1em;
+  list-style: none;
+  padding: 10px;
+  display: inline-flex;
+  border: dashed 2px #6d6d6d;
+
+  li {
+    float: left;
+    margin-right: 2em;
+    text-transform: uppercase;
+    font-size: 0.715em;
+    line-height: 1;
+    border-right: 1px dashed darken( $secondary, 10% );
+    padding-right: 2em;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+
+    strong {
+      display: block;
+      font-size: 1.4em;
+      text-transform: none;
+      line-height: 1.5;
+    }
+
+    &:last-of-type {
+      border: none;
+    }
+  }
+}
+
+#checkout-form {
+  .cmb-row {
+    padding: 3px;
+    margin: 0 0 6px;
+  }
+
+  .required {
+    color: red;
+    font-weight: 700;
+    border: 0!important;
+    text-decoration: none;
+  }
+}

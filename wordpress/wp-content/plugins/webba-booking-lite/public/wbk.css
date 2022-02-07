@@ -1,0 +1,76 @@
+.wbk_business_hours_group{
+    width: 100%;
+    display: block;
+    clear: both;
+    margin-bottom: 15px;
+}
+.wbk_repeater_add_btn{
+    clear: both;
+    display: inline-block;
+    margin: 10px 5px 16px 0;
+    font-size: 14px !important;
+    text-decoration: none;
+    outline: none !important;
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #7e8993 !important;
+    padding: 5px 10px !important;
+    background: transparent !important;
+    cursor: pointer;
+    margin-left: 1px;
+    font-weight: normal !important;
+    text-transform: none !important;
+    font-family: oboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+}
+.wbk_repeater_delete_btn{
+    font-size: 36px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    display: block;
+    width: 23px;
+    height: 22px;
+    float: right;
+    line-height: 12px;
+    cursor: pointer;
+}
+.wbk_business_hours_group_time {
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.plugion_input_container .ui-slider-horizontal {
+    box-shadow: none;
+    border-radius: 0;
+
+}
+
+.plugion_input_container .ui-slider-handle{
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #cbc4c4 !important;
+    outline: none !important;
+    background-image: none !important;
+    background-color: #ddd !important;
+}
+
+.plugion_input_container .ui-slider-range{
+    top: 0 !important;
+    background: #002838 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.plugion_input_container .ui-slider-handle:after{
+    display: none;
+}
+
+input[name="amount"] {
+    display: block !important;
+}
+input[name="min_quantity"] {
+    display: block !important;
+}
